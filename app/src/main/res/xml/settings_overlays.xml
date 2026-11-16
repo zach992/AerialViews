@@ -49,6 +49,11 @@
                     app:fragment="com.neilturner.aerialviews.ui.settings.OverlaysDateFragment"/>
 
                 <Preference
+                    app:title="@string/appearance_music_fact_title"
+                    app:summary="@string/appearance_music_fact_summary"
+                    app:fragment="com.neilturner.aerialviews.ui.settings.OverlaysMusicFactFragment"/>
+
+                <Preference
                     app:title="@string/appearance_message_title"
                     app:summary="@string/appearance_message_summary"
                     app:fragment="com.neilturner.aerialviews.ui.settings.OverlaysMessageFragment"/>

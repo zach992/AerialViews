@@ -38,6 +38,10 @@ object FontHelper {
                         ResourcesCompat.getFont(context, R.font.googlesans)
                     }
 
+                    "inter" -> {
+                        ResourcesCompat.getFont(context, R.font.inter)
+                    }
+
                     else -> {
                         Typeface.create("san-serif", Typeface.NORMAL)
                     }

@@ -83,6 +83,9 @@ android {
             applicationIdSuffix = ".debug"
             isDebuggable = true
             isMinifyEnabled = false
+            // Flavor signing configs point at private release keystores. When those files are
+            // absent, keep this build installable with the debug keystore instead.
+            signingConfig = signingConfigs.getByName("debug")
             // isPseudoLocalesEnabled = true
 
             // The performance plugin instruments every OkHttp call in the app, which turns the
@@ -138,30 +141,30 @@ android {
     flavorDimensions += "version"
     productFlavors {
         create("github") {
-            signingConfig = signingConfigs.getByName("legacy")
+            signingConfig = signingConfigs.getByName("legacy").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
         }
         create("beta") {
-            signingConfig = signingConfigs.getByName("legacy")
+            signingConfig = signingConfigs.getByName("legacy").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
             isDefault = true
             versionNameSuffix = betaVersion
         }
         create("googleplay") {
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = signingConfigs.getByName("release").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
         }
         create("googleplaybeta") {
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = signingConfigs.getByName("release").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
             versionNameSuffix = betaVersion
         }
         create("amazon") {
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = signingConfigs.getByName("release").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
         }
         create("fdroid") {
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = signingConfigs.getByName("release").takeIf { it.storeFile?.exists() == true }
             dimension = "version"
 
             // The F-Droid flavor leaves the Firebase libraries out (see firebaseFlavors below), so

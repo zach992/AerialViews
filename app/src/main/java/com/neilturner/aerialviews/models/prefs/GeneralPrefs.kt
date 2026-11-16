@@ -22,7 +22,7 @@ object GeneralPrefs : KotprefModel() {
     override val kotprefName = "${context.packageName}_preferences"
 
     // Overlays - Top
-    var slotTopLeft1 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_left1")
+    var slotTopLeft1 by nullableEnumValuePref(OverlayType.MUSIC_FACT, "slot_top_left1")
     var slotTopLeft2 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_left2")
     var slotTopRight1 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_right1")
     var slotTopRight2 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_right2")
@@ -47,6 +47,10 @@ object GeneralPrefs : KotprefModel() {
     var nowPlayingSize2 by stringPref("18", "nowplaying_size2")
     var nowPlayingWeight2 by stringPref("300", "nowplaying_weight2")
     var nowPlayingShortenTrackName by booleanPref(false, "nowplaying_shorten_track_name")
+
+    // This Day in Music
+    var musicFactSize by stringPref("18", "music_fact_size")
+    var musicFactWeight by stringPref("300", "music_fact_weight")
 
     // Date
     var dateFormat by nullableEnumValuePref(DateType.COMPACT, "date_format")
@@ -184,7 +188,7 @@ object GeneralPrefs : KotprefModel() {
     var showBottomGradient by booleanPref(true, "gradient_bottom_show")
 
     // Typeface (for whole app)
-    var fontTypeface by stringPref("google-sans", "font_typeface")
+    var fontTypeface by stringPref("inter", "font_typeface")
 
     // Overlay opacity (visible alpha for all overlays)
     var overlayOpacity by stringPref("100", "overlay_opacity")

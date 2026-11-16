@@ -17,6 +17,7 @@ import com.neilturner.aerialviews.ui.overlays.CountdownOverlay
 import com.neilturner.aerialviews.ui.overlays.DateOverlay
 import com.neilturner.aerialviews.ui.overlays.MessageOverlay
 import com.neilturner.aerialviews.ui.overlays.MetadataOverlay
+import com.neilturner.aerialviews.ui.overlays.MusicFactOverlay
 import com.neilturner.aerialviews.ui.overlays.NowPlayingOverlay
 import com.neilturner.aerialviews.ui.overlays.WeatherForecastOverlay
 import com.neilturner.aerialviews.ui.overlays.WeatherNowOverlay
@@ -375,6 +376,12 @@ class OverlayHelper(
                 CountdownOverlay(context).apply {
                     applyFontToTextView(this, prefs.countdownSize.toFloat(), prefs.countdownWeight)
                     type = overlay
+                }
+            }
+
+            OverlayType.MUSIC_FACT -> {
+                MusicFactOverlay(context).apply {
+                    applyFontToTextView(this, prefs.musicFactSize.toFloat(), prefs.musicFactWeight)
                 }
             }
 
