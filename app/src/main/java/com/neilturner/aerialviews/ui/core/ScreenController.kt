@@ -50,6 +50,7 @@ import com.neilturner.aerialviews.ui.helpers.RefreshRateHelper
 import com.neilturner.aerialviews.ui.helpers.WindowHelper
 import com.neilturner.aerialviews.ui.overlays.MessageOverlay
 import com.neilturner.aerialviews.ui.overlays.MetadataOverlay
+import com.neilturner.aerialviews.ui.overlays.MusicFactOverlay
 import com.neilturner.aerialviews.ui.overlays.NowPlayingOverlay
 import com.neilturner.aerialviews.ui.overlays.WeatherForecastOverlay
 import com.neilturner.aerialviews.ui.overlays.WeatherNowOverlay
@@ -57,7 +58,9 @@ import com.neilturner.aerialviews.ui.overlays.state.MessageOverlayState
 import com.neilturner.aerialviews.ui.overlays.state.OverlayEventBridge
 import com.neilturner.aerialviews.ui.overlays.state.OverlayStateStore
 import com.neilturner.aerialviews.ui.overlays.state.OverlayUiState
+import com.neilturner.aerialviews.utils.CitySpotlight
 import com.neilturner.aerialviews.utils.DreamTiming
+import com.neilturner.aerialviews.utils.MusicFactCatalog
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
@@ -68,6 +71,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 import me.kosert.flowbus.GlobalBus
 import timber.log.Timber
+import java.time.LocalDate
 import kotlin.math.abs
 import kotlin.time.Duration.Companion.milliseconds
 
@@ -84,6 +88,7 @@ class ScreenController(
     OnImagePlayerEventListener {
     private val mainScope = CoroutineScope(Dispatchers.Main)
     private lateinit var playlist: MediaPlaylist
+    private var citySpotlight: CitySpotlight<AerialMedia>? = null
     private var overlayHelper: OverlayHelper
     private val resources by lazy { context.resources }
     private var isStopped = false
@@ -281,8 +286,13 @@ class ScreenController(
             }
 
             // Build playlist and start screensaver
+            val musicCitySpotlight =
+                GeneralPrefs.musicFactCityVideos && overlayHelper.findOverlay<MusicFactOverlay>().isNotEmpty()
             val mediaResult =
-                MediaService(context).fetchMedia { status ->
+                MediaService(
+                    context,
+                    config = MediaService.Config.fromPreferences().copy(musicCitySpotlight = musicCitySpotlight),
+                ).fetchMedia { status ->
                     mainScope.launch {
                         loadingText.text =
                             when (status) {
@@ -294,6 +304,7 @@ class ScreenController(
                     }
                 }
             playlist = mediaResult.mediaPlaylist
+            citySpotlight = mediaResult.citySpotlight
             DreamTiming.mark("playlist.resolved", "size=${playlist.size};cached=${mediaResult.isFromCache}")
             if (playlist.size > 0) {
                 Timber.i("Playlist size: ${playlist.size}")
@@ -863,7 +874,7 @@ class ScreenController(
             if (previous) {
                 playlist.previousItem()
             } else {
-                playlist.nextItem()
+                nextCityClip() ?: playlist.nextItem()
             }
 
         if (media == null) {
@@ -873,6 +884,17 @@ class ScreenController(
         }
 
         loadItem(media)
+    }
+
+    /**
+     * A clip of the city behind today's music fact, slotted in between playlist items. The
+     * playlist position is left alone, so the saved cache position is unaffected.
+     */
+    private fun nextCityClip(): AerialMedia? {
+        val spotlight = citySpotlight ?: return null
+        val (clip, selection) = spotlight.next(MusicFactCatalog.dateKey(LocalDate.now())) ?: return null
+        Timber.i("City clip for ${selection.dateKey}: ${selection.footageKey} (direct=${selection.isDirect})")
+        return clip.copy(metadata = clip.metadata.copy(cityCaption = selection.caption.orEmpty()))
     }
 
     private fun savePlaybackPosition() {

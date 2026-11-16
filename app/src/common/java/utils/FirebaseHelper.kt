@@ -1,16 +1,53 @@
 package com.neilturner.aerialviews.utils
 
+import android.content.Context
 import android.os.Bundle
 import com.google.firebase.Firebase
+import com.google.firebase.FirebaseApp
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.analytics.analytics
 import com.google.firebase.crashlytics.crashlytics
+import timber.log.Timber
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
+import java.util.concurrent.Executors
 
 object FirebaseHelper {
     private const val LOGGING_END_DATE = "2026-11-01"
+
+    // One thread so initializeApp always finishes before any Firebase call, and none of that
+    // work sits on the main thread where it would delay the dream binding.
+    private val executor =
+        Executors.newSingleThreadExecutor { runnable ->
+            Thread(runnable, "firebase-init").apply { isDaemon = true }
+        }
+
+    @Volatile
+    private var appContext: Context? = null
+
+    fun start(context: Context) {
+        appContext = context.applicationContext
+        executor.execute { initialize() }
+    }
+
+    private fun initialize() {
+        val context = appContext ?: return
+        if (FirebaseApp.getApps(context).isEmpty()) {
+            FirebaseApp.initializeApp(context)
+        }
+    }
+
+    private fun submit(block: () -> Unit) {
+        executor.execute {
+            try {
+                initialize()
+                block()
+            } catch (ex: Exception) {
+                Timber.w(ex, "Firebase call failed")
+            }
+        }
+    }
 
     private fun isWithinLoggingPeriod(): Boolean {
         val simpleDateFormat = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault())
@@ -23,12 +60,15 @@ object FirebaseHelper {
         screenName: String,
         screenClass: Any,
     ) {
-        val parameters =
-            Bundle().apply {
-                putString(FirebaseAnalytics.Param.SCREEN_NAME, screenName)
-                putString(FirebaseAnalytics.Param.SCREEN_CLASS, screenClass::class.java.simpleName)
-            }
-        Firebase.analytics.logEvent(FirebaseAnalytics.Event.SCREEN_VIEW, parameters)
+        val screenClassName = screenClass::class.java.simpleName
+        submit {
+            val parameters =
+                Bundle().apply {
+                    putString(FirebaseAnalytics.Param.SCREEN_NAME, screenName)
+                    putString(FirebaseAnalytics.Param.SCREEN_CLASS, screenClassName)
+                }
+            Firebase.analytics.logEvent(FirebaseAnalytics.Event.SCREEN_VIEW, parameters)
+        }
     }
 
     fun analyticsEvent(
@@ -37,7 +77,10 @@ object FirebaseHelper {
         alwaysLog: Boolean = false,
     ) {
         if (isWithinLoggingPeriod() || alwaysLog) {
-            Firebase.analytics.logEvent(eventName, parameters)
+            val copy = Bundle(parameters)
+            submit {
+                Firebase.analytics.logEvent(eventName, copy)
+            }
         }
     }
 
@@ -46,8 +89,10 @@ object FirebaseHelper {
         alwaysLog: Boolean = false,
     ) {
         if (isWithinLoggingPeriod() || alwaysLog) {
-            ex?.let {
-                Firebase.crashlytics.recordException(ex)
+            ex?.let { error ->
+                submit {
+                    Firebase.crashlytics.recordException(error)
+                }
             }
         }
     }
@@ -57,7 +102,9 @@ object FirebaseHelper {
         alwaysLog: Boolean = false,
     ) {
         if (isWithinLoggingPeriod() || alwaysLog) {
-            Firebase.crashlytics.log(error)
+            submit {
+                Firebase.crashlytics.log(error)
+            }
         }
     }
 
@@ -67,14 +114,16 @@ object FirebaseHelper {
         alwaysLog: Boolean = false,
     ) {
         if (isWithinLoggingPeriod() || alwaysLog) {
-            when (value) {
-                is String -> Firebase.crashlytics.setCustomKey(key, value)
-                is Int -> Firebase.crashlytics.setCustomKey(key, value)
-                is Long -> Firebase.crashlytics.setCustomKey(key, value)
-                is Float -> Firebase.crashlytics.setCustomKey(key, value)
-                is Double -> Firebase.crashlytics.setCustomKey(key, value)
-                is Boolean -> Firebase.crashlytics.setCustomKey(key, value)
-                else -> Firebase.crashlytics.setCustomKey(key, value.toString())
+            submit {
+                when (value) {
+                    is String -> Firebase.crashlytics.setCustomKey(key, value)
+                    is Int -> Firebase.crashlytics.setCustomKey(key, value)
+                    is Long -> Firebase.crashlytics.setCustomKey(key, value)
+                    is Float -> Firebase.crashlytics.setCustomKey(key, value)
+                    is Double -> Firebase.crashlytics.setCustomKey(key, value)
+                    is Boolean -> Firebase.crashlytics.setCustomKey(key, value)
+                    else -> Firebase.crashlytics.setCustomKey(key, value.toString())
+                }
             }
         }
     }

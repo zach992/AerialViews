@@ -1,8 +1,13 @@
 package com.neilturner.aerialviews.utils
 
+import android.content.Context
 import android.os.Bundle
 
 object FirebaseHelper {
+    fun start(context: Context) {
+        // No op. This flavor does not ship Firebase.
+    }
+
     fun logException(ex: Throwable) {
         // No op
     }

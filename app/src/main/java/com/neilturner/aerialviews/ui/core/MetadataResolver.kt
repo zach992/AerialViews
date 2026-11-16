@@ -51,6 +51,17 @@ internal class MetadataResolver(
     ): ResolvedMetadata {
         val selection = parseSelection(preferences.videoSelection)
 
+        // A city clip for today's music fact names its own place plus the tie-in. Only applies
+        // where the slot would show the clip's location (POI or description), not a filename.
+        val cityCaption = media.metadata.cityCaption.trim()
+        if (cityCaption.isNotBlank() && selection.firstOrNull() in LOCATION_ENTRIES) {
+            return ResolvedMetadata(
+                text = cityCaption,
+                poi = emptyMap(),
+                metadataType = MetadataType.STATIC,
+            )
+        }
+
         for (entry in selection) {
             when (entry) {
                 "POI" -> {
@@ -395,6 +406,10 @@ internal class MetadataResolver(
             .split(",")
             .map { it.trim().uppercase(Locale.ROOT) }
             .filter { it.isNotBlank() }
+
+    private companion object {
+        val LOCATION_ENTRIES = setOf("POI", "DESC", "LOCATION")
+    }
 
     private sealed class MediaLocationResolution {
         data object ContinueFallback : MediaLocationResolution()

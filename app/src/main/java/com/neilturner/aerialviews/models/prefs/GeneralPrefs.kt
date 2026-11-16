@@ -22,7 +22,7 @@ object GeneralPrefs : KotprefModel() {
     override val kotprefName = "${context.packageName}_preferences"
 
     // Overlays - Top
-    var slotTopLeft1 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_left1")
+    var slotTopLeft1 by nullableEnumValuePref(OverlayType.MUSIC_FACT, "slot_top_left1")
     var slotTopLeft2 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_left2")
     var slotTopRight1 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_right1")
     var slotTopRight2 by nullableEnumValuePref(OverlayType.EMPTY, "slot_top_right2")
@@ -35,24 +35,29 @@ object GeneralPrefs : KotprefModel() {
 
     // Clock
     var clockFormat by nullableEnumValuePref(ClockType.DEFAULT, "clock_format")
-    var clockSize by stringPref("18", "clock_size")
-    var clockWeight by stringPref("300", "clock_weight")
+    var clockSize by stringPref("15", "clock_size")
+    var clockWeight by stringPref("400", "clock_weight")
     var clockForceLatinDigits by booleanPref(false, "clock_force_latin_digits")
 
     // Music
     var nowPlayingLine1 by nullableEnumValuePref(NowPlayingFormat.SONG_ARTIST, "nowplaying_line1")
     var nowPlayingLine2 by nullableEnumValuePref(NowPlayingFormat.DISABLED, "nowplaying_line2")
-    var nowPlayingSize1 by stringPref("18", "nowplaying_size1")
-    var nowPlayingWeight1 by stringPref("300", "nowplaying_weight1")
-    var nowPlayingSize2 by stringPref("18", "nowplaying_size2")
-    var nowPlayingWeight2 by stringPref("300", "nowplaying_weight2")
+    var nowPlayingSize1 by stringPref("15", "nowplaying_size1")
+    var nowPlayingWeight1 by stringPref("400", "nowplaying_weight1")
+    var nowPlayingSize2 by stringPref("15", "nowplaying_size2")
+    var nowPlayingWeight2 by stringPref("400", "nowplaying_weight2")
     var nowPlayingShortenTrackName by booleanPref(false, "nowplaying_shorten_track_name")
+
+    // This Day in Music
+    var musicFactSize by stringPref("15", "music_fact_size")
+    var musicFactWeight by stringPref("400", "music_fact_weight")
+    var musicFactCityVideos by booleanPref(true, "music_fact_city_videos")
 
     // Date
     var dateFormat by nullableEnumValuePref(DateType.COMPACT, "date_format")
     var dateCustom by stringPref("yyyy-MM-dd", "date_custom")
-    var dateWeight by stringPref("300", "date_weight")
-    var dateSize by stringPref("18", "date_size")
+    var dateWeight by stringPref("400", "date_weight")
+    var dateSize by stringPref("15", "date_size")
 
     // Weather
     var weatherLocationName by stringPref("", "weather_location_name")
@@ -63,12 +68,12 @@ object GeneralPrefs : KotprefModel() {
     var weatherTemperatureUnits by nullableEnumValuePref(TemperatureUnit.METRIC, "weather_temperature_units")
 
     var weatherLine1Layout by stringPref("TEMPERATURE,ICON,SUMMARY", "weather_forecast") // FIX
-    var weatherLine1Size by stringPref("18", "weather_line1_size")
-    var weatherLine1Weight by stringPref("300", "weather_line1_weight")
+    var weatherLine1Size by stringPref("15", "weather_line1_size")
+    var weatherLine1Weight by stringPref("400", "weather_line1_weight")
 
     var weatherLine2Days by stringPref("3", "weather_line2_days")
-    var weatherLine2Size by stringPref("18", "weather_line2_size")
-    var weatherLine2Weight by stringPref("300", "weather_line2_weight")
+    var weatherLine2Size by stringPref("15", "weather_line2_size")
+    var weatherLine2Weight by stringPref("400", "weather_line2_weight")
 
     var weatherWind by stringPref("", "weather_wind")
     var weatherWindUnits by nullableEnumValuePref(WindSpeedUnit.METERS, "weather_temperature_units")
@@ -85,8 +90,8 @@ object GeneralPrefs : KotprefModel() {
     var overlayMetadata1PhotosDateType by nullableEnumValuePref(DateType.COMPACT, "overlay_metadata1_photo_date_type")
     var overlayMetadata1PhotosDateCustom by stringPref("yyyy-MM-dd HH:mm", "overlay_metadata1_photo_date_custom")
 
-    var overlayMetadata1Size by stringPref("18", "overlay_metadata1_size")
-    var overlayMetadata1Weight by stringPref("300", "overlay_metadata1_weight") // Message
+    var overlayMetadata1Size by stringPref("15", "overlay_metadata1_size")
+    var overlayMetadata1Weight by stringPref("400", "overlay_metadata1_weight") // Message
 
     var overlayMetadata2Videos by stringPref("POI", "overlay_metadata2_videos")
     var overlayMetadata2VideosFolderLevel by stringPref("1", "overlay_metadata2_video_folder_levels")
@@ -98,8 +103,8 @@ object GeneralPrefs : KotprefModel() {
     var overlayMetadata2PhotosDateType by nullableEnumValuePref(DateType.COMPACT, "overlay_metadata2_photo_date_type")
     var overlayMetadata2PhotosDateCustom by stringPref("yyyy-MM-dd HH:mm", "overlay_metadata2_photo_date_custom")
 
-    var overlayMetadata2Size by stringPref("18", "overlay_metadata2_size")
-    var overlayMetadata2Weight by stringPref("300", "overlay_metadata2_weight") // Message
+    var overlayMetadata2Size by stringPref("15", "overlay_metadata2_size")
+    var overlayMetadata2Weight by stringPref("400", "overlay_metadata2_weight") // Message
 
     var overlayMetadata3Videos by stringPref("POI", "overlay_metadata3_videos")
     var overlayMetadata3VideosFolderLevel by stringPref("1", "overlay_metadata3_video_folder_levels")
@@ -111,8 +116,8 @@ object GeneralPrefs : KotprefModel() {
     var overlayMetadata3PhotosDateType by nullableEnumValuePref(DateType.COMPACT, "overlay_metadata3_photo_date_type")
     var overlayMetadata3PhotosDateCustom by stringPref("yyyy-MM-dd HH:mm", "overlay_metadata3_photo_date_custom")
 
-    var overlayMetadata3Size by stringPref("18", "overlay_metadata3_size")
-    var overlayMetadata3Weight by stringPref("300", "overlay_metadata3_weight") // Message
+    var overlayMetadata3Size by stringPref("15", "overlay_metadata3_size")
+    var overlayMetadata3Weight by stringPref("400", "overlay_metadata3_weight") // Message
 
     var overlayMetadata4Videos by stringPref("POI", "overlay_metadata4_videos")
     var overlayMetadata4VideosFolderLevel by stringPref("1", "overlay_metadata4_video_folder_levels")
@@ -124,16 +129,16 @@ object GeneralPrefs : KotprefModel() {
     var overlayMetadata4PhotosDateType by nullableEnumValuePref(DateType.COMPACT, "overlay_metadata4_photo_date_type")
     var overlayMetadata4PhotosDateCustom by stringPref("yyyy-MM-dd HH:mm", "overlay_metadata4_photo_date_custom")
 
-    var overlayMetadata4Size by stringPref("18", "overlay_metadata4_size")
-    var overlayMetadata4Weight by stringPref("300", "overlay_metadata4_weight") // Message
+    var overlayMetadata4Size by stringPref("15", "overlay_metadata4_size")
+    var overlayMetadata4Weight by stringPref("400", "overlay_metadata4_weight") // Message
 
     var messageLine1 by stringPref("", "message_line1")
     var messageLine2 by stringPref("", "message_line2")
     var messageLine3 by stringPref("", "message_line3")
     var messageLine4 by stringPref("", "message_line4")
 
-    var messageSize by stringPref("18", "message_size")
-    var messageWeight by stringPref("300", "message_weight")
+    var messageSize by stringPref("15", "message_size")
+    var messageWeight by stringPref("400", "message_weight")
     var messageAnimateChanges by booleanPref(false, "message_animate_changes")
 
     var messageApiEnabled by booleanPref(false, "message_api_enabled")
@@ -143,8 +148,8 @@ object GeneralPrefs : KotprefModel() {
     var countdownTargetTime by stringPref("", "countdown_target_time")
     var countdownTargetMessage by stringPref("", "countdown_target_message")
     var countdownLabel by stringPref("", "countdown_label")
-    var countdownSize by stringPref("18", "countdown_size")
-    var countdownWeight by stringPref("300", "countdown_weight")
+    var countdownSize by stringPref("15", "countdown_size")
+    var countdownWeight by stringPref("400", "countdown_weight")
 
     // Other
     var alternateTextPosition by booleanPref(true, "alt_text_position")
@@ -152,8 +157,8 @@ object GeneralPrefs : KotprefModel() {
     // Startup + Shutdown
     var showLoadingText by booleanPref(true, "startup_show_loading")
     var startScreensaverOnLaunch by booleanPref(false, "startup_screensaver_on_launch")
-    var loadingTextSize by stringPref("18", "startup_size")
-    var loadingTextWeight by stringPref("300", "startup_weight")
+    var loadingTextSize by stringPref("15", "startup_size")
+    var loadingTextWeight by stringPref("400", "startup_weight")
 
     // Animation
     var overlayFadeInDuration by stringPref("600", "overlay_fade_in_duration")
@@ -184,7 +189,7 @@ object GeneralPrefs : KotprefModel() {
     var showBottomGradient by booleanPref(true, "gradient_bottom_show")
 
     // Typeface (for whole app)
-    var fontTypeface by stringPref("google-sans", "font_typeface")
+    var fontTypeface by stringPref("unbounded", "font_typeface")
 
     // Overlay opacity (visible alpha for all overlays)
     var overlayOpacity by stringPref("100", "overlay_opacity")

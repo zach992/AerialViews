@@ -34,6 +34,7 @@ import com.neilturner.aerialviews.providers.Comm1MediaProvider
 import com.neilturner.aerialviews.providers.Comm2MediaProvider
 import com.neilturner.aerialviews.providers.LocalMediaProvider
 import com.neilturner.aerialviews.providers.MediaProvider
+import com.neilturner.aerialviews.providers.ProviderFetchResult
 import com.neilturner.aerialviews.providers.custom.CustomFeedProvider
 import com.neilturner.aerialviews.providers.immich.ImmichMediaProvider
 import com.neilturner.aerialviews.providers.ncmemories.NCMemoriesMediaProvider
@@ -42,7 +43,9 @@ import com.neilturner.aerialviews.providers.webdav.WebDavMediaProvider
 import com.neilturner.aerialviews.services.MediaServiceHelper.addMetadataToManifestVideos
 import com.neilturner.aerialviews.services.MediaServiceHelper.buildProviderContent
 import com.neilturner.aerialviews.services.MediaServiceHelper.weightedInterleavedShuffle
+import com.neilturner.aerialviews.utils.CitySpotlight
 import com.neilturner.aerialviews.utils.FirebaseHelper
+import com.neilturner.aerialviews.utils.MusicCityCatalog
 import com.neilturner.aerialviews.utils.filename
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -66,6 +69,7 @@ class MediaService(
         val shuffleMusic: Boolean,
         val repeatMusic: Boolean,
         val wifiOnly: Boolean = false,
+        val musicCitySpotlight: Boolean = false,
     ) {
         companion object {
             fun fromPreferences() =
@@ -143,13 +147,24 @@ class MediaService(
                     TimeOfDayFilter.ALL
                 }
 
+            // Excluded before anything is fetched, so remote providers are never contacted over
+            // cellular. The cache is written after this filter, so its size, chunk offsets and
+            // saved position all stay in a single index space.
+            val activeProviders =
+                if (filterRemote) {
+                    Timber.i("MediaService: WiFi-only mode enabled, excluding REMOTE providers (not on WiFi/Ethernet)")
+                    providers.filter { it.type != ProviderSourceType.REMOTE }
+                } else {
+                    providers
+                }
+
             if (config.playlistCache) {
                 if (cacheRepo != null && cacheRepo.isCacheValid(settingsHash, filter)) {
                     val cached = cacheRepo.getCachedPlaylist(filter)
                     if (cached != null) {
                         onStatus(LoadingStatus.RESUMING)
                         Timber.i("MediaService: USING CACHED PLAYLIST")
-                        return@withContext cached
+                        return@withContext cached.copy(citySpotlight = buildCitySpotlight(activeProviders, filter))
                     } else {
                         Timber.w("MediaService: Cache reported valid but failed to load")
                     }
@@ -162,18 +177,9 @@ class MediaService(
                 onStatus(LoadingStatus.LOADING)
             }
 
-            // Excluded before anything is fetched, so remote providers are never contacted over
-            // cellular. The cache is written after this filter, so its size, chunk offsets and
-            // saved position all stay in a single index space.
-            val activeProviders =
-                if (filterRemote) {
-                    Timber.i("MediaService: WiFi-only mode enabled, excluding REMOTE providers (not on WiFi/Ethernet)")
-                    providers.filter { it.type != ProviderSourceType.REMOTE }
-                } else {
-                    providers
-                }
-
             val (media, tracks) = buildProviderContent(activeProviders)
+            // Runs after the provider fetch so the manifest providers are only built once.
+            val citySpotlight = buildCitySpotlight(activeProviders, filter)
 
             // Split into videos and photos
             var (videos, photos) = media.partition { it.type == AerialMediaType.VIDEO }
@@ -272,7 +278,7 @@ class MediaService(
                 val cachedResult = cacheRepo.getCachedPlaylist(filter)
                 if (cachedResult != null) {
                     Timber.i("MediaService: Fresh playlist cached and loaded from DB (${filteredMedia.size} items)")
-                    return@withContext cachedResult
+                    return@withContext cachedResult.copy(citySpotlight = citySpotlight)
                 }
                 Timber.w("MediaService: Failed to read back cached playlist, falling back to in-memory")
             } else {
@@ -282,8 +288,53 @@ class MediaService(
             return@withContext MediaFetchResult(
                 mediaPlaylist = MediaPlaylist(filter.apply(filteredMedia)),
                 musicPlaylist = musicPlaylist,
+                citySpotlight = citySpotlight,
             )
         }
+
+    /**
+     * Clips from the shipped aerial manifests (Apple, Amazon, Community) whose own manifest entry
+     * is a place in the music-city catalog. Respects each provider's enabled, quality, scene and
+     * time-of-day settings, the WiFi-only filter, and the current time-of-day period.
+     */
+    private suspend fun buildCitySpotlight(
+        activeProviders: List<MediaProvider>,
+        filter: TimeOfDayFilter,
+    ): CitySpotlight<AerialMedia>? {
+        if (!config.musicCitySpotlight) return null
+        return try {
+            val catalog =
+                context.assets.open(MusicCityCatalog.ASSET_FILE).bufferedReader().use { reader ->
+                    MusicCityCatalog.parse(reader.readText())
+                }
+            val clips = mutableListOf<AerialMedia>()
+            activeProviders
+                .filter { it.enabled && it.isShippedManifest() }
+                .forEach { provider ->
+                    val result = provider.fetch()
+                    if (result is ProviderFetchResult.Success) {
+                        val tagged = result.media.filter { catalog.matchesAnySet(it.uri.filename) }
+                        clips += provider.fetchMetadata(tagged)
+                    }
+                }
+            val available =
+                clips
+                    .filter { it.type == AerialMediaType.VIDEO }
+                    .filter { !filter.enabled || filter.includes(it) }
+                    .distinctBy { it.uri.filename.lowercase() }
+            Timber.i("MediaService: ${available.size} music-city clips available")
+            CitySpotlight(catalog, available) { it.uri.filename }
+        } catch (ex: Exception) {
+            Timber.e(ex, "MediaService: Unable to build music-city clips")
+            null
+        }
+    }
+
+    private fun MediaProvider.isShippedManifest(): Boolean =
+        this is AppleMediaProvider ||
+            this is AmazonMediaProvider ||
+            this is Comm1MediaProvider ||
+            this is Comm2MediaProvider
 
     private fun trackMediaUsage(media: List<AerialMedia>) {
         // Count distinct sources
