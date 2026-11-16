@@ -11,9 +11,10 @@ import com.neilturner.aerialviews.utils.MusicFactCatalog
 import java.time.LocalDate
 
 /**
- * Music-business note for today's date. One line when it fits, two when the
- * fact is long. Uses [R.style.OverlayText] and the shared font helper, with no
- * background of its own. Re-checks the date while the screensaver is running.
+ * Music-business note for today's date. A short fact stays on one line; a long
+ * one uses a second line. Those lines may wrap on a narrow screen or at a large
+ * text size, and the whole note stays visible. Uses [R.style.OverlayText] and
+ * the shared font helper, with no background of its own.
  */
 class MusicFactOverlay : AppCompatTextView {
     private var facts: Map<String, MusicFact> = emptyMap()
@@ -26,7 +27,10 @@ class MusicFactOverlay : AppCompatTextView {
 
     init {
         TextViewCompat.setTextAppearance(this, R.style.OverlayText)
-        maxLines = 2
+        // Do not cap the display line count. A fact is one or two logical lines, and
+        // those lines wrap on a narrow screen or at a large text size. At the default
+        // 15sp on a 1080p TV they still fit without wrapping.
+        ellipsize = null
         setLineSpacing(0f, 1.1f)
     }
 
