@@ -1,0 +1,5275 @@
+{
+ "01-01": {
+  "lines": [
+   "In 1962, the Beatles auditioned for Decca in London.",
+   "Decca signed the Tremeloes instead."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Decca Studios, West Hampstead",
+  "tieIn": "where the Beatles auditioned for Decca",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Decca_audition"
+  ],
+  "audit": "ok"
+ },
+ "01-02": {
+  "lines": [
+   "In 1983, Michael Jackson released 'Billie Jean' on Epic.",
+   "It spent 7 weeks at US No. 1."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Westlake Recording Studios",
+  "tieIn": "where 'Billie Jean' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Billie_Jean",
+   "https://en.wikipedia.org/wiki/Westlake_Recording_Studios"
+  ],
+  "audit": "ok"
+ },
+ "01-03": {
+  "lines": [
+   "In 1964, NBC's Jack Paar aired a Beatles clip of 'She Loves You'.",
+   "It came a month before Ed Sullivan."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.the-paulmccartney-project.com/1964/01/the-beatles-are-shown-on-the-jack-paar-program/",
+   "https://forgottenhits60s.blogspot.com/2024/01/january-3rd-1964.html"
+  ],
+  "note": "Not the very first US TV footage (Nov 1963 news clips) so worded as a clip, not a debut.",
+  "audit": "ok"
+ },
+ "01-04": {
+  "lines": [
+   "In 1967, the Doors released 'The Doors' on Elektra.",
+   "Paul A. Rothchild produced it."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Sunset Sound Recorders, Hollywood",
+  "tieIn": "where the Doors cut their debut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Doors_(album)"
+  ],
+  "audit": "ok"
+ },
+ "01-05": {
+  "lines": [
+   "In 1973, Bruce Springsteen released 'Greetings from Asbury Park, N.J.'",
+   "It was his debut LP for Columbia."
+  ],
+  "place": "Blauvelt",
+  "placeRegion": "New York, USA",
+  "placeDetail": "914 Sound Studios",
+  "tieIn": "where Springsteen cut his debut",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Greetings_from_Asbury_Park,_N.J."
+  ],
+  "audit": "ok"
+ },
+ "01-06": {
+  "lines": [
+   "In 1957, Elvis made his last Ed Sullivan Show appearance.",
+   "CBS shot him from the waist up."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "tieIn": "where Elvis was shown from the waist up",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "https://www.history.com/this-day-in-history/elvis-presley-first-appearance-the-ed-sullivan-show",
+   "https://www.openculture.com/2021/10/elvis-three-appearances-on-the-ed-sullivan-shows.html"
+  ],
+  "note": "Ed Sullivan Show broadcast from New York (CBS studio)",
+  "audit": "ok"
+ },
+ "01-07": {
+  "lines": [
+   "In 1955, Marian Anderson became the first Black singer at the Met.",
+   "She sang Ulrica in Verdi."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Metropolitan Opera",
+  "tieIn": "where Marian Anderson broke the Met's barrier",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marian_Anderson"
+  ],
+  "audit": "ok"
+ },
+ "01-08": {
+  "lines": [
+   "In 2016, David Bowie released 'Blackstar' on his 69th birthday.",
+   "It was his first US No. 1 album."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Magic Shop",
+  "tieIn": "where Bowie recorded 'Blackstar'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blackstar_(album)"
+  ],
+  "audit": "ok"
+ },
+ "01-09": {
+  "lines": [
+   "In 1984, Van Halen released '1984' on Warner Bros.",
+   "It went RIAA Diamond."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "5150 Studios, Studio City",
+  "tieIn": "where Van Halen recorded '1984'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1984_(Van_Halen_album)"
+  ],
+  "audit": "ok"
+ },
+ "01-10": {
+  "lines": [
+   "In 1964, Vee-Jay released 'Introducing... The Beatles' in the US.",
+   "Capitol's LP followed 10 days later."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Introducing..._The_Beatles"
+  ],
+  "note": "line 2 to verify",
+  "audit": "ok"
+ },
+ "01-11": {
+  "lines": [
+   "In 1992, Nirvana's 'Nevermind' hit No. 1 in the US.",
+   "It knocked off Michael Jackson's 'Dangerous'."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nevermind"
+  ],
+  "audit": "ok"
+ },
+ "01-12": {
+  "lines": [
+   "In 1959, Berry Gordy founded Tamla Records, later Motown.",
+   "He started with an $800 family loan."
+  ],
+  "place": "Detroit",
+  "placeRegion": "Michigan, USA",
+  "tieIn": "where Berry Gordy founded Motown",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Motown"
+  ],
+  "audit": "ok"
+ },
+ "01-13": {
+  "lines": [
+   "In 1968, Johnny Cash recorded 'At Folsom Prison' live.",
+   "Bob Johnston produced for Columbia."
+  ],
+  "place": "Folsom",
+  "placeRegion": "California, USA",
+  "placeDetail": "Folsom State Prison",
+  "tieIn": "where Johnny Cash played Folsom Prison",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/At_Folsom_Prison"
+  ],
+  "audit": "ok"
+ },
+ "01-14": {
+  "lines": [
+   "In 1973, Elvis played 'Aloha from Hawaii' live via satellite.",
+   "RCA's album hit US No. 1."
+  ],
+  "place": "Honolulu",
+  "placeRegion": "Hawaii, USA",
+  "placeDetail": "Honolulu International Center",
+  "tieIn": "where Elvis played 'Aloha from Hawaii'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aloha_from_Hawaii_via_Satellite"
+  ],
+  "audit": "ok"
+ },
+ "01-15": {
+  "lines": [
+   "In 1967, the Rolling Stones played 'The Ed Sullivan Show'.",
+   "They sang 'Let's spend some time together'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "tieIn": "where the Stones changed a lyric for TV",
+  "changed": true,
+  "sources": [
+   "https://www.udiscovermusic.com/stories/the-stones-controversial-start-to-1967/",
+   "https://ultimateclassicrock.com/rolling-stones-ed-sullivan-spend-some-time/",
+   "https://en.wikipedia.org/wiki/Let%27s_Spend_the_Night_Together"
+  ],
+  "note": "Ed Sullivan Show broadcast from New York",
+  "audit": "ok"
+ },
+ "01-16": {
+  "lines": [
+   "In 1957, the Cavern Club opened in Liverpool.",
+   "The Merseysippi Jazz Band played first."
+  ],
+  "place": "Liverpool",
+  "placeRegion": "England, UK",
+  "placeDetail": "The Cavern Club",
+  "tieIn": "where the Cavern Club opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Cavern_Club"
+  ],
+  "audit": "ok"
+ },
+ "01-17": {
+  "lines": [
+   "In 1974, Joni Mitchell released 'Court and Spark' on Asylum.",
+   "It peaked at US No. 2."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Studios, Hollywood",
+  "tieIn": "where 'Court and Spark' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Court_and_Spark"
+  ],
+  "audit": "ok"
+ },
+ "01-18": {
+  "lines": [
+   "In 1964, the Beatles first entered the Billboard Hot 100.",
+   "'I Want to Hold Your Hand' debuted at 45."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
+   "https://ultimateclassicrock.com/beatles-billboard-hot-100-chart-first-time/"
+  ],
+  "audit": "ok"
+ },
+ "01-19": {
+  "lines": [
+   "In 1980, Pink Floyd's 'The Wall' hit No. 1 in the US.",
+   "It stayed there 15 weeks."
+  ],
+  "changed": true,
+  "sources": [
+   "https://number1albums.com/the_wall_-_pink_floyd_january_19_1980/",
+   "https://en.wikipedia.org/wiki/The_Wall",
+   "https://www.avclub.com/pink-floyd-s-the-wall-1798226138"
+  ],
+  "audit": "ok"
+ },
+ "01-20": {
+  "lines": [
+   "In 1997, Daft Punk released their debut 'Homework' on Virgin.",
+   "They made it in their home studio."
+  ],
+  "place": "Paris",
+  "placeRegion": "France",
+  "placeDetail": "Daft House",
+  "tieIn": "where Daft Punk made 'Homework'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Homework_(Daft_Punk_album)"
+  ],
+  "audit": "ok"
+ },
+ "01-21": {
+  "lines": [
+   "In 1977, Pink Floyd released 'Animals' on Harvest in the UK.",
+   "It was cut at their Britannia Row studio."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Britannia Row Studios, Islington",
+  "tieIn": "where Pink Floyd recorded 'Animals'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Animals_(Pink_Floyd_album)"
+  ],
+  "note": "Aretha RRHOF induction rejected: date disputed (Jan 3 vs Jan 21 1987)",
+  "audit": "ok"
+ },
+ "01-22": {
+  "lines": [
+   "In 1968, Aretha Franklin released 'Lady Soul' on Atlantic.",
+   "It held R&B No. 1 for 16 weeks."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lady_Soul"
+  ],
+  "audit": "ok"
+ },
+ "01-23": {
+  "lines": [
+   "In 1986, the Rock and Roll Hall of Fame held its first induction.",
+   "Elvis was in the first class."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Waldorf-Astoria Hotel",
+  "tieIn": "where the Rock Hall inducted its first class",
+  "changed": true,
+  "sources": [
+   "https://bestclassicbands.com/rock-hall-inaugural-ceremony-1-23-16",
+   "https://americansongwriter.com/on-this-day-elvis-presley-little-richard-buddy-holly-and-more-become-first-inductees-into-the-rock-roll-hall-of-fame",
+   "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+   "https://catalog.rockhall.com/rrhof-ais/Details/fullCatalogue/200012483"
+  ],
+  "audit": "ok"
+ },
+ "01-24": {
+  "lines": [
+   "In 1967, Aretha Franklin cut her first Atlantic session.",
+   "It yielded 'I Never Loved a Man'."
+  ],
+  "place": "Muscle Shoals",
+  "placeRegion": "Alabama, USA",
+  "placeDetail": "FAME Studios",
+  "tieIn": "where Aretha cut her first Atlantic hit",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Never_Loved_a_Man_(The_Way_I_Love_You)_(song)",
+   "https://en.wikipedia.org/wiki/I_Never_Loved_a_Man_(The_Way_I_Love_You)"
+  ],
+  "note": "Article also credits Rick Hall as producer in technical credits; Wexler is infobox producer",
+  "audit": "ok"
+ },
+ "01-25": {
+  "lines": [
+   "In 1977, the Clash signed to CBS Records for 100,000 pounds."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "tieIn": "where the Clash signed with CBS",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garageland_(song)",
+   "https://en.wikipedia.org/wiki/The_Clash",
+   "https://faroutmagazine.co.uk/did-the-clash-sell-out/"
+  ],
+  "note": "Signing city London per Reverb (fetch blocked; seen in search snippet); place could be nulled if strict",
+  "audit": "ok"
+ },
+ "01-26": {
+  "lines": [
+   "In 1970, Simon & Garfunkel released 'Bridge Over Troubled Water'.",
+   "It won 6 Grammys."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(album)"
+  ],
+  "audit": "ok"
+ },
+ "01-27": {
+  "lines": [
+   "In 1970, Van Morrison released 'Moondance' on Warner Bros. in the UK."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "A & R Studios",
+  "tieIn": "where Van Morrison recorded 'Moondance'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moondance"
+  ],
+  "note": "UK release 27 Jan; US release 28 Feb",
+  "audit": "ok"
+ },
+ "01-28": {
+  "lines": [
+   "In 1985, stars recorded 'We Are the World' in Hollywood.",
+   "It raised over $80 million in aid."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Studios, Hollywood",
+  "tieIn": "where 'We Are the World' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/We_Are_the_World"
+  ],
+  "audit": "ok"
+ },
+ "01-29": {
+  "lines": [
+   "In 1964, the Beatles recorded 'Can't Buy Me Love' in Paris.",
+   "It had 2.1 million US advance orders."
+  ],
+  "place": "Paris",
+  "placeRegion": "France",
+  "placeDetail": "Pathe Marconi Studios",
+  "tieIn": "where 'Can't Buy Me Love' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Can%27t_Buy_Me_Love"
+  ],
+  "audit": "ok"
+ },
+ "01-30": {
+  "lines": [
+   "In 1969, the Beatles played their rooftop concert in London.",
+   "They played atop Apple's 3 Savile Row HQ."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Apple Corps, 3 Savile Row",
+  "tieIn": "where the Beatles played the rooftop",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert",
+   "https://en.wikipedia.org/wiki/Rooftop_concert"
+  ],
+  "audit": "ok"
+ },
+ "01-31": {
+  "lines": [
+   "In 1970, the Jackson 5's 'I Want You Back' hit No. 1 in the US.",
+   "It was a Motown release."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "The Sound Factory",
+  "tieIn": "where 'I Want You Back' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Want_You_Back"
+  ],
+  "audit": "ok"
+ },
+ "02-01": {
+  "lines": [
+   "In 1964, the Beatles' 'I Want to Hold Your Hand' hit No. 1 in the US.",
+   "Seven weeks atop the Hot 100."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where the song was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand"
+  ],
+  "audit": "ok"
+ },
+ "02-02": {
+  "lines": [
+   "In 2020, Shakira and J.Lo headlined the Super Bowl LIV halftime.",
+   "About 103 million US viewers."
+  ],
+  "place": "Miami Gardens",
+  "placeRegion": "Florida, USA",
+  "placeDetail": "Hard Rock Stadium",
+  "tieIn": "where Super Bowl LIV was played",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LIV_halftime_show"
+  ],
+  "audit": "ok"
+ },
+ "02-03": {
+  "lines": [
+   "In 1959, Buddy Holly, Ritchie Valens and the Big Bopper died in a crash.",
+   "'The Day the Music Died'."
+  ],
+  "place": "Clear Lake",
+  "placeRegion": "Iowa, USA",
+  "placeDetail": "Surf Ballroom",
+  "tieIn": "where the trio played their final show",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Day_the_Music_Died"
+  ],
+  "note": "Crash site was near Clear Lake in Grant Township.",
+  "audit": "fixed: crash was in Grant Township outside Clear Lake; tieIn now the Surf Ballroom final show"
+ },
+ "02-04": {
+  "lines": [
+   "In 1977, Fleetwood Mac released 'Rumours' on Warner Bros.",
+   "Certified 21x Platinum (RIAA)."
+  ],
+  "place": "Sausalito",
+  "placeRegion": "California, USA",
+  "placeDetail": "Record Plant",
+  "tieIn": "where most of Rumours was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rumours_(album)",
+   "https://www.wmmo.com/news/this-day-feb-4-1977-fleetwood-mac-releases-their-iconic-album-rumours/GTHKBS65YYYIFPT6TDSG5XS5ZQ/"
+  ],
+  "audit": "ok"
+ },
+ "02-05": {
+  "lines": [
+   "In 2017, Lady Gaga headlined the Super Bowl LI halftime show.",
+   "117.5 million US TV viewers."
+  ],
+  "place": "Houston",
+  "placeRegion": "Texas, USA",
+  "placeDetail": "NRG Stadium",
+  "tieIn": "where Gaga played Super Bowl LI",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LI_halftime_show"
+  ],
+  "audit": "ok"
+ },
+ "02-06": {
+  "lines": [
+   "In 2016, Beyonce surprise-released 'Formation' as a free Tidal exclusive."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Formation_(song)"
+  ],
+  "audit": "ok"
+ },
+ "02-07": {
+  "lines": [
+   "In 1964, the Beatles landed at New York's JFK Airport.",
+   "Their first trip to the US."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "John F. Kennedy International Airport",
+  "tieIn": "where Beatlemania landed in America",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_in_the_United_States"
+  ],
+  "audit": "ok"
+ },
+ "02-08": {
+  "lines": [
+   "In 2004, Beyonce won five Grammys, including two for 'Crazy in Love'."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Staples Center",
+  "tieIn": "where Beyonce won five Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/46th_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-09": {
+  "lines": [
+   "In 1964, the Beatles made their US TV debut on 'The Ed Sullivan Show'.",
+   "73 million viewers."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "tieIn": "where the Beatles played Ed Sullivan",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_in_the_United_States"
+  ],
+  "note": "City is from the show's home base; studio name not fetched.",
+  "audit": "fixed: tieIn said 'met Ed Sullivan' (they met earlier); now 'played Ed Sullivan'"
+ },
+ "02-10": {
+  "lines": [
+   "In 1971, Carole King released 'Tapestry' on Ode Records.",
+   "Lou Adler produced; 15 weeks at No. 1."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Studios, Hollywood",
+  "tieIn": "where Tapestry was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)"
+  ],
+  "audit": "ok"
+ },
+ "02-11": {
+  "lines": [
+   "In 1963, the Beatles cut most of 'Please Please Me' in one day.",
+   "George Martin produced, for Parlophone."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where the Beatles cut their debut LP",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Please_Please_Me_(album)",
+   "https://en.wikipedia.org/wiki/Please_Please_Me"
+  ],
+  "audit": "ok"
+ },
+ "02-12": {
+  "lines": [
+   "In 2017, Adele won five Grammys, sweeping Album, Record and Song of the Year."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Staples Center",
+  "tieIn": "where Adele swept the 2017 Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/59th_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-13": {
+  "lines": [
+   "In 1970, Black Sabbath released their debut album on Vertigo.",
+   "Cut mostly in one 12-hour session."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Regent Sounds Studio",
+  "tieIn": "where Black Sabbath's debut was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Sabbath_(album)"
+  ],
+  "audit": "ok"
+ },
+ "02-14": {
+  "lines": [
+   "In 1967, Aretha Franklin recorded 'Respect' at Atlantic Studios.",
+   "Jerry Wexler produced; a Hot 100 No. 1."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Atlantic Studios",
+  "tieIn": "where Aretha recorded 'Respect'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Respect_(song)"
+  ],
+  "audit": "ok"
+ },
+ "02-15": {
+  "lines": [
+   "In 1972, Neil Young released 'Harvest' on Reprise.",
+   "The best-selling US album of 1972."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album)"
+  ],
+  "audit": "ok"
+ },
+ "02-16": {
+  "lines": [
+   "In 1964, the Beatles played 'Ed Sullivan' live from Miami Beach.",
+   "About 70 million viewers."
+  ],
+  "place": "Miami Beach",
+  "placeRegion": "Florida, USA",
+  "placeDetail": "Deauville Hotel",
+  "tieIn": "where the Beatles' second Sullivan aired",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_in_the_United_States"
+  ],
+  "audit": "ok"
+ },
+ "02-17": {
+  "lines": [
+   "In 1967, the Beatles released 'Strawberry Fields Forever' in the UK.",
+   "With 'Penny Lane', on Parlophone."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where Strawberry Fields was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Strawberry_Fields_Forever"
+  ],
+  "note": "US release (Capitol) was 13 Feb 1967; UK release 17 Feb.",
+  "audit": "ok"
+ },
+ "02-18": {
+  "lines": [
+   "In 1959, Ray Charles recorded 'What'd I Say' for Atlantic Records.",
+   "It became his first gold record."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Atlantic Records studio",
+  "tieIn": "where 'What'd I Say' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/What%27d_I_Say",
+   "https://www.history.com/this-day-in-history/february-18/ray-charles-records-whatd-i-say-at-atlantic-records"
+  ],
+  "note": "City from History.com; Wikipedia gives the date and studio only.",
+  "audit": "ok"
+ },
+ "02-19": {
+  "lines": [
+   "In 1980, AC/DC singer Bon Scott died in London, aged 33.",
+   "Brian Johnson replaced him."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "East Dulwich",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bon_Scott"
+  ],
+  "note": "Weak date for business events; chosen as most famous verifiable. tieIn left null (a death).",
+  "audit": "ok"
+ },
+ "02-20": {
+  "lines": [
+   "In 1991, Quincy Jones won six Grammys incl. Album of the Year.",
+   "For 'Back on the Block'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Radio City Music Hall",
+  "tieIn": "where Quincy Jones won six Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/33rd_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-21": {
+  "lines": [
+   "In 1981, Dolly Parton's '9 to 5' hit No. 1 on the Hot 100.",
+   "Her only solo Hot 100 No. 1, on RCA."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/9_to_5_(Dolly_Parton_song)",
+   "https://www.history.com/this-day-in-history/February-21/dolly-parton-cements-her-crossover-success-as-9-to-5-hits-1",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981"
+  ],
+  "audit": "ok"
+ },
+ "02-22": {
+  "lines": [
+   "In 1977, Eagles released 'Hotel California' as a single on Asylum.",
+   "It won Record of the Year."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_California",
+   "https://en.wikipedia.org/wiki/Hotel_California_(song)"
+  ],
+  "note": "Album came out Dec 1976; this date is the single. Recorded in LA and Miami, so place null.",
+  "audit": "ok"
+ },
+ "02-23": {
+  "lines": [
+   "In 2000, Santana won eight Grammys for 'Supernatural'.",
+   "Tying Michael Jackson's record."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Staples Center",
+  "tieIn": "where Santana won eight Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/42nd_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-24": {
+  "lines": [
+   "In 1976, Eagles' 'Their Greatest Hits' became the first Platinum album.",
+   "Later the first 4x Diamond (RIAA)."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Their_Greatest_Hits_(1971%E2%80%931975)"
+  ],
+  "audit": "ok"
+ },
+ "02-25": {
+  "lines": [
+   "In 1957, Buddy Holly and the Crickets recorded 'That'll Be the Day'.",
+   "No. 1 in the US and UK."
+  ],
+  "place": "Clovis",
+  "placeRegion": "New Mexico, USA",
+  "placeDetail": "Norman Petty Recording Studios",
+  "tieIn": "where 'That'll Be the Day' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/That%27ll_Be_the_Day"
+  ],
+  "audit": "ok"
+ },
+ "02-26": {
+  "lines": [
+   "In 2002, Norah Jones released 'Come Away with Me' on Blue Note.",
+   "It went Diamond."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Come_Away_with_Me"
+  ],
+  "note": "Recorded in NYC and Shokan NY; no 'mainly' statement, so place null.",
+  "audit": "ok"
+ },
+ "02-27": {
+  "lines": [
+   "In 2002, Alicia Keys won five Grammys, including Best New Artist."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Staples Center",
+  "tieIn": "where Alicia Keys won five Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/44th_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-28": {
+  "lines": [
+   "In 1984, Michael Jackson won a record eight Grammys.",
+   "51.67 million watched the telecast."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Shrine Auditorium",
+  "tieIn": "where Michael Jackson won eight Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/26th_Annual_Grammy_Awards"
+  ],
+  "audit": "ok"
+ },
+ "02-29": {
+  "lines": [
+   "In 1968, the Beatles' 'Sgt. Pepper' won Album of the Year.",
+   "The first rock album to win it."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/10th_Annual_Grammy_Awards",
+   "https://www.grammy.com/awards/categories/album-of-the-year/1968/",
+   "https://ultimateclassicrock.com/beatles-sgt-pepper-album-of-the-year-grammys/"
+  ],
+  "note": "Ceremony held in four cities at once, so place null.",
+  "audit": "ok"
+ },
+ "03-01": {
+  "lines": [
+   "In 1973, Pink Floyd released 'Dark Side of the Moon' on Capitol.",
+   "It has spent 990+ weeks on the Billboard 200."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where Dark Side of the Moon was made",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon"
+  ],
+  "note": "US release 1 March 1973 (Capitol); UK 16 March (Harvest). 996 weeks as of Jan 2026.",
+  "audit": "fixed: weeks figure 996 -> 990+ (count keeps growing)"
+ },
+ "03-02": {
+  "lines": [
+   "In 1959, Miles Davis cut the first 'Kind of Blue' session.",
+   "The Columbia LP is now 5x Platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia 30th Street Studio",
+  "tieIn": "where Kind of Blue was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kind_of_Blue"
+  ],
+  "audit": "ok"
+ },
+ "03-03": {
+  "lines": [
+   "In 2017, Ed Sheeran released 'Divide' on Asylum.",
+   "It set a Spotify one-day record of 56.7 million streams."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%B7_(album)"
+  ],
+  "note": "Album title is the symbol ÷; written as 'Divide' for ASCII. Also UK fastest-selling album by a male artist (672k week one).",
+  "audit": "ok"
+ },
+ "03-04": {
+  "lines": [
+   "In 1966, Lennon's 'more popular than Jesus' interview ran in London.",
+   "It appeared in the Evening Standard."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Evening Standard",
+  "tieIn": "where Lennon's Jesus quote was printed",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/More_popular_than_Jesus"
+  ],
+  "audit": "ok"
+ },
+ "03-05": {
+  "lines": [
+   "In 1983, Michael Jackson's 'Billie Jean' hit No. 1 in the US.",
+   "The Epic single held No. 1 for seven weeks."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Westlake Recording Studios",
+  "tieIn": "where Billie Jean was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Billie_Jean"
+  ],
+  "audit": "ok"
+ },
+ "03-06": {
+  "lines": [
+   "In 1982, the Go-Go's 'Beauty and the Beat' hit No. 1 in the US.",
+   "The I.R.S. debut held No. 1 for six weeks."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Penny Lane / Record Plant / Sound Mixers",
+  "tieIn": "where the Go-Go's cut their debut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beauty_and_the_Beat_(The_Go-Go%27s_album)"
+  ],
+  "note": "Billboard chart dated March 6, 1982. Recorded at three NYC studios.",
+  "audit": "ok"
+ },
+ "03-07": {
+  "lines": [
+   "In 1985, USA for Africa released 'We Are the World'.",
+   "Quincy Jones produced the first multi-platinum single."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Recording Studios, Hollywood",
+  "tieIn": "where We Are the World was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/We_Are_the_World"
+  ],
+  "note": "Released by Columbia Mar 7 1985. Alt: Licensed to Ill hit No.1 on Billboard 200 dated Mar 7 1987.",
+  "audit": "ok"
+ },
+ "03-08": {
+  "lines": [
+   "In 1968, Bill Graham opened the Fillmore East in New York.",
+   "It became 'The Church of Rock and Roll'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Fillmore East, 105 Second Avenue",
+  "tieIn": "where Bill Graham's Fillmore East opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fillmore_East"
+  ],
+  "audit": "ok"
+ },
+ "03-09": {
+  "lines": [
+   "In 1987, U2 released 'The Joshua Tree' on Island Records.",
+   "It became U2's first US No. 1 album."
+  ],
+  "place": "Dublin",
+  "placeRegion": "Ireland",
+  "placeDetail": "Windmill Lane and other Dublin studios",
+  "tieIn": "where U2 recorded The Joshua Tree",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Joshua_Tree"
+  ],
+  "audit": "ok"
+ },
+ "03-10": {
+  "lines": [
+   "In 1977, the Sex Pistols signed to A&M outside Buckingham Palace.",
+   "A&M dropped them six days later."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Buckingham Palace",
+  "tieIn": "where the Pistols signed to A&M",
+  "changed": true,
+  "sources": [
+   "https://bestclassicbands.com/sex-pistols-record-label-3-10-16/",
+   "https://en.wikipedia.org/wiki/Sex_Pistols",
+   "https://www.loudersound.com/bands-artists/rick-wakeman-sex-pistols-dumped-by-record-label"
+  ],
+  "note": "Actual contract signed 9 March; public staged signing 10 March. Wikipedia says A&M broke contract 16 March.",
+  "audit": "ok"
+ },
+ "03-11": {
+  "lines": [
+   "In 1970, CSNY released 'Deja Vu' on Atlantic.",
+   "It took $2 million in preorders and went Gold in 14 days."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(Crosby,_Stills,_Nash_%26_Young_album)"
+  ],
+  "note": "Recorded at Wally Heider's in both San Francisco and Hollywood; no main city stated - consider place null.",
+  "audit": "ok"
+ },
+ "03-12": {
+  "lines": [
+   "In 2001, Daft Punk released 'Discovery' on Virgin.",
+   "It was recorded at Thomas Bangalter's home in Paris."
+  ],
+  "place": "Paris",
+  "placeRegion": "France",
+  "placeDetail": "Daft House (Bangalter's home studio)",
+  "tieIn": "where Daft Punk recorded Discovery",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)"
+  ],
+  "audit": "fixed: shortened line 1 (total was 111 chars)"
+ },
+ "03-13": {
+  "lines": [
+   "In 1995, Radiohead released 'The Bends' on Parlophone.",
+   "John Leckie produced; it is 4x Platinum in the UK."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Bends_(album)"
+  ],
+  "note": "UK release date. Recorded at RAK and Abbey Road (London) and The Manor (Oxfordshire); no main city stated.",
+  "audit": "ok"
+ },
+ "03-14": {
+  "lines": [
+   "In 1972, Carole King's 'Tapestry' swept four Grammys in New York.",
+   "King won Album, Record and Song of the Year."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Felt Forum",
+  "tieIn": "where Tapestry swept the Grammys",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/14th_Annual_Grammy_Awards"
+  ],
+  "note": "Record ('It's Too Late') and Song ('You've Got a Friend') were King's wins tied to Tapestry; phrased loosely - 'It won' refers to King's haul. Alt: Tupac 'Me Against the World' released Mar 14 1995.",
+  "audit": "ok"
+ },
+ "03-15": {
+  "lines": [
+   "In 2015, Kendrick Lamar released 'To Pimp a Butterfly'.",
+   "It set a Spotify first-day record: 9.6M streams."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly"
+  ],
+  "note": "Released 8 days early (originally slated Mar 23) via TDE/Aftermath/Interscope. Multiple studios.",
+  "audit": "ok"
+ },
+ "03-16": {
+  "lines": [
+   "In 1999, the RIAA launched Diamond awards for 10 million sales.",
+   "The first honors were presented in New York."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Roseland Ballroom",
+  "tieIn": "where the first Diamond awards went out",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1999_in_music",
+   "https://deflepparduk.com/2017newsmar57.html",
+   "https://www.mtv.com/news/512893/metallica-zeppelin-billy-joel-honored-for-10-million-plus-sales/"
+  ],
+  "note": "Venue from Def Leppard fan site plus search summaries (MusicGoldmine). Breakfast in America (Wikipedia: 16 Mar 1979) rejected because other sources give 29 Mar.",
+  "audit": "ok"
+ },
+ "03-17": {
+  "lines": [
+   "In 2023, Taylor Swift opened the Eras Tour in Glendale, Arizona.",
+   "It was the first tour to gross $2 billion."
+  ],
+  "place": "Glendale",
+  "placeRegion": "Arizona, USA",
+  "tieIn": "where the Eras Tour began",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Eras_Tour"
+  ],
+  "audit": "ok"
+ },
+ "03-18": {
+  "lines": [
+   "In 2023, Morgan Wallen put all 36 album tracks on the Hot 100.",
+   "No act had ever charted more in one week."
+  ],
+  "changed": true,
+  "sources": [
+   "https://guinnessworldrecords.com/world-records/769219-most-simultaneous-entries-on-the-us-singles-chart-male",
+   "https://www.whiskeyriff.com/2023/03/18/morgan-wallen-breaks-record-for-most-entries-in-billboard-hot-100-with-all-36-tracks-from-new-album-charting/"
+  ],
+  "note": "Billboard chart dated March 18, 2023 ('One Thing at a Time'). He broke his own record with 37 in May 2025.",
+  "audit": "ok"
+ },
+ "03-19": {
+  "lines": [
+   "In 1971, Jethro Tull released 'Aqualung'.",
+   "It is the band's best seller, at over 7 million copies."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Basing Street Studios",
+  "tieIn": "where Aqualung was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aqualung_(album)"
+  ],
+  "audit": "fixed: dropped label (UK issue was Chrysalis/Island, US Reprise)"
+ },
+ "03-20": {
+  "lines": [
+   "In 1991, Michael Jackson re-signed with Sony.",
+   "Sony said the six-album deal could be worth over $1 billion."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.upi.com/Archives/1991/03/20/Michael-Jackson-re-signs-with-Sony/3367669445200/",
+   "https://mjultimatearchive.github.io/MJUA/1990s/1991/March/March_20,_1991_-_Sony_Contract_Signing.html"
+  ],
+  "note": "Dollar value disputed ($50-65M up to $1B speculation) so omitted. Alt: Lennon-Ono wedding in Gibraltar, 1969.",
+  "audit": "fixed: NYT richest-deal claim unconfirmed -> UPI-reported Sony $1B claim"
+ },
+ "03-21": {
+  "lines": [
+   "In 1952, Alan Freed staged the Moondog Coronation Ball.",
+   "It is seen as the first major rock and roll concert."
+  ],
+  "place": "Cleveland",
+  "placeRegion": "Ohio, USA",
+  "placeDetail": "Cleveland Arena",
+  "tieIn": "where the first rock concert was held",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moondog_Coronation_Ball"
+  ],
+  "audit": "ok"
+ },
+ "03-22": {
+  "lines": [
+   "In 1963, the Beatles released 'Please Please Me' on Parlophone.",
+   "It held UK No. 1 for 30 weeks."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road), Studio 2",
+  "tieIn": "where Please Please Me was cut in a day",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Please_Please_Me"
+  ],
+  "audit": "ok"
+ },
+ "03-23": {
+  "lines": [
+   "In 2004, Usher released 'Confessions' on Arista.",
+   "It sold 1.096 million US copies in week one and went Diamond."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Confessions_(Usher_album)"
+  ],
+  "note": "Elvis's debut LP (Wikipedia: Mar 23 1956) rejected because other sources give Mar 26.",
+  "audit": "ok"
+ },
+ "03-24": {
+  "lines": [
+   "In 1958, Elvis Presley was sworn into the US Army."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elvis_Presley%27s_Army_career"
+  ],
+  "note": "Wikipedia caption places swearing-in at Fort Chaffee; induction began in Memphis - place left null.",
+  "audit": "ok"
+ },
+ "03-25": {
+  "lines": [
+   "In 1983, Michael Jackson debuted the moonwalk at the Motown 25 taping.",
+   "NBC aired the special on May 16, 1983."
+  ],
+  "place": "Pasadena",
+  "placeRegion": "California, USA",
+  "placeDetail": "Pasadena Civic Auditorium",
+  "tieIn": "where Jackson first did the moonwalk",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Motown_25:_Yesterday,_Today,_Forever"
+  ],
+  "audit": "ok"
+ },
+ "03-26": {
+  "lines": [
+   "In 2001, Gorillaz released their debut album on Parlophone.",
+   "Guinness named them top virtual band."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gorillaz_(album)"
+  ],
+  "note": "UK release date. Recorded at Studio 13, London and Geejam, Jamaica - place London is arguable (no 'mainly' statement); consider null.",
+  "audit": "ok"
+ },
+ "03-27": {
+  "lines": [
+   "In 1987, U2 played a rooftop show in Los Angeles.",
+   "It became the 'Where the Streets Have No Name' video."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Liquor store roof, 7th and Main",
+  "tieIn": "where U2 played a rooftop show",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Where_the_Streets_Have_No_Name"
+  ],
+  "audit": "fixed: shortened line 1 (total was 111 chars)"
+ },
+ "03-28": {
+  "lines": [
+   "In 1981, Blondie's 'Rapture' hit No. 1 on the Hot 100.",
+   "It was the first US No. 1 with rap vocals."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "United Western Recorders, Hollywood",
+  "tieIn": "where Blondie recorded Rapture",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rapture_(Blondie_song)",
+   "https://www.stereogum.com/2082475/the-number-ones-blondies-rapture/franchises/the-number-ones/",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981"
+  ],
+  "note": "Chart date March 28, 1981 per Stereogum/Parade; one minor source says Mar 22.",
+  "audit": "ok"
+ },
+ "03-29": {
+  "lines": [
+   "In 2019, Billie Eilish released 'When We All Fall Asleep...'.",
+   "It debuted at No. 1 with 313,000 US units."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Finneas's bedroom studio, Highland Park",
+  "tieIn": "where Billie Eilish's debut was made",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F"
+  ],
+  "note": "Darkroom/Interscope. Original 03-29 Van Morrison session fact was weak.",
+  "audit": "ok"
+ },
+ "03-30": {
+  "lines": [
+   "In 1970, Miles Davis released 'Bitches Brew' on Columbia.",
+   "It became his first Gold album in the US."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia Studio B",
+  "tieIn": "where Bitches Brew was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bitches_Brew"
+  ],
+  "audit": "ok"
+ },
+ "03-31": {
+  "lines": [
+   "In 1967, Jimi Hendrix first set his guitar on fire, in London.",
+   "He did it at the Finsbury Park Astoria."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Finsbury Park Astoria",
+  "tieIn": "where Hendrix first burned a guitar",
+  "changed": true,
+  "sources": [
+   "https://ultimateclassicrock.com/jimi-hendrix-guitar-fire/",
+   "https://www.jimihendrix-lifelines.net/1967jan-june/styled-18/styled-19/index.html"
+  ],
+  "note": "Original 03-31 Led Zeppelin date was wrong (US release Jan 12 1969).",
+  "audit": "ok"
+ },
+ "04-01": {
+  "lines": [
+   "In 2016, Guns N' Roses' classic trio reunited at the Troubadour.",
+   "The tour it launched grossed $584.2 million."
+  ],
+  "place": "West Hollywood",
+  "placeRegion": "California, USA",
+  "placeDetail": "The Troubadour, West Hollywood",
+  "tieIn": "where Guns N' Roses reunited",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Not_in_This_Lifetime..._Tour",
+   "https://loudwire.com/guns-n-roses-first-show-reunited-axl-rose-slash-duff-mckagan-videos-photos-setlist-more/",
+   "https://loudwire.com/guns-n-roses-not-in-this-lifetime-tour-totals/"
+  ],
+  "audit": "fixed: place Los Angeles -> West Hollywood (Troubadour)"
+ },
+ "04-02": {
+  "lines": [
+   "In 1977, Fleetwood Mac's 'Rumours' hit No. 1 on the Billboard 200.",
+   "It held the top spot for 31 weeks."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rumours_(album)",
+   "https://bestclassicbands.com/fleetwood-mac-rumours-number-one-4-2-17",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_1977"
+  ],
+  "note": "Billboard chart dated April 2, 1977; 31 non-consecutive weeks at No. 1.",
+  "audit": "ok"
+ },
+ "04-03": {
+  "lines": [
+   "In 1956, Elvis Presley played The Milton Berle Show on the USS Hancock."
+  ],
+  "place": "San Diego",
+  "placeRegion": "California, USA",
+  "placeDetail": "USS Hancock",
+  "tieIn": "where Elvis rocked the USS Hancock",
+  "changed": true,
+  "sources": [
+   "https://www.mentalfloss.com/article/78075/when-elvis-performed-aircraft-carrier",
+   "https://Www.Sandiegoreader.com/weblogs/jam-session/2012/apr/04/the-day-elvis-made-history-in-san-diego-56-years-a/"
+  ],
+  "audit": "ok"
+ },
+ "04-04": {
+  "lines": [
+   "In 1964, The Beatles held the top 5 spots on the Billboard Hot 100.",
+   "'Can't Buy Me Love' was No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.the-paulmccartney-project.com/1964/04/the-beatles-occupy-the-top-five-positions-on-the-billboard-hot-100/",
+   "https://www.psu.edu/news/story/50-years-beatles-fab-fours-historic-high-five"
+  ],
+  "note": "Billboard chart dated April 4, 1964.",
+  "audit": "ok"
+ },
+ "04-05": {
+  "lines": [
+   "In 1988, Tracy Chapman released her debut album on Elektra.",
+   "It went 6x Platinum and won three Grammys."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Powertrax, Hollywood",
+  "tieIn": "where Tracy Chapman's debut was made",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tracy_Chapman_(album)"
+  ],
+  "audit": "ok"
+ },
+ "04-06": {
+  "lines": [
+   "In 1974, ABBA won Eurovision with 'Waterloo' in Brighton.",
+   "The single sold about 5 million copies."
+  ],
+  "place": "Brighton",
+  "placeRegion": "England, UK",
+  "placeDetail": "Brighton Dome",
+  "tieIn": "where ABBA won Eurovision",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waterloo_(ABBA_song)"
+  ],
+  "audit": "ok"
+ },
+ "04-07": {
+  "lines": [
+   "In 1978, Prince released his debut 'For You' on Warner Bros.",
+   "He produced it and played every instrument."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/For_You_(Prince_album)"
+  ],
+  "note": "Recorded in Minneapolis, Sausalito and Hollywood, so no single place.",
+  "audit": "fixed: 'wrote every track' false (Soft and Wet co-written with Chris Moon)"
+ },
+ "04-08": {
+  "lines": [
+   "In 1975, Aerosmith released 'Toys in the Attic' on Columbia.",
+   "Produced by Jack Douglas; certified 9x Platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Record Plant",
+  "tieIn": "where 'Toys in the Attic' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toys_in_the_Attic_(album)"
+  ],
+  "audit": "ok"
+ },
+ "04-09": {
+  "lines": [
+   "In 1969, Bob Dylan released 'Nashville Skyline' on Columbia.",
+   "It opens with a Johnny Cash duet."
+  ],
+  "place": "Nashville",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Columbia Studio A",
+  "tieIn": "where 'Nashville Skyline' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nashville_Skyline"
+  ],
+  "audit": "ok"
+ },
+ "04-10": {
+  "lines": [
+   "In 1970, the press broke news that Paul McCartney quit The Beatles."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Apple Corps, 3 Savile Row",
+  "tieIn": "where the split made the headlines",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Breakup_of_the_Beatles"
+  ],
+  "audit": "fixed: tieIn about mourning fans unsupported"
+ },
+ "04-11": {
+  "lines": [
+   "In 1961, Bob Dylan played his first pro gig at Gerde's Folk City.",
+   "He opened for John Lee Hooker."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Gerde's Folk City, Greenwich Village",
+  "tieIn": "where Bob Dylan played his first pro gig",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerde%27s_Folk_City"
+  ],
+  "audit": "ok"
+ },
+ "04-12": {
+  "lines": [
+   "In 1954, Bill Haley & His Comets cut 'Rock Around the Clock'.",
+   "Milt Gabler produced it for Decca."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Decca studios, Pythian Temple",
+  "tieIn": "where 'Rock Around the Clock' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rock_Around_the_Clock"
+  ],
+  "audit": "ok"
+ },
+ "04-13": {
+  "lines": [
+   "In 2000, Metallica sued file-sharing service Napster for infringement."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metallica_v._Napster,_Inc."
+  ],
+  "audit": "ok"
+ },
+ "04-14": {
+  "lines": [
+   "In 1983, David Bowie released 'Let's Dance' on EMI America.",
+   "Co-produced by Nile Rodgers."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Power Station",
+  "tieIn": "where 'Let's Dance' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_album)"
+  ],
+  "audit": "ok"
+ },
+ "04-15": {
+  "lines": [
+   "In 1966, The Rolling Stones released 'Aftermath' on Decca UK.",
+   "Their first all-original LP; 8 weeks at UK No. 1."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "RCA Studios, Hollywood",
+  "tieIn": "where 'Aftermath' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aftermath_(Rolling_Stones_album)"
+  ],
+  "audit": "ok"
+ },
+ "04-16": {
+  "lines": [
+   "In 1971, The Rolling Stones released 'Brown Sugar'.",
+   "It was the first single on Rolling Stones Records."
+  ],
+  "place": "Sheffield",
+  "placeRegion": "Alabama, USA",
+  "placeDetail": "Muscle Shoals Sound Studio",
+  "tieIn": "where 'Brown Sugar' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brown_Sugar_(Rolling_Stones_song)"
+  ],
+  "note": "Reached No. 1 on the Billboard Hot 100.",
+  "audit": "ok"
+ },
+ "04-17": {
+  "lines": [
+   "In 1970, Paul McCartney released his debut 'McCartney' on Apple.",
+   "It topped the US chart for 3 weeks."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "McCartney's home, St John's Wood",
+  "tieIn": "where 'McCartney' was mostly recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/McCartney_(album)"
+  ],
+  "note": "UK release date; US followed three days later.",
+  "audit": "ok"
+ },
+ "04-18": {
+  "lines": [
+   "In 2020, Lady Gaga co-curated 'One World: Together at Home'.",
+   "It raised about $127 million for the WHO."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_World:_Together_at_Home"
+  ],
+  "note": "Virtual broadcast concert; no single location. Weak-date fallback.",
+  "audit": "ok"
+ },
+ "04-19": {
+  "lines": [
+   "In 1994, Nas released 'Illmatic' on Columbia.",
+   "Produced by DJ Premier, Pete Rock, Q-Tip and more."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "tieIn": "where 'Illmatic' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Illmatic"
+  ],
+  "note": "Recorded at several NYC studios (Battery, Unique, Chung King, D&D).",
+  "audit": "ok"
+ },
+ "04-20": {
+  "lines": [
+   "In 1992, the Freddie Mercury Tribute Concert played Wembley Stadium.",
+   "About 1 billion people watched on TV."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wembley Stadium",
+  "tieIn": "where Queen's tribute to Freddie played",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Freddie_Mercury_Tribute_Concert"
+  ],
+  "audit": "ok"
+ },
+ "04-21": {
+  "lines": [
+   "In 1967, The Beatles finished recording 'Sgt. Pepper'.",
+   "The album has sold over 32 million copies."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where Sgt. Pepper was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+   "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band"
+  ],
+  "note": "Final session recorded the run-out groove noises.",
+  "audit": "ok"
+ },
+ "04-22": {
+  "lines": [
+   "In 1959, Miles Davis finished 'Kind of Blue' for Columbia.",
+   "That day cut 'All Blues' and 'Flamenco Sketches'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia 30th Street Studio",
+  "tieIn": "where 'Kind of Blue' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kind_of_Blue"
+  ],
+  "audit": "ok"
+ },
+ "04-23": {
+  "lines": [
+   "In 2016, Beyonce released 'Lemonade' with an HBO film.",
+   "It streamed first only on Tidal."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lemonade_(Beyonc%C3%A9_album)"
+  ],
+  "audit": "ok"
+ },
+ "04-24": {
+  "lines": [
+   "In 1989, Tom Petty released 'Full Moon Fever' on MCA.",
+   "Co-produced by Jeff Lynne; certified 5x Platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Full_Moon_Fever"
+  ],
+  "note": "Mainly recorded in Mike Campbell's garage studio; city not stated in source.",
+  "audit": "ok"
+ },
+ "04-25": {
+  "lines": [
+   "In 1994, Blur released 'Parklife' on Food Records.",
+   "It hit UK No. 1; Blur won four Brits on its back."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Maison Rouge and RAK Studios",
+  "tieIn": "where 'Parklife' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parklife"
+  ],
+  "audit": "fixed: four Brits were won by Blur (incl. British Album), not all by the album"
+ },
+ "04-26": {
+  "lines": [
+   "In 1994, Johnny Cash released 'American Recordings'.",
+   "Rick Rubin produced it; it won a Grammy."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/American_Recordings_(album)"
+  ],
+  "note": "Recorded in Los Angeles and Hendersonville, TN.",
+  "audit": "ok"
+ },
+ "04-27": {
+  "lines": [
+   "In 2018, Post Malone released 'beerbongs & bentleys'.",
+   "It set a US Spotify first-day record: 47.9M streams."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beerbongs_%26_Bentleys"
+  ],
+  "audit": "ok"
+ },
+ "04-28": {
+  "lines": [
+   "In 2003, Apple launched the iTunes Music Store.",
+   "It sold over 1 million tracks in its first five days."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/ITunes_Store"
+  ],
+  "audit": "ok"
+ },
+ "04-29": {
+  "lines": [
+   "In 1968, the rock musical 'Hair' opened on Broadway.",
+   "Its original run lasted 1,750 performances."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Biltmore Theatre",
+  "tieIn": "where 'Hair' opened on Broadway",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hair_(musical)"
+  ],
+  "audit": "ok"
+ },
+ "04-30": {
+  "lines": [
+   "In 1957, Elvis Presley recorded 'Jailhouse Rock' for RCA Victor.",
+   "It spent seven weeks at No. 1 in the US."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Radio Recorders",
+  "tieIn": "where Elvis cut 'Jailhouse Rock'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jailhouse_Rock_(song)"
+  ],
+  "audit": "ok"
+ },
+ "05-01": {
+  "lines": [
+   "In 1967, Elvis Presley married Priscilla Beaulieu in Las Vegas."
+  ],
+  "place": "Las Vegas",
+  "placeRegion": "Nevada, USA",
+  "placeDetail": "Aladdin Hotel",
+  "tieIn": "where Elvis married Priscilla",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elvis_Presley"
+  ],
+  "audit": "ok"
+ },
+ "05-02": {
+  "lines": [
+   "In 1983, New Order released 'Power, Corruption & Lies' on Factory.",
+   "'Blue Monday' was cut at the same sessions."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Power,_Corruption_%26_Lies"
+  ],
+  "note": "No more iconic verifiable May 2 event found; Stones/Beatles UK chart date conflicts (26 Apr vs 2 May).",
+  "audit": "ok"
+ },
+ "05-03": {
+  "lines": [
+   "In 1951, London's Royal Festival Hall opened with a gala concert.",
+   "King George VI attended the opening."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Royal Festival Hall",
+  "tieIn": "where the Royal Festival Hall opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Festival_Hall"
+  ],
+  "audit": "ok"
+ },
+ "05-04": {
+  "lines": [
+   "In 1959, the first Grammy Awards were held.",
+   "Henry Mancini's 'Peter Gunn' won Album of the Year."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Park Sheraton Hotel",
+  "tieIn": "co-host of the first Grammy Awards",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1st_Annual_Grammy_Awards"
+  ],
+  "note": "Two simultaneous ceremonies: Beverly Hilton (Beverly Hills) and Park Sheraton (NYC).",
+  "audit": "ok"
+ },
+ "05-05": {
+  "lines": [
+   "In 1891, Carnegie Hall opened in New York with Tchaikovsky conducting."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Carnegie Hall",
+  "tieIn": "where Carnegie Hall opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carnegie_Hall"
+  ],
+  "audit": "ok"
+ },
+ "05-06": {
+  "lines": [
+   "In 1968, Columbia released Johnny Cash's 'At Folsom Prison'.",
+   "It was certified triple platinum in 2003."
+  ],
+  "place": "Folsom",
+  "placeRegion": "California, USA",
+  "placeDetail": "Folsom State Prison",
+  "tieIn": "where Cash recorded a live classic",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/At_Folsom_Prison"
+  ],
+  "audit": "ok"
+ },
+ "05-07": {
+  "lines": [
+   "In 1824, Beethoven's Ninth Symphony premiered in Vienna."
+  ],
+  "place": "Vienna",
+  "placeRegion": "Austria",
+  "placeDetail": "Theater am Kärntnertor",
+  "tieIn": "where Beethoven's Ninth premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
+  ],
+  "audit": "ok"
+ },
+ "05-08": {
+  "lines": [
+   "In 1970, the Beatles released 'Let It Be' on Apple.",
+   "Phil Spector produced; Billy Preston played keys."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Apple Studio",
+  "tieIn": "where the Beatles made Let It Be",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Let_It_Be_(album)"
+  ],
+  "note": "Sessions at Twickenham Film Studios and Apple Studio, both London.",
+  "audit": "ok"
+ },
+ "05-09": {
+  "lines": [
+   "In 1962, George Martin offered Brian Epstein an EMI deal for the Beatles."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Epstein",
+   "https://beatlesbible.com/1962/05/09/george-martin-offers-beatles-recording-contract",
+   "https://blog.oup.com/2012/06/the-beatles-at-emi-the-contract-18-june-1962/"
+  ],
+  "note": "Meeting venue not stated in checked source, so place null.",
+  "audit": "fixed: removed six-sides contract detail (single-source, terms disputed)"
+ },
+ "05-10": {
+  "lines": [
+   "In 1994, Weezer released their debut 'Blue Album' on DGC.",
+   "Ric Ocasek produced it, mostly at Electric Lady."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Electric Lady Studios",
+  "tieIn": "where Weezer cut the Blue Album",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)",
+   "https://en.wikipedia.org/wiki/Weezer_(1994_album)"
+  ],
+  "audit": "ok"
+ },
+ "05-11": {
+  "lines": [
+   "In 1981, Bob Marley died in Miami at the age of 36."
+  ],
+  "place": "Miami",
+  "placeRegion": "Florida, USA",
+  "placeDetail": "Cedars of Lebanon Hospital",
+  "tieIn": "where Bob Marley died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bob_Marley"
+  ],
+  "audit": "ok"
+ },
+ "05-12": {
+  "lines": [
+   "In 1967, Jimi Hendrix released 'Are You Experienced' on Track.",
+   "Chas Chandler produced; it hit UK No. 2."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Olympic Studios",
+  "tieIn": "where Are You Experienced was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Are_You_Experienced"
+  ],
+  "note": "Recorded at De Lane Lea, CBS and Olympic, all London. Exile on Main St. (12 May 1972) was the alternative.",
+  "audit": "ok"
+ },
+ "05-13": {
+  "lines": [
+   "In 1977, Donna Summer released 'I Remember Yesterday'.",
+   "It held 'I Feel Love', produced by Moroder and Bellotte."
+  ],
+  "place": "Munich",
+  "placeRegion": "Germany",
+  "placeDetail": "Musicland Studios",
+  "tieIn": "where 'I Feel Love' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Remember_Yesterday"
+  ],
+  "note": "Recorded at Musicland and Arco Studios, Munich.",
+  "audit": "fixed: added co-producer Pete Bellotte"
+ },
+ "05-14": {
+  "lines": [
+   "In 1998, Frank Sinatra died in Los Angeles at the age of 82."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Cedars-Sinai Medical Center",
+  "tieIn": "where Sinatra died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Sinatra"
+  ],
+  "audit": "ok"
+ },
+ "05-15": {
+  "lines": [
+   "In 1986, Run-DMC released 'Raising Hell' on Profile.",
+   "It was hip-hop's first multi-platinum album."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Chung King Studios",
+  "tieIn": "where Run-DMC cut Raising Hell",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raising_Hell_(album)"
+  ],
+  "audit": "ok"
+ },
+ "05-16": {
+  "lines": [
+   "In 1966, the Beach Boys released 'Pet Sounds' on Capitol.",
+   "Brian Wilson produced it."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "tieIn": "where Pet Sounds was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pet_Sounds"
+  ],
+  "note": "Recorded at Western, Gold Star, Columbia and Sunset Sound, all Los Angeles.",
+  "audit": "ok"
+ },
+ "05-17": {
+  "lines": [
+   "In 1985, Dire Straits released 'Brothers in Arms' on Vertigo.",
+   "It was the first album to sell 1 million CDs."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brothers_in_Arms_(album)"
+  ],
+  "note": "Recorded at AIR Studios Montserrat (no city), so place null. Wikipedia gives 17 May 1985 (input had it already).",
+  "audit": "ok"
+ },
+ "05-18": {
+  "lines": [
+   "In 1993, Janet Jackson released 'janet.' on Virgin.",
+   "Her est. $40M Virgin deal made her the then top-paid act."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janet_(album)"
+  ],
+  "audit": "ok"
+ },
+ "05-19": {
+  "lines": [
+   "In 1962, Marilyn Monroe sang 'Happy Birthday, Mr. President' to JFK."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Madison Square Garden",
+  "tieIn": "where Marilyn sang to JFK",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Happy_Birthday,_Mr._President"
+  ],
+  "audit": "ok"
+ },
+ "05-20": {
+  "lines": [
+   "In 1997, Foo Fighters released 'The Colour and the Shape'.",
+   "Capitol issued it; it was cut in Hollywood."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Grandmaster Recorders, Hollywood",
+  "tieIn": "where Foo Fighters cut their 2nd LP",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Colour_and_the_Shape"
+  ],
+  "audit": "ok"
+ },
+ "05-21": {
+  "lines": [
+   "In 1971, Marvin Gaye released 'What's Going On' on Tamla.",
+   "It shipped gold on release."
+  ],
+  "place": "Detroit",
+  "placeRegion": "Michigan, USA",
+  "placeDetail": "Hitsville U.S.A.",
+  "tieIn": "where What's Going On was made",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/What%27s_Going_On_(album)",
+   "https://en.wikipedia.org/wiki/What's_Going_On_(album)"
+  ],
+  "note": "Mostly Detroit studios plus The Sound Factory, West Hollywood.",
+  "audit": "ok"
+ },
+ "05-22": {
+  "lines": [
+   "In 1976, Wings' 'Silly Love Songs' hit No. 1 on the Hot 100.",
+   "It was Billboard's top song of 1976."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silly_Love_Songs",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1976"
+  ],
+  "note": "Billboard chart dated May 22, 1976.",
+  "audit": "ok"
+ },
+ "05-23": {
+  "lines": [
+   "In 2000, Eminem released 'The Marshall Mathers LP'.",
+   "It sold 1.76 million US copies in week one."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP"
+  ],
+  "audit": "fixed: place Detroit unsupported (recorded mainly in Burbank/Hollywood/LA) -> null"
+ },
+ "05-24": {
+  "lines": [
+   "In 1956, the first Eurovision Song Contest was held in Lugano."
+  ],
+  "place": "Lugano",
+  "placeRegion": "Switzerland",
+  "placeDetail": "Teatro Kursaal",
+  "tieIn": "where Eurovision began",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1956"
+  ],
+  "audit": "ok"
+ },
+ "05-25": {
+  "lines": [
+   "In 1973, Mike Oldfield's 'Tubular Bells' launched Virgin Records.",
+   "It was Virgin's first release."
+  ],
+  "place": "Shipton-on-Cherwell",
+  "placeRegion": "Oxfordshire, England, UK",
+  "placeDetail": "The Manor Studio",
+  "tieIn": "where Tubular Bells was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tubular_Bells"
+  ],
+  "audit": "ok"
+ },
+ "05-26": {
+  "lines": [
+   "In 1967, the Beatles released 'Sgt. Pepper's' in the UK.",
+   "It spent 27 weeks at No. 1 on the UK chart."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where Sgt. Pepper was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+   "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band"
+  ],
+  "audit": "ok"
+ },
+ "05-27": {
+  "lines": [
+   "In 1963, Bob Dylan released 'The Freewheelin' Bob Dylan'.",
+   "Columbia issued it; John Hammond signed him."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia Studio A",
+  "tieIn": "where Freewheelin' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Freewheelin%27_Bob_Dylan"
+  ],
+  "audit": "ok"
+ },
+ "05-28": {
+  "lines": [
+   "In 2014, Apple agreed to buy Beats for $3 billion.",
+   "It was the largest acquisition in Apple's history."
+  ],
+  "place": "Cupertino",
+  "placeRegion": "California, USA",
+  "placeDetail": "Apple",
+  "tieIn": "where Apple bought Beats",
+  "changed": true,
+  "sources": [
+   "https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/",
+   "https://en.wikipedia.org/wiki/Beats_Electronics"
+  ],
+  "audit": "ok"
+ },
+ "05-29": {
+  "lines": [
+   "In 1913, Stravinsky's 'The Rite of Spring' premiered in Paris."
+  ],
+  "place": "Paris",
+  "placeRegion": "France",
+  "placeDetail": "Théâtre des Champs-Élysées",
+  "tieIn": "where The Rite of Spring premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Rite_of_Spring"
+  ],
+  "audit": "ok"
+ },
+ "05-30": {
+  "lines": [
+   "In 1968, the Beatles began the 'White Album' at Abbey Road.",
+   "'Revolution 1' was the first track recorded."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Abbey Road Studios",
+  "tieIn": "where the White Album began",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+  ],
+  "audit": "ok"
+ },
+ "05-31": {
+  "lines": [
+   "In 2007, Rihanna released 'Good Girl Gone Bad' on Def Jam.",
+   "'Umbrella' won a Grammy from it."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Good_Girl_Gone_Bad"
+  ],
+  "audit": "ok"
+ },
+ "06-01": {
+  "lines": [
+   "In 1972, Aretha Franklin released 'Amazing Grace' on Atlantic.",
+   "Recorded live in a church; won a Grammy."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "New Temple Missionary Baptist Church",
+  "tieIn": "where Aretha cut 'Amazing Grace'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amazing_Grace_(Aretha_Franklin_album)"
+  ],
+  "note": "Sgt. Pepper is 26 May per Wikipedia, so kept Aretha.",
+  "audit": "ok"
+ },
+ "06-02": {
+  "lines": [
+   "In 1986, Queen released 'A Kind of Magic' on EMI.",
+   "It entered the UK chart at No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/A_Kind_of_Magic"
+  ],
+  "note": "Recorded in Munich, Montreux and London; no single main city.",
+  "audit": "ok"
+ },
+ "06-03": {
+  "lines": [
+   "In 1977, Bob Marley & the Wailers released 'Exodus' on Island.",
+   "It charted for 56 straight UK weeks."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Island Studios",
+  "tieIn": "where Marley recorded 'Exodus'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)"
+  ],
+  "note": "Recorded at Harry J (Kingston) and Island Studios London; Wikipedia says Marley moved to London 'where Exodus was recorded'.",
+  "audit": "ok"
+ },
+ "06-04": {
+  "lines": [
+   "In 1984, Springsteen released 'Born in the U.S.A.' on Columbia.",
+   "It went 17x Platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Power Station and the Hit Factory",
+  "tieIn": "where 'Born in the U.S.A.' was cut",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Born_in_the_U.S.A."
+  ],
+  "audit": "ok"
+ },
+ "06-05": {
+  "lines": [
+   "In 1956, Elvis sang 'Hound Dog' on The Milton Berle Show.",
+   "It caused a national furore."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "NBC's Hollywood studio",
+  "tieIn": "where Elvis shook up 'Hound Dog' on TV",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hound_Dog_(song)",
+   "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "https://www.history.com/this-day-in-history/elvis-rocks-the-milton-berle-show",
+   "https://americansongwriter.com/remember-when-elvis-pelvis-offends-arouses-the-nation-on-the-milton-berle-show"
+  ],
+  "audit": "ok"
+ },
+ "06-06": {
+  "lines": [
+   "In 1962, the Beatles auditioned for George Martin at EMI Studios.",
+   "It was their first EMI session."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where the Beatles first auditioned for EMI",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles%27_recording_sessions"
+  ],
+  "audit": "ok"
+ },
+ "06-07": {
+  "lines": [
+   "In 1993, Prince changed his name to a symbol.",
+   "It was a protest against Warner Bros."
+  ],
+  "changed": true,
+  "sources": [
+   "https://americansongwriter.com/on-this-day-in-1993-prince-changed-his-name-to-a-symbol-and-he-did-it-for-good-reason",
+   "https://en.wikipedia.org/wiki/Prince_(musician)",
+   "https://www.mentalfloss.com/entertainment/music/prince-symbol-name-change-history"
+  ],
+  "note": "Date (his 35th birthday) from American Songwriter; Wikipedia confirms 1993 and Warner dispute.",
+  "audit": "ok"
+ },
+ "06-08": {
+  "lines": [
+   "In 1985, 'Everybody Wants to Rule the World' hit No. 1 in the US.",
+   "Tears for Fears held No. 1 for two weeks."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World"
+  ],
+  "note": "Billboard Hot 100 issue dated 8 June 1985.",
+  "audit": "ok"
+ },
+ "06-09": {
+  "lines": [
+   "In 1978, the Rolling Stones released 'Some Girls'.",
+   "Certified 6x Platinum, it is their top US seller."
+  ],
+  "place": "Boulogne-Billancourt",
+  "placeRegion": "Île-de-France, France",
+  "placeDetail": "Pathe Marconi Studios",
+  "tieIn": "where the Stones cut 'Some Girls'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Some_Girls",
+   "https://ianstewartsixthstone.blogspot.com/2013/07/fact-sheet-some-girls.html"
+  ],
+  "note": "Dire Straits debut date disputed; Springsteen's Columbia signing (9 June 1972) only had secondary sources.",
+  "audit": "fixed: place Paris -> Boulogne-Billancourt (Pathé Marconi studio is there)"
+ },
+ "06-10": {
+  "lines": [
+   "In 1964, the Rolling Stones recorded 'It's All Over Now' at Chess.",
+   "It became their first UK No. 1 single."
+  ],
+  "place": "Chicago",
+  "placeRegion": "Illinois, USA",
+  "placeDetail": "Chess Studios, 2120 South Michigan Avenue",
+  "tieIn": "where the Stones cut 'It's All Over Now'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/It%27s_All_Over_Now",
+   "https://rollingstonesdata.com/articles/when-the-rolling-stones-recorded-at-chess-studios-chicago-1964"
+  ],
+  "note": "Replaced Elvis Madison Square Garden taping (Elvis also on 06-05 and 06-26).",
+  "audit": "fixed: replaced Elvis MSG taping (Elvis repeat) with Stones at Chess"
+ },
+ "06-11": {
+  "lines": [
+   "In 1988, Wembley hosted the Nelson Mandela 70th Birthday Tribute.",
+   "It was broadcast to 67 countries."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wembley Stadium",
+  "tieIn": "where the Mandela tribute was staged",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nelson_Mandela_70th_Birthday_Tribute"
+  ],
+  "note": "Replaced McCartney 'Blackbird' session (duplicate of 06-14 McCartney solo at EMI).",
+  "audit": "fixed: replaced 'Blackbird' session (McCartney repeat) with Mandela tribute"
+ },
+ "06-12": {
+  "lines": [
+   "In 1990, Mariah Carey released her debut album on Columbia.",
+   "11 weeks at No. 1; 9x Platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mariah_Carey_(album)"
+  ],
+  "note": "Recorded across eight studios; no main city.",
+  "audit": "ok"
+ },
+ "06-13": {
+  "lines": [
+   "In 1970, 'The Long and Winding Road' hit No. 1 in the US.",
+   "It was the Beatles' final Hot 100 No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Long_and_Winding_Road"
+  ],
+  "audit": "ok"
+ },
+ "06-14": {
+  "lines": [
+   "In 1965, Paul McCartney recorded 'Yesterday' at EMI Studios.",
+   "It became one of the most-covered songs."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where 'Yesterday' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yesterday_(Beatles_song)"
+  ],
+  "audit": "ok"
+ },
+ "06-15": {
+  "lines": [
+   "In 1989, Nirvana released their debut 'Bleach' on Sub Pop.",
+   "Recording cost just $606.17."
+  ],
+  "place": "Seattle",
+  "placeRegion": "Washington, USA",
+  "placeDetail": "Reciprocal Recording",
+  "tieIn": "where Nirvana recorded 'Bleach'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bleach_(Nirvana_album)"
+  ],
+  "audit": "ok"
+ },
+ "06-16": {
+  "lines": [
+   "In 1965, Bob Dylan recorded 'Like a Rolling Stone' in New York.",
+   "Tom Wilson produced it for Columbia."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia Studio A, 799 Seventh Avenue",
+  "tieIn": "where 'Like a Rolling Stone' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Like_a_Rolling_Stone"
+  ],
+  "audit": "ok"
+ },
+ "06-17": {
+  "lines": [
+   "In 1983, the Police released 'Synchronicity' on A&M.",
+   "It spent 17 weeks at No. 1 in the US."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)"
+  ],
+  "note": "17 June 1983 is the UK release date. Basic tracks at AIR Montserrat, mixed in Quebec, so place left null.",
+  "audit": "ok"
+ },
+ "06-18": {
+  "lines": [
+   "In 1967, Jimi Hendrix set his guitar on fire at Monterey Pop.",
+   "Lou Adler co-organised the festival."
+  ],
+  "place": "Monterey",
+  "placeRegion": "California, USA",
+  "placeDetail": "Monterey County Fairgrounds",
+  "tieIn": "where Hendrix set his guitar ablaze",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monterey_International_Pop_Festival"
+  ],
+  "audit": "ok"
+ },
+ "06-19": {
+  "lines": [
+   "In 1971, Carole King's 'Tapestry' reached No. 1 in the US.",
+   "15 weeks at No. 1; 14x Platinum."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Studios",
+  "tieIn": "where 'Tapestry' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_1971",
+   "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)",
+   "https://americansongwriter.com/on-this-day-in-1971-carole-king-started-a-15-week-stay-at-no-1-with-one-of-the-greatest-albums-of-all-time/"
+  ],
+  "audit": "ok"
+ },
+ "06-20": {
+  "lines": [
+   "In 1948, 'Toast of the Town', later The Ed Sullivan Show, debuted on CBS."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "tieIn": "where The Ed Sullivan Show was born",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show"
+  ],
+  "note": "Show broadcast live from New York; debut venue not explicitly confirmed, so placeDetail null.",
+  "audit": "ok"
+ },
+ "06-21": {
+  "lines": [
+   "In 1948, Columbia Records unveiled the LP at New York's Waldorf Astoria."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Waldorf Astoria",
+  "tieIn": "where Columbia unveiled the LP",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/LP_record"
+  ],
+  "audit": "ok"
+ },
+ "06-22": {
+  "lines": [
+   "In 1971, Joni Mitchell released 'Blue' on Reprise.",
+   "She recorded it at A&M Studios in Hollywood."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "A&M Studios",
+  "tieIn": "where Joni Mitchell recorded 'Blue'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_(Joni_Mitchell_album)"
+  ],
+  "audit": "ok"
+ },
+ "06-23": {
+  "lines": [
+   "In 2016, an LA jury cleared Led Zeppelin in the 'Stairway' case.",
+   "It found no copying of Spirit's 'Taurus'."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "US federal court",
+  "tieIn": "where Led Zeppelin won the Stairway case",
+  "changed": true,
+  "sources": [
+   "https://www.bangordailynews.com/2016/06/23/news/jury-sides-with-led-zeppelin-in-trial-over-song-stairway-to-heaven/",
+   "https://www.guitarworld.com/artists/led-zeppelin-win-stairway-heaven-lawsuit",
+   "https://en.wikipedia.org/wiki/Skidmore_v._Led_Zeppelin"
+  ],
+  "audit": "ok"
+ },
+ "06-24": {
+  "lines": [
+   "In 1974, Lynyrd Skynyrd released 'Sweet Home Alabama' as a single.",
+   "It reached No. 8 on the Hot 100."
+  ],
+  "place": "Doraville",
+  "placeRegion": "Georgia, USA",
+  "placeDetail": "Studio One",
+  "tieIn": "where 'Sweet Home Alabama' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sweet_Home_Alabama",
+   "https://www.soundonsound.com/techniques/classic-tracks-lynyrd-skynyrd-sweet-home-alabama",
+   "https://claytodayonline.com/stories/lynyrd-skynyrds-sweet-home-alabama-was-released-50-years-ago,114552"
+  ],
+  "note": "Replaced Dylan lyrics auction (repeat of 06-16 'Like a Rolling Stone'). Recorded June 1973 at Studio One, Doraville.",
+  "audit": "fixed: replaced 'Like a Rolling Stone' lyrics auction (repeat of 06-16) with 'Sweet Home Alabama' release"
+ },
+ "06-25": {
+  "lines": [
+   "In 1984, Prince released 'Purple Rain' on Warner Bros.",
+   "24 weeks at No. 1; 13x Platinum."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Purple_Rain_(album)"
+  ],
+  "note": "Recorded in Minnesota, New York and Hollywood; no main city.",
+  "audit": "ok"
+ },
+ "06-26": {
+  "lines": [
+   "In 1977, Elvis Presley played his final concert, in Indianapolis."
+  ],
+  "place": "Indianapolis",
+  "placeRegion": "Indiana, USA",
+  "placeDetail": "Market Square Arena",
+  "tieIn": "where Elvis played his last show",
+  "changed": true,
+  "sources": [
+   "https://americansongwriter.com/on-this-day-elvis-presley-performs-his-final-concert-in-1977",
+   "https://www.elvisinfonet.com/Spotlight-Elvis-The-Final-Curtain-June-26-1977.html",
+   "https://theclio.com/entry/33977"
+  ],
+  "audit": "ok"
+ },
+ "06-27": {
+  "lines": [
+   "In 1971, Bill Graham closed New York's Fillmore East.",
+   "The Allman Brothers Band played the final night."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Fillmore East",
+  "tieIn": "where the Fillmore East closed",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fillmore_East"
+  ],
+  "audit": "fixed: 'headlined the finale' unconfirmed -> 'played the final night'"
+ },
+ "06-28": {
+  "lines": [
+   "In 1986, Wham! played their farewell concert at Wembley Stadium.",
+   "72,000 fans saw 'The Final'."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wembley Stadium",
+  "tieIn": "where Wham! said goodbye",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wham!",
+   "https://en.wikipedia.org/wiki/The_Final_(concert)"
+  ],
+  "audit": "ok"
+ },
+ "06-29": {
+  "lines": [
+   "In 1985, Lennon's psychedelic Rolls-Royce sold at Sotheby's.",
+   "A record auction price for a car."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Sotheby's",
+  "tieIn": "where Lennon's Rolls-Royce was sold",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Lennon%27s_psychedelic_Rolls-Royce",
+   "https://www.hagerty.com/media/?p=2980",
+   "https://automotivehistory.org/june-29-1985-john-lennons-psychedelic-rolls-royce-goes-to-auction/amp",
+   "https://www.guinnessworldrecords.com/world-records/62482-most-expensive-pop-memorabilia"
+  ],
+  "note": "Exact price varies by source ($2.229M-$2.299M), so omitted.",
+  "audit": "ok"
+ },
+ "06-30": {
+  "lines": [
+   "In 1966, the Beatles played the first of five shows at Tokyo's Budokan."
+  ],
+  "place": "Tokyo",
+  "placeRegion": "Japan",
+  "placeDetail": "Nippon Budokan",
+  "tieIn": "where the Beatles played the Budokan",
+  "changed": true,
+  "sources": [
+   "https://beatlesbible.com/1966/06/30/live-nippon-budokan-hall-tokyo",
+   "https://www.nippon.com/en/japan-topics/g02613/",
+   "https://www.nippon.com/en/japan-topics/g02613/the-fab-four-in-the-far-east-the-beatles%E2%80%99-1966-tokyo-tour.html"
+  ],
+  "audit": "ok"
+ },
+ "07-01": {
+  "lines": [
+   "In 1979, Sony put the first Walkman, the TPS-L2, on sale in Japan.",
+   "Price: about 33,000 yen, or $150."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walkman"
+  ],
+  "note": "Tokyo not stated as sale city in source; place left null",
+  "audit": "ok"
+ },
+ "07-02": {
+  "lines": [
+   "In 2005, Live 8 filled London's Hyde Park.",
+   "Pink Floyd's classic lineup reunited after 24 years."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Hyde Park",
+  "tieIn": "where Live 8 rocked Hyde Park",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Live_8"
+  ],
+  "audit": "ok"
+ },
+ "07-03": {
+  "lines": [
+   "In 1973, David Bowie retired Ziggy Stardust at the Hammersmith Odeon."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Hammersmith Odeon",
+  "tieIn": "where Bowie retired Ziggy Stardust",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ziggy_Stardust_(character)"
+  ],
+  "audit": "ok"
+ },
+ "07-04": {
+  "lines": [
+   "In 1976, the Ramones played their first UK show at the Roundhouse."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "The Roundhouse",
+  "tieIn": "where the Ramones lit UK punk's fuse",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ramones"
+  ],
+  "audit": "ok"
+ },
+ "07-05": {
+  "lines": [
+   "In 1954, Elvis Presley recorded 'That's All Right' at Sun Studio.",
+   "Sam Phillips produced it."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Sun Studio",
+  "tieIn": "where Elvis cut 'That's All Right'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/That%27s_All_Right"
+  ],
+  "audit": "ok"
+ },
+ "07-06": {
+  "lines": [
+   "In 1957, John Lennon met Paul McCartney at a church fete in Woolton."
+  ],
+  "place": "Liverpool",
+  "placeRegion": "England, UK",
+  "placeDetail": "St. Peter's Church, Woolton",
+  "tieIn": "where Lennon first met McCartney",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Quarrymen"
+  ],
+  "audit": "ok"
+ },
+ "07-07": {
+  "lines": [
+   "In 2007, Live Earth staged climate concerts worldwide in one day.",
+   "London's show was at Wembley."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wembley Stadium",
+  "tieIn": "where Live Earth played Wembley",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Live_Earth",
+   "https://en.wikipedia.org/wiki/Live_Earth_(2007_concert)"
+  ],
+  "note": "'seven continents' incl. Antarctica per article; multi-city event, London chosen as one documented venue",
+  "audit": "ok"
+ },
+ "07-08": {
+  "lines": [
+   "In 1958, 'Oklahoma!' became the first RIAA-certified gold album.",
+   "The Capitol soundtrack later went 2x platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oklahoma!_(soundtrack)",
+   "https://www.riaa.com/24991-2/"
+  ],
+  "audit": "ok"
+ },
+ "07-09": {
+  "lines": [
+   "In 1955, 'Rock Around the Clock' became rock's first Billboard No. 1.",
+   "Bill Haley's Decca hit held 8 weeks."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Pythian Temple (Decca studio)",
+  "tieIn": "where 'Rock Around the Clock' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rock_Around_the_Clock"
+  ],
+  "audit": "ok"
+ },
+ "07-10": {
+  "lines": [
+   "In 2012, Frank Ocean released 'Channel Orange' on Def Jam.",
+   "It won the Grammy for Best Urban Contemporary Album."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "EastWest Studios, Hollywood",
+  "tieIn": "where Frank Ocean made 'Channel Orange'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Channel_Orange"
+  ],
+  "audit": "ok"
+ },
+ "07-11": {
+  "lines": [
+   "In 1969, David Bowie released 'Space Oddity' on Philips.",
+   "Gus Dudgeon produced it at Trident Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Trident Studios",
+  "tieIn": "where 'Space Oddity' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Space_Oddity",
+   "https://en.wikipedia.org/wiki/Space_Oddity_(song)"
+  ],
+  "audit": "ok"
+ },
+ "07-12": {
+  "lines": [
+   "In 1962, the Rolling Stones played their first gig at the Marquee Club."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Marquee Club",
+  "tieIn": "where the Rolling Stones played gig one",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Rolling_Stones"
+  ],
+  "audit": "ok"
+ },
+ "07-13": {
+  "lines": [
+   "In 1985, Live Aid played Wembley and Philadelphia to 1.9bn viewers.",
+   "About 150m pounds was raised."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wembley Stadium",
+  "tieIn": "where Live Aid opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Live_Aid"
+  ],
+  "audit": "ok"
+ },
+ "07-14": {
+  "lines": [
+   "In 2018, Drake held 7 Hot 100 top 10s at once, beating the Beatles.",
+   "He had 27 songs on that week's chart."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.thefader.com/2018/07/09/drake-breaks-beatles-record-scorpion-top-10",
+   "https://guinnessworldrecords.com/world-records/534279-most-simultaneous-top-10-entries-on-the-us-singles-chart",
+   "https://en.wikipedia.org/wiki/Scorpion_(Drake_album)",
+   "https://www.stereogum.com/2004951/drake-beats-the-beatles-record-for-most-simultaneous-songs-in-the-top-10/news/"
+  ],
+  "note": "Billboard Hot 100 dated July 14, 2018; Beatles' record of 5 from 1964",
+  "audit": "fixed: 27 songs were Drake's total; 'Scorpion' had 25"
+ },
+ "07-15": {
+  "lines": [
+   "In 1986, Run-DMC's 'Raising Hell' became rap's first platinum album.",
+   "Rick Rubin and Russell Simmons produced."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raising_Hell_(album)"
+  ],
+  "note": "Alt: Gangnam Style released July 15, 2012",
+  "audit": "ok"
+ },
+ "07-16": {
+  "lines": [
+   "In 2008, Billy Joel opened 'The Last Play at Shea' at Shea Stadium.",
+   "Two nights drew 110,000 fans."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Shea Stadium, Queens",
+  "tieIn": "where Billy Joel closed Shea Stadium",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Last_Play_at_Shea"
+  ],
+  "audit": "ok"
+ },
+ "07-17": {
+  "lines": [
+   "In 1968, the Beatles' 'Yellow Submarine' film premiered.",
+   "All four Beatles attended at the London Pavilion."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "London Pavilion",
+  "tieIn": "where 'Yellow Submarine' premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yellow_Submarine_(film)"
+  ],
+  "audit": "ok"
+ },
+ "07-18": {
+  "lines": [
+   "In 1980, Joy Division released 'Closer' on Factory Records.",
+   "Martin Hannett produced it."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Britannia Row Studios, Islington",
+  "tieIn": "where Joy Division recorded 'Closer'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Closer_(Joy_Division_album)"
+  ],
+  "audit": "ok"
+ },
+ "07-19": {
+  "lines": [
+   "In 1997, The Prodigy's 'The Fat of the Land' hit No. 1 in the US."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Fat_of_the_Land"
+  ],
+  "audit": "fixed: removed XL label line (US release was via Maverick)"
+ },
+ "07-20": {
+  "lines": [
+   "In 1965, Bob Dylan released 'Like a Rolling Stone' on Columbia.",
+   "Tom Wilson produced; it peaked at No. 2."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia Studio A",
+  "tieIn": "where 'Like a Rolling Stone' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Like_a_Rolling_Stone"
+  ],
+  "audit": "ok"
+ },
+ "07-21": {
+  "lines": [
+   "In 1990, Roger Waters staged 'The Wall - Live in Berlin'.",
+   "It was eight months after the Wall fell."
+  ],
+  "place": "Berlin",
+  "placeRegion": "Germany",
+  "placeDetail": "Potsdamer Platz",
+  "tieIn": "where Roger Waters staged 'The Wall'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Wall_%E2%80%93_Live_in_Berlin"
+  ],
+  "audit": "ok"
+ },
+ "07-22": {
+  "lines": [
+   "In 1977, Elvis Costello released 'My Aim Is True' on Stiff Records.",
+   "Nick Lowe produced it."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Pathway Studios, Islington",
+  "tieIn": "where Costello cut 'My Aim Is True'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/My_Aim_Is_True"
+  ],
+  "note": "UK release date; US release was Nov 1, 1977",
+  "audit": "ok"
+ },
+ "07-23": {
+  "lines": [
+   "In 1996, Fiona Apple released her debut 'Tidal'.",
+   "It went 3x platinum; 'Criminal' won a Grammy."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "tieIn": "where Fiona Apple recorded 'Tidal'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tidal_(album)"
+  ],
+  "note": "Recorded at Sony (LA), Ocean Way (Hollywood), 4th Street (LA): all Los Angeles area",
+  "audit": "ok"
+ },
+ "07-24": {
+  "lines": [
+   "In 2020, Taylor Swift released 'Folklore' on Republic.",
+   "It won the Grammy for Album of the Year."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)"
+  ],
+  "audit": "ok"
+ },
+ "07-25": {
+  "lines": [
+   "In 1980, AC/DC released 'Back in Black' in the US.",
+   "Mutt Lange produced; RIAA certified it 27x platinum."
+  ],
+  "place": "Nassau",
+  "placeRegion": "Bahamas",
+  "placeDetail": "Compass Point Studios",
+  "tieIn": "where AC/DC recorded 'Back in Black'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Back_in_Black"
+  ],
+  "note": "Alt: Dylan went electric at Newport, July 25, 1965",
+  "audit": "ok"
+ },
+ "07-26": {
+  "lines": [
+   "In 1968, the Jackson 5 signed their first Motown contract in Detroit."
+  ],
+  "place": "Detroit",
+  "placeRegion": "Michigan, USA",
+  "tieIn": "where the Jackson 5 signed to Motown",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Jackson_5"
+  ],
+  "audit": "ok"
+ },
+ "07-27": {
+  "lines": [
+   "In 1984, Prince's 'Purple Rain' film opened in US theaters.",
+   "Warner Bros. film grossed $68 million in the US."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Purple_Rain_(film)"
+  ],
+  "audit": "ok"
+ },
+ "07-28": {
+  "lines": [
+   "In 1973, Summer Jam at Watkins Glen drew an estimated 600,000 fans.",
+   "Grateful Dead, the Band, Allman Brothers."
+  ],
+  "place": "Watkins Glen",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Watkins Glen Grand Prix Raceway",
+  "tieIn": "where Summer Jam drew 600,000",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Summer_Jam_at_Watkins_Glen"
+  ],
+  "audit": "ok"
+ },
+ "07-29": {
+  "lines": [
+   "In 1965, the Beatles' 'Help!' had its royal world premiere."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "London Pavilion",
+  "tieIn": "where the Beatles' 'Help!' premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Help!_(film)"
+  ],
+  "audit": "ok"
+ },
+ "07-30": {
+  "lines": [
+   "In 2011, U2's 360 Tour ended as the top-grossing tour ever.",
+   "It grossed $736 million from 7.27 million fans."
+  ],
+  "place": "Moncton",
+  "placeRegion": "New Brunswick, Canada",
+  "tieIn": "where U2's record 360 Tour ended",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/U2_360%C2%B0_Tour"
+  ],
+  "note": "Record stood until 2019",
+  "audit": "ok"
+ },
+ "07-31": {
+  "lines": [
+   "In 1969, Elvis Presley opened at the International Hotel.",
+   "He played the hotel regularly until December 1976."
+  ],
+  "place": "Las Vegas",
+  "placeRegion": "Nevada, USA",
+  "placeDetail": "International Hotel",
+  "tieIn": "where Elvis began his Vegas residency",
+  "changed": true,
+  "sources": [
+   "https://lasvegas.citycast.fm/history-archive/55-years-ago-elvis-presley-vegas-international",
+   "https://special.library.unlv.edu/node/721",
+   "https://lasvegassun.com/blogs/kats-report/2015/apr/26/was-number-elvis-consecutive-sold-out-shows-vegas-/"
+  ],
+  "audit": "fixed: 636-concert count disputed (636 vs 837) -> run end date"
+ },
+ "08-01": {
+  "lines": [
+   "In 1981, MTV launched, opening with 'Video Killed the Radio Star'.",
+   "Warner-Amex owned the channel."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MTV"
+  ],
+  "note": "Launch city not stated in source; place left null.",
+  "audit": "ok"
+ },
+ "08-02": {
+  "lines": [
+   "In 2019, Ed Sheeran's Divide Tour passed U2 as the top-grossing tour.",
+   "It hit $737.9 million."
+  ],
+  "place": "Odense",
+  "placeRegion": "Denmark",
+  "tieIn": "where Divide broke U2's tour record",
+  "changed": true,
+  "sources": [
+   "https://ticketnews.com/2019/08/ed-sheeran-all-time-record-highest-grossing-tour",
+   "https://en.wikipedia.org/wiki/%C3%B7_Tour",
+   "https://rap-up.com/2019/08/03/ed-sheeran-highest-grossing-tour"
+  ],
+  "note": "Billboard Boxscore figures via TicketNews; Who's Next date conflicted so not used.",
+  "audit": "ok"
+ },
+ "08-03": {
+  "lines": [
+   "In 1963, the Beatles played Liverpool's Cavern Club for the last time."
+  ],
+  "place": "Liverpool",
+  "placeRegion": "England, UK",
+  "placeDetail": "The Cavern Club",
+  "tieIn": "where the Beatles last played the Cavern",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_at_the_Cavern_Club"
+  ],
+  "audit": "ok"
+ },
+ "08-04": {
+  "lines": [
+   "In 1958, Billboard launched the Hot 100 singles chart.",
+   "Ricky Nelson's 'Poor Little Fool' was its first No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Billboard_Hot_100"
+  ],
+  "audit": "ok"
+ },
+ "08-05": {
+  "lines": [
+   "In 1966, the Beatles released 'Revolver' in the UK.",
+   "George Martin produced it at EMI Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (now Abbey Road Studios)",
+  "tieIn": "where 'Revolver' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Revolver_(Beatles_album)"
+  ],
+  "audit": "ok"
+ },
+ "08-06": {
+  "lines": [
+   "In 1965, the Beatles released 'Help!' in the UK.",
+   "George Martin produced it at EMI Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (now Abbey Road Studios)",
+  "tieIn": "where 'Help!' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Help!_(album)"
+  ],
+  "audit": "ok"
+ },
+ "08-07": {
+  "lines": [
+   "In 1997, Garth Brooks played a free show in Central Park.",
+   "HBO's live broadcast drew 14.6 million viewers."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Central Park",
+  "tieIn": "where Garth Brooks played Central Park",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garth:_Live_from_Central_Park"
+  ],
+  "audit": "ok"
+ },
+ "08-08": {
+  "lines": [
+   "In 1969, Iain Macmillan shot the 'Abbey Road' cover outside EMI Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Abbey Road, outside EMI Studios",
+  "tieIn": "where the Abbey Road cover was shot",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abbey_Road"
+  ],
+  "audit": "ok"
+ },
+ "08-09": {
+  "lines": [
+   "In 1986, Queen played Knebworth, their last show with Freddie Mercury.",
+   "The official crowd was 120,000."
+  ],
+  "place": "Knebworth",
+  "placeRegion": "England, UK",
+  "placeDetail": "Knebworth Park",
+  "tieIn": "where Queen last played with Freddie",
+  "changed": true,
+  "sources": [
+   "https://www.queenconcerts.com/detail/live/700/queen-live-09-08-1986-knebworth-park-stevenage-uk.html",
+   "https://www.wikiwand.com/en/articles/Knebworth_Festival"
+  ],
+  "note": "Knebworth Park is near Stevenage, Hertfordshire; some estimates put the crowd higher.",
+  "audit": "fixed: place Stevenage -> Knebworth (Knebworth Park)"
+ },
+ "08-10": {
+  "lines": [
+   "In 1979, Michael Jackson released 'Off the Wall' on Epic.",
+   "Quincy Jones produced the album."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Allen Zentz Recording, Hollywood",
+  "tieIn": "where 'Off the Wall' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Off_the_Wall"
+  ],
+  "note": "MJ's ATV catalog purchase is dated Aug 10 or Aug 14 1985 by different sources, so not used.",
+  "audit": "ok"
+ },
+ "08-11": {
+  "lines": [
+   "In 1973, DJ Kool Herc spun at 1520 Sedgwick Avenue in the Bronx.",
+   "The party is seen as hip hop's birth."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "1520 Sedgwick Avenue, the Bronx",
+  "tieIn": "where hip hop was born",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1520_Sedgwick_Avenue"
+  ],
+  "audit": "ok"
+ },
+ "08-12": {
+  "lines": [
+   "In 1964, the Beatles' 'A Hard Day's Night' opened in North America.",
+   "It grossed about $14 million first run."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night_(film)"
+  ],
+  "audit": "ok"
+ },
+ "08-13": {
+  "lines": [
+   "In 1952, Big Mama Thornton recorded 'Hound Dog' in Los Angeles.",
+   "It spent 7 weeks at R&B No. 1."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Radio Recorders Annex",
+  "tieIn": "where 'Hound Dog' was first recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hound_Dog_(song)"
+  ],
+  "audit": "ok"
+ },
+ "08-14": {
+  "lines": [
+   "In 1976, Stiff Records issued its first single, 'So It Goes'.",
+   "It began on a 400-pound loan."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "tieIn": "where Stiff Records was founded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stiff_Records"
+  ],
+  "audit": "ok"
+ },
+ "08-15": {
+  "lines": [
+   "In 1965, the Beatles played Shea Stadium to 55,600 fans.",
+   "Sid Bernstein promoted the show."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Shea Stadium, Queens",
+  "tieIn": "where the Beatles played Shea Stadium",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_at_Shea_Stadium"
+  ],
+  "note": "Woodstock (Aug 15-18, 1969) is used on 08-18 instead.",
+  "audit": "ok"
+ },
+ "08-16": {
+  "lines": [
+   "In 1977, Elvis Presley died at Graceland in Memphis, aged 42."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Graceland",
+  "tieIn": "where Elvis lived at Graceland",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Death_of_Elvis_Presley"
+  ],
+  "audit": "ok"
+ },
+ "08-17": {
+  "lines": [
+   "In 1959, Columbia released Miles Davis's 'Kind of Blue'.",
+   "The RIAA certified it 5x platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Columbia 30th Street Studio",
+  "tieIn": "where 'Kind of Blue' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kind_of_Blue"
+  ],
+  "note": "Constraint date kept; release Aug 17, 1959 verified.",
+  "audit": "ok"
+ },
+ "08-18": {
+  "lines": [
+   "In 1969, Jimi Hendrix closed the Woodstock festival on its final morning."
+  ],
+  "place": "Bethel",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Max Yasgur's farm",
+  "tieIn": "where Woodstock took place",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Woodstock"
+  ],
+  "audit": "ok"
+ },
+ "08-19": {
+  "lines": [
+   "In 1964, the Beatles opened their first US tour at the Cow Palace."
+  ],
+  "place": "Daly City",
+  "placeRegion": "California, USA",
+  "placeDetail": "Cow Palace",
+  "tieIn": "where the Beatles' 1964 tour opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles%27_1964_North_American_tour"
+  ],
+  "audit": "ok"
+ },
+ "08-20": {
+  "lines": [
+   "In 2018, the Eagles' 'Their Greatest Hits' hit 38x platinum.",
+   "It passed 'Thriller' as the top US album."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.cbsnews.com/amp/news/the-eagles-greatest-hits-album-beats-michael-jacksons-thriller-as-no-1-all-time-album-today",
+   "https://www.billboard.com/articles/news/8470996/riaa-eagles-greatest-hits-certified-38x-platinum-passing-thriller",
+   "https://www.rollingstone.com/music/music-news/eagles-greatest-hits-overtakes-michael-jacksons-thriller-as-best-selling-album-713224/"
+  ],
+  "audit": "ok"
+ },
+ "08-21": {
+  "lines": [
+   "In 1997, Oasis released 'Be Here Now' on Creation.",
+   "It sold over 424,000 copies in the UK on its first day."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Be_Here_Now_(album)"
+  ],
+  "note": "Recorded across several London and Surrey studios; place left null.",
+  "audit": "ok"
+ },
+ "08-22": {
+  "lines": [
+   "In 1994, Portishead released 'Dummy' on Go! Beat.",
+   "It went on to win the 1995 Mercury Music Prize."
+  ],
+  "place": "Bristol",
+  "placeRegion": "England, UK",
+  "placeDetail": "State of Art and Coach House Studios",
+  "tieIn": "where 'Dummy' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dummy_(album)"
+  ],
+  "audit": "ok"
+ },
+ "08-23": {
+  "lines": [
+   "In 1963, the Beatles released 'She Loves You' in the UK.",
+   "It became their best-selling UK single."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (now Abbey Road Studios)",
+  "tieIn": "where 'She Loves You' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/She_Loves_You"
+  ],
+  "audit": "ok"
+ },
+ "08-24": {
+  "lines": [
+   "In 1975, Queen began recording 'Bohemian Rhapsody' at Rockfield.",
+   "It went RIAA Diamond in 2021."
+  ],
+  "place": "Rockfield",
+  "placeRegion": "Wales, UK",
+  "placeDetail": "Rockfield Studios",
+  "tieIn": "where 'Bohemian Rhapsody' was begun",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bohemian_Rhapsody",
+   "https://en.wikipedia.org/wiki/Rockfield_Studios"
+  ],
+  "note": "Later sessions were in London studios.",
+  "audit": "fixed: place Monmouth -> Rockfield (studio is in Rockfield village near Monmouth)"
+ },
+ "08-25": {
+  "lines": [
+   "In 1975, Bruce Springsteen released 'Born to Run' on Columbia.",
+   "The RIAA has since certified it 7x platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Born_to_Run_(album)",
+   "https://en.wikipedia.org/wiki/Boston_(album)",
+   "https://en.wikipedia.org/wiki/Born_to_Run"
+  ],
+  "note": "Boston's debut dropped: sources give Aug 23 or Aug 25, 1976. Born to Run split between Blauvelt and Manhattan studios; place null.",
+  "audit": "ok"
+ },
+ "08-26": {
+  "lines": [
+   "In 1970, Jimi Hendrix's Electric Lady Studios opened in Greenwich Village."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Electric Lady Studios, 52 West 8th Street",
+  "tieIn": "where Electric Lady Studios opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Electric_Lady_Studios"
+  ],
+  "audit": "ok"
+ },
+ "08-27": {
+  "lines": [
+   "In 1990, Garth Brooks released 'No Fences' on Capitol.",
+   "The RIAA certified it 18x platinum."
+  ],
+  "place": "Nashville",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Jack's Tracks",
+  "tieIn": "where 'No Fences' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/No_Fences"
+  ],
+  "audit": "ok"
+ },
+ "08-28": {
+  "lines": [
+   "In 1964, Bob Dylan met the Beatles at New York's Delmonico Hotel.",
+   "Writer Al Aronowitz arranged the meeting."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Delmonico Hotel, Park Avenue",
+  "tieIn": "where Dylan first met the Beatles",
+  "changed": true,
+  "sources": [
+   "https://beatlesbible.com/1964/08/28/bob-dylan-turns-the-beatles-on-to-cannabis/",
+   "https://en.wikipedia.org/wiki/Al_Aronowitz"
+  ],
+  "audit": "ok"
+ },
+ "08-29": {
+  "lines": [
+   "In 1966, the Beatles played their last concert, at Candlestick Park.",
+   "About 7,000 tickets went unsold."
+  ],
+  "place": "San Francisco",
+  "placeRegion": "California, USA",
+  "placeDetail": "Candlestick Park",
+  "tieIn": "where the Beatles played their last concert",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles%27_1966_US_tour"
+  ],
+  "audit": "fixed: tieIn 'last show' -> 'last concert' (1969 rooftop)"
+ },
+ "08-30": {
+  "lines": [
+   "In 2005, Kanye West released 'Late Registration' on Roc-A-Fella.",
+   "It sold 860,000 in its first week."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Late_Registration"
+  ],
+  "audit": "fixed: place New York removed (recorded mainly in Hollywood plus NYC)"
+ },
+ "08-31": {
+  "lines": [
+   "In 1987, Michael Jackson released 'Bad' on Epic.",
+   "Quincy Jones produced; it yielded five Hot 100 No. 1 singles."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Westlake Recording Studios",
+  "tieIn": "where 'Bad' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bad_(album)"
+  ],
+  "audit": "ok"
+ },
+ "09-01": {
+  "lines": [
+   "In 1984, Tina Turner hit No. 1 with 'What's Love Got to Do with It'.",
+   "Her only US No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1984",
+   "https://en.wikipedia.org/wiki/What%27s_Love_Got_to_Do_with_It_(song)"
+  ],
+  "note": "Billboard Hot 100 issue dated Sept 1, 1984. Recorded at Mayfair Studios, London, but event is a chart date so no place.",
+  "audit": "ok"
+ },
+ "09-02": {
+  "lines": [
+   "In 1991, Garth Brooks released 'Ropin' the Wind'.",
+   "It debuted at No. 1; RIAA 14x Platinum."
+  ],
+  "place": "Nashville",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Jack's Tracks",
+  "tieIn": "where 'Ropin' the Wind' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ropin%27_the_Wind"
+  ],
+  "audit": "ok"
+ },
+ "09-03": {
+  "lines": [
+   "In 1982, Steve Wozniak's first US Festival opened.",
+   "About 400,000 came over three days."
+  ],
+  "place": "San Bernardino",
+  "placeRegion": "California, USA",
+  "placeDetail": "Glen Helen Regional Park, Devore",
+  "tieIn": "where the first US Festival was held",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Festival"
+  ],
+  "note": "Co-promoted with Bill Graham; Sept 3-5, 1982.",
+  "audit": "ok"
+ },
+ "09-04": {
+  "lines": [
+   "In 1970, the Rolling Stones released 'Get Yer Ya-Ya's Out!'.",
+   "First live album to hit UK No. 1."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Madison Square Garden",
+  "tieIn": "where 'Ya-Ya's' was recorded live",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Get_Yer_Ya-Ya%27s_Out!"
+  ],
+  "note": "Mostly recorded at MSG 27-28 Nov 1969 (one track Baltimore). Place is a judgement call; could be set null.",
+  "audit": "ok"
+ },
+ "09-05": {
+  "lines": [
+   "In 1998, Aerosmith's 'I Don't Want to Miss a Thing' debuted at No. 1.",
+   "Diane Warren wrote it."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Don%27t_Want_to_Miss_a_Thing"
+  ],
+  "note": "Billboard Hot 100 dated Sept 5, 1998; 4 weeks at No. 1.",
+  "audit": "ok"
+ },
+ "09-06": {
+  "lines": [
+   "In 1997, Elton John sang 'Candle in the Wind' at Diana's funeral.",
+   "The single sold about 33 million."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Westminster Abbey",
+  "tieIn": "where Elton sang at Diana's funeral",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Candle_in_the_Wind_1997"
+  ],
+  "note": "Performance at Westminster Abbey; recorded at Townhouse Studios right after.",
+  "audit": "ok"
+ },
+ "09-07": {
+  "lines": [
+   "In 1968, Led Zeppelin played their first show, as the New Yardbirds.",
+   "Atlantic later gave a $143,000 advance."
+  ],
+  "place": "Gladsaxe",
+  "placeRegion": "Denmark",
+  "placeDetail": "Gladsaxe Teen Club, Egegard School",
+  "tieIn": "where Led Zeppelin first played live",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Led_Zeppelin"
+  ],
+  "audit": "fixed: noted they were billed as the New Yardbirds"
+ },
+ "09-08": {
+  "lines": [
+   "In 2003, the RIAA sued 261 people for sharing music files.",
+   "Its first suits against individuals."
+  ],
+  "changed": true,
+  "sources": [
+   "https://money.cnn.com/2003/09/08/technology/riaa_suits/index.htm",
+   "https://www.history.com/this-day-in-history/September-8/riaa-begins-suing-individual-sharers-of-copyrighted-mp3-files"
+  ],
+  "note": "Targets used Kazaa, Grokster, Gnutella etc.",
+  "audit": "ok"
+ },
+ "09-09": {
+  "lines": [
+   "In 1956, Elvis Presley first played The Ed Sullivan Show.",
+   "About 60 million people watched."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "CBS Television City",
+  "tieIn": "where Elvis played his first Sullivan",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show",
+   "https://www.history.com/this-day-in-history/September-9/elvis-presley-first-appearance-the-ed-sullivan-show",
+   "https://www.tvinsider.com/1285956/elvis-presley-performed-ed-sullivan-show-first-time/"
+  ],
+  "note": "Elvis performed from CBS Television City in LA; Charles Laughton guest-hosted.",
+  "audit": "fixed: viewers 60.7M (IMDb trivia only) -> about 60 million"
+ },
+ "09-10": {
+  "lines": [
+   "In 1991, Nirvana released 'Smells Like Teen Spirit' on DGC.",
+   "Butch Vig produced it."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Sound City Studios, Van Nuys",
+  "tieIn": "where 'Teen Spirit' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit"
+  ],
+  "audit": "ok"
+ },
+ "09-11": {
+  "lines": [
+   "In 1962, the Beatles recorded 'Love Me Do' at EMI Studios.",
+   "Session drummer Andy White played."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where the Beatles cut 'Love Me Do'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Love_Me_Do"
+  ],
+  "note": "Album/US single version recorded 11 Sep 1962; earlier 4 Sep take had Ringo.",
+  "audit": "ok"
+ },
+ "09-12": {
+  "lines": [
+   "In 1975, Pink Floyd released 'Wish You Were Here'.",
+   "Made at Abbey Road; No. 1 in UK and US."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where 'Wish You Were Here' was made",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)"
+  ],
+  "note": "UK release 12 Sep 1975; US (Columbia) 13 Sep.",
+  "audit": "ok"
+ },
+ "09-13": {
+  "lines": [
+   "In 1994, The Notorious B.I.G. released 'Ready to Die' on Bad Boy.",
+   "RIAA 6x Platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Hit Factory",
+  "tieIn": "where 'Ready to Die' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ready_to_Die"
+  ],
+  "note": "Mainly recorded at the Hit Factory, NYC.",
+  "audit": "ok"
+ },
+ "09-14": {
+  "lines": [
+   "In 1984, Madonna sang 'Like a Virgin' at the first MTV VMAs.",
+   "She rose from a wedding cake."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Radio City Music Hall",
+  "tieIn": "where the first MTV VMAs were held",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1984_MTV_Video_Music_Awards"
+  ],
+  "audit": "ok"
+ },
+ "09-15": {
+  "lines": [
+   "In 1965, Otis Redding released 'Otis Blue' on Volt.",
+   "Mostly cut in under 24 hours at Stax."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Stax studio",
+  "tieIn": "where 'Otis Blue' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Otis_Blue",
+   "https://en.wikipedia.org/wiki/Otis_Blue/Otis_Redding_Sings_Soul"
+  ],
+  "audit": "fixed: 'about 24 hours' -> 'mostly cut in under 24 hours' (one track from April)"
+ },
+ "09-16": {
+  "lines": [
+   "In 1979, the Sugarhill Gang released 'Rapper's Delight'.",
+   "Sylvia Robinson produced it."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rapper%27s_Delight"
+  ],
+  "audit": "ok"
+ },
+ "09-17": {
+  "lines": [
+   "In 1967, the Doors sang the 'higher' line CBS asked them to change.",
+   "They were never asked back."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Light_My_Fire",
+   "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show",
+   "https://ultimateclassicrock.com/the-doors-banned-from-the-ed-sullivan-show-september-17-1967/",
+   "https://www.edsullivan.com/?p=3058"
+  ],
+  "note": "Show based at CBS Studio 50 NYC, but source does not explicitly confirm venue for this episode, so place null.",
+  "audit": "ok"
+ },
+ "09-18": {
+  "lines": [
+   "In 1970, Jimi Hendrix died in London at the age of 27."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "tieIn": "where Jimi Hendrix died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+   "https://en.wikipedia.org/wiki/Death_of_Jimi_Hendrix"
+  ],
+  "audit": "fixed: placeDetail 'Notting Hill' -> null (found at Samarkand Hotel, Notting Hill; pronounced dead at St Mary Abbots, Kensington)"
+ },
+ "09-19": {
+  "lines": [
+   "In 1981, Simon & Garfunkel played Central Park to about 500,000."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Great Lawn, Central Park",
+  "tieIn": "where Simon & Garfunkel reunited",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Concert_in_Central_Park"
+  ],
+  "audit": "ok"
+ },
+ "09-20": {
+  "lines": [
+   "In 1969, John Lennon told the Beatles he was leaving.",
+   "They signed a new EMI/Capitol deal that day."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Apple Corps, 3 Savile Row",
+  "tieIn": "where Lennon quit the Beatles",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Breakup_of_the_Beatles",
+   "https://beatlesbible.com/1969/09/20/john-lennon-reveals-he-is-leaving-the-beatles"
+  ],
+  "audit": "fixed: 'Capitol deal' -> 'EMI/Capitol deal' (renegotiated EMI/Capitol contract)"
+ },
+ "09-21": {
+  "lines": [
+   "In 2004, Green Day released 'American Idiot' on Reprise.",
+   "Their first Billboard 200 No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/American_Idiot"
+  ],
+  "note": "Recorded in Oakland and Hollywood; no main city, so null. Some sites list Sept 20 but Wikipedia infobox says Sept 21.",
+  "audit": "ok"
+ },
+ "09-22": {
+  "lines": [
+   "In 1985, the first Farm Aid concert was held.",
+   "It raised over $9 million for farmers."
+  ],
+  "place": "Champaign",
+  "placeRegion": "Illinois, USA",
+  "placeDetail": "Memorial Stadium",
+  "tieIn": "where the first Farm Aid was held",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Farm_Aid"
+  ],
+  "audit": "ok"
+ },
+ "09-23": {
+  "lines": [
+   "In 1977, Steely Dan released 'Aja' on ABC.",
+   "Gary Katz produced; 2x Platinum."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aja_(album)"
+  ],
+  "note": "Recorded at six studios (LA and NYC), so place null. Grammy = Best Engineered Recording.",
+  "audit": "ok"
+ },
+ "09-24": {
+  "lines": [
+   "In 1991, Nirvana released 'Nevermind' on DGC.",
+   "Butch Vig produced; RIAA Diamond."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Sound City Studios, Van Nuys",
+  "tieIn": "where 'Nevermind' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nevermind"
+  ],
+  "audit": "ok"
+ },
+ "09-25": {
+  "lines": [
+   "In 1980, Led Zeppelin drummer John Bonham died at age 32.",
+   "The band split in December."
+  ],
+  "place": "Windsor",
+  "placeRegion": "England, UK",
+  "placeDetail": "Old Mill House, Clewer",
+  "tieIn": "where John Bonham died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Bonham"
+  ],
+  "audit": "ok"
+ },
+ "09-26": {
+  "lines": [
+   "In 1969, the Beatles released 'Abbey Road' on Apple.",
+   "It spent 17 weeks at UK No. 1."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where 'Abbey Road' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abbey_Road"
+  ],
+  "note": "Recorded at EMI, Olympic and Trident, London.",
+  "audit": "ok"
+ },
+ "09-27": {
+  "lines": [
+   "In 2008, Metallica's 'Death Magnetic' hit No. 1 in the US.",
+   "Their fifth straight No. 1 debut."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Death_Magnetic"
+  ],
+  "note": "Billboard issue dated Sept 27, 2008; produced by Rick Rubin.",
+  "audit": "ok"
+ },
+ "09-28": {
+  "lines": [
+   "In 1968, the Beatles' 'Hey Jude' hit No. 1 in the US.",
+   "It held the top spot for 9 weeks."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hey_Jude",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1968"
+  ],
+  "note": "Recorded at Trident Studios, London; event is a chart date so place null.",
+  "audit": "ok"
+ },
+ "09-29": {
+  "lines": [
+   "In 1998, Outkast released 'Aquemini' on LaFace/Arista.",
+   "It debuted at No. 2, selling 227,000."
+  ],
+  "place": "Atlanta",
+  "placeRegion": "Georgia, USA",
+  "placeDetail": "BossTown and Doppler Studios",
+  "tieIn": "where 'Aquemini' was mostly recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aquemini"
+  ],
+  "audit": "ok"
+ },
+ "09-30": {
+  "lines": [
+   "In 1967, BBC Radio 1 launched with Tony Blackburn.",
+   "First full record: 'Flowers in the Rain'."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Broadcasting House",
+  "tieIn": "where BBC Radio 1 first went on air",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/BBC_Radio_1"
+  ],
+  "audit": "ok"
+ },
+ "10-01": {
+  "lines": [
+   "In 1982, the first CDs went on sale in Japan.",
+   "Billy Joel's '52nd Street' was title No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Compact_disc"
+  ],
+  "note": "First 50 titles released in Japan 1 Oct 1982; first was 52nd Street. City not documented.",
+  "audit": "ok"
+ },
+ "10-02": {
+  "lines": [
+   "In 2000, Radiohead released 'Kid A' on Parlophone.",
+   "Their first US No. 1 album."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kid_A"
+  ],
+  "audit": "ok"
+ },
+ "10-03": {
+  "lines": [
+   "In 1992, Sinead O'Connor tore up a Pope photo on 'SNL'.",
+   "She had just sung 'War' a cappella."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Studio 8H, Rockefeller Center",
+  "tieIn": "where Sinead O'Connor shocked SNL",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor",
+   "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_1"
+  ],
+  "audit": "ok (added correct source; listed SNL season 1 link was irrelevant)"
+ },
+ "10-04": {
+  "lines": [
+   "In 1970, Janis Joplin died during the 'Pearl' sessions.",
+   "'Pearl' spent nine weeks at No. 1."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Landmark Motor Hotel; Pearl cut at Sunset Sound",
+  "tieIn": "where Janis Joplin recorded 'Pearl'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janis_Joplin",
+   "https://en.wikipedia.org/wiki/Pearl_(Janis_Joplin_album)"
+  ],
+  "audit": "ok"
+ },
+ "10-05": {
+  "lines": [
+   "In 1962, The Beatles released 'Love Me Do' on Parlophone.",
+   "Their debut single peaked at UK No. 17."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios, Abbey Road",
+  "tieIn": "where 'Love Me Do' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Love_Me_Do"
+  ],
+  "audit": "ok"
+ },
+ "10-06": {
+  "lines": [
+   "In 1927, 'The Jazz Singer' premiered in New York.",
+   "Warner Bros. used Vitaphone sound."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Warner Bros.' flagship theater",
+  "tieIn": "where 'The Jazz Singer' premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+  ],
+  "note": "First feature-length film with synchronized singing per source.",
+  "audit": "ok"
+ },
+ "10-07": {
+  "lines": [
+   "In 1938, Judy Garland recorded 'Over the Rainbow'.",
+   "RIAA named it the No. 1 Song of the Century."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Over_the_Rainbow"
+  ],
+  "note": "Recorded on the MGM soundstage; city not stated in source, place null.",
+  "audit": "ok"
+ },
+ "10-08": {
+  "lines": [
+   "In 1957, Jerry Lee Lewis cut 'Great Balls of Fire' at Sun.",
+   "Sun Records issued it as Sun 281."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Sun Studio",
+  "tieIn": "where 'Great Balls of Fire' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Great_Balls_of_Fire"
+  ],
+  "audit": "ok"
+ },
+ "10-09": {
+  "lines": [
+   "In 1940, John Lennon was born in Liverpool."
+  ],
+  "place": "Liverpool",
+  "placeRegion": "England, UK",
+  "placeDetail": "Liverpool Maternity Hospital",
+  "tieIn": "where John Lennon was born",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Lennon"
+  ],
+  "audit": "ok"
+ },
+ "10-10": {
+  "lines": [
+   "In 2007, Radiohead released 'In Rainbows' as pay-what-you-want.",
+   "Announced just nine days earlier."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/In_Rainbows"
+  ],
+  "note": "Download released 10 Oct 2007; announced 1 Oct 2007.",
+  "audit": "fixed: 'ten days earlier' -> 'nine days earlier' (announced 1 Oct, released 10 Oct 2007)"
+ },
+ "10-11": {
+  "lines": [
+   "In 1975, 'Saturday Night Live' premiered on NBC.",
+   "Billy Preston and Janis Ian performed."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Studio 8H, Rockefeller Center",
+  "tieIn": "where Saturday Night Live premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_1"
+  ],
+  "audit": "ok"
+ },
+ "10-12": {
+  "lines": [
+   "In 1971, 'Jesus Christ Superstar' opened on Broadway.",
+   "Tom O'Horgan directed."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Mark Hellinger Theatre",
+  "tieIn": "where Jesus Christ Superstar opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jesus_Christ_Superstar"
+  ],
+  "audit": "ok"
+ },
+ "10-13": {
+  "lines": [
+   "In 2016, Bob Dylan won the Nobel Prize in Literature.",
+   "The first songwriter to win it."
+  ],
+  "place": "Stockholm",
+  "placeRegion": "Sweden",
+  "placeDetail": "Swedish Academy",
+  "tieIn": "where Dylan's Nobel was announced",
+  "changed": true,
+  "sources": [
+   "https://www.npr.org/sections/thetwo-way/2016/10/13/497780610/bob-dylan-titan-of-american-music-wins-the-2016-nobel-prize-in-literature",
+   "https://guinnessworldrecords.com/world-records/447204-first-songwriter-to-win-the-nobel-prize-in-literature"
+  ],
+  "audit": "ok"
+ },
+ "10-14": {
+  "lines": [
+   "In 1972, Michael Jackson's 'Ben' hit No. 1 on the Hot 100.",
+   "His first solo US No. 1, on Motown."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1972",
+   "https://en.wikipedia.org/wiki/Ben_(song)",
+   "https://ritchieyorke.com/index.php/2021/10/14/michael-jackson-gains-first-solo-number-one-with-ben"
+  ],
+  "audit": "ok"
+ },
+ "10-15": {
+  "lines": [
+   "In 2006, Patti Smith played the final show at CBGB.",
+   "The Bowery club closed after her set."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "CBGB, 315 Bowery",
+  "tieIn": "where CBGB played its final show",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CBGB"
+  ],
+  "audit": "ok"
+ },
+ "10-16": {
+  "lines": [
+   "In 1968, Jimi Hendrix released 'Electric Ladyland' in the US.",
+   "The Reprise LP hit No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Electric_Ladyland"
+  ],
+  "note": "US release Oct 16 1968 (Reprise). Recorded in several NY and London studios, so place null.",
+  "audit": "ok"
+ },
+ "10-17": {
+  "lines": [
+   "In 1967, the rock musical 'Hair' premiered off-Broadway.",
+   "Broadway followed in April 1968."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Public Theater",
+  "tieIn": "where 'Hair' premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hair_(musical)"
+  ],
+  "audit": "ok"
+ },
+ "10-18": {
+  "lines": [
+   "In 1988, the Traveling Wilburys released 'Vol. 1'.",
+   "Warner Bros.; RIAA triple platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Traveling_Wilburys_Vol._1"
+  ],
+  "note": "US release date; UK followed Oct 24. Recorded LA and England, place null.",
+  "audit": "ok"
+ },
+ "10-19": {
+  "lines": [
+   "In 1985, a-ha's 'Take On Me' hit No. 1 on the Hot 100.",
+   "Alan Tarney produced the hit version."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Take_On_Me",
+   "https://www.billboard.com/charts/hot-100/1985-10-19/",
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number-one_singles_of_the_1980s"
+  ],
+  "audit": "ok"
+ },
+ "10-20": {
+  "lines": [
+   "In 1973, Queen Elizabeth II formally opened the Sydney Opera House."
+  ],
+  "place": "Sydney",
+  "placeRegion": "New South Wales, Australia",
+  "placeDetail": "Sydney Opera House",
+  "tieIn": "where the Opera House opened in 1973",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  ],
+  "audit": "ok"
+ },
+ "10-21": {
+  "lines": [
+   "In 1977, Meat Loaf released 'Bat Out of Hell'.",
+   "Produced by Todd Rundgren for Epic."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bat_Out_of_Hell"
+  ],
+  "note": "Sales estimates vary in source, omitted. Recorded in several studios.",
+  "audit": "ok"
+ },
+ "10-22": {
+  "lines": [
+   "In 1883, the Metropolitan Opera House opened in New York with 'Faust'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Metropolitan Opera House, 39th Street",
+  "tieIn": "where the Met opened in 1883",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(39th_Street)"
+  ],
+  "audit": "ok"
+ },
+ "10-23": {
+  "lines": [
+   "In 2001, Apple unveiled the iPod.",
+   "'1,000 songs in your pocket' on a 5 GB drive."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/IPod_Classic"
+  ],
+  "note": "Launch location not verified; place null.",
+  "audit": "ok"
+ },
+ "10-24": {
+  "lines": [
+   "In 1962, James Brown recorded 'Live at the Apollo'.",
+   "He paid for it; it charted 66 weeks."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Apollo Theater, Harlem",
+  "tieIn": "where 'Live at the Apollo' was taped",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Live_at_the_Apollo_(1963_album)"
+  ],
+  "audit": "ok"
+ },
+ "10-25": {
+  "lines": [
+   "In 2010, Taylor Swift released 'Speak Now' on Big Machine.",
+   "1,047,000 US copies in week one."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Speak_Now"
+  ],
+  "audit": "ok"
+ },
+ "10-26": {
+  "lines": [
+   "In 1985, Whitney Houston got her first Hot 100 No. 1.",
+   "'Saving All My Love for You' on Arista."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saving_All_My_Love_for_You",
+   "https://www.history.com/this-day-in-history/whitney-houston-earns-her-first-1-hit-with-saving-all-my-love-for-you",
+   "https://www.stereogum.com/2104504/the-number-ones-whitney-houstons-saving-all-my-love-for-you/franchises/columns/the-number-ones/"
+  ],
+  "audit": "ok"
+ },
+ "10-27": {
+  "lines": [
+   "In 2014, Taylor Swift released '1989' on Big Machine.",
+   "1.287 million US copies in week one."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)",
+   "https://en.wikipedia.org/wiki/1989_(album)"
+  ],
+  "audit": "ok"
+ },
+ "10-28": {
+  "lines": [
+   "In 1977, Queen released 'News of the World' on EMI.",
+   "RIAA 4x Platinum."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Sarm East and Wessex Sound Studios",
+  "tieIn": "where 'News of the World' was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/News_of_the_World_(album)"
+  ],
+  "audit": "ok"
+ },
+ "10-29": {
+  "lines": [
+   "In 1983, 'Islands in the Stream' hit No. 1 on the Hot 100.",
+   "Kenny Rogers and Dolly Parton; RCA."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1983",
+   "https://en.wikipedia.org/wiki/Islands_in_the_Stream_(song)"
+  ],
+  "audit": "ok"
+ },
+ "10-30": {
+  "lines": [
+   "In 1987, George Michael released 'Faith' on Columbia.",
+   "Grammy Album of the Year; RIAA Diamond."
+  ],
+  "place": "Gjerlev",
+  "placeRegion": "Denmark",
+  "placeDetail": "Puk Recording Studios",
+  "tieIn": "where most of 'Faith' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faith_(George_Michael_album)"
+  ],
+  "note": "US release 30 Oct; UK (Epic) 2 Nov. Source: mostly recorded at Puk Studios near Randers.",
+  "audit": "fixed: place Randers -> Gjerlev (Puk Studios is near Gjerlev, not Randers town)"
+ },
+ "10-31": {
+  "lines": [
+   "In 1975, Queen released 'Bohemian Rhapsody' on EMI.",
+   "UK No. 1 for nine weeks."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bohemian_Rhapsody"
+  ],
+  "note": "Recorded across several studios; place null.",
+  "audit": "ok"
+ },
+ "11-01": {
+  "lines": [
+   "In 1994, Nirvana released 'MTV Unplugged in New York' on DGC.",
+   "It debuted at No. 1 in the US."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York"
+  ],
+  "note": "Replaced Tammy Wynette album.",
+  "audit": "ok"
+ },
+ "11-02": {
+  "lines": [
+   "In 1967, Cream released 'Disraeli Gears'.",
+   "Felix Pappalardi produced it at Atlantic Studios."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Atlantic Studios",
+  "tieIn": "where 'Disraeli Gears' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Disraeli_Gears"
+  ],
+  "note": "UK release date (Reaction); Atco in US.",
+  "audit": "ok"
+ },
+ "11-03": {
+  "lines": [
+   "In 1978, the Jam released 'All Mod Cons' on Polydor.",
+   "It was recorded at RAK and Eden Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "RAK and Eden Studios",
+  "tieIn": "where 'All Mod Cons' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/All_Mod_Cons",
+   "https://en.wikipedia.org/wiki/9_to_5_(Dolly_Parton_song)",
+   "https://en.wikipedia.org/wiki/9_to_5_and_Odd_Jobs",
+   "https://americansongwriter.com/on-this-day-in-1980-dolly-parton-released-the-biggest-solo-hit-of-her-career-a-song-that-used-her-fingernails-as-an-instrument/"
+  ],
+  "note": "Could NOT verify Nov 3, 1980 for Dolly Parton's '9 to 5' (RCA): the main Wikipedia song article says only 'November 1980'; Nov 3 appears only in uncited Wikipedia infoboxes; American Songwriter (2026) says Nov 10, 1980; mirrors also show Nov 29. Replaced per brief. The existing unit test expecting '9 to 5'/'RCA' on 11-03 will need updating.",
+  "audit": "ok"
+ },
+ "11-04": {
+  "lines": [
+   "In 1991, My Bloody Valentine released 'Loveless' on Creation."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loveless_(album)"
+  ],
+  "note": "Kept. Creation and the band cite 4 Nov (Melody Maker said 11 Nov). Recorded at ~19 studios, so no place.",
+  "audit": "ok"
+ },
+ "11-05": {
+  "lines": [
+   "In 1956, 'The Nat King Cole Show' premiered on NBC.",
+   "It was among the first hosted by a Black American."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Nat_King_Cole_Show",
+   "https://en.wikipedia.org/wiki/Nat_King_Cole"
+  ],
+  "note": "Replaced obscure Focus album. Production city not stated in source.",
+  "audit": "ok"
+ },
+ "11-06": {
+  "lines": [
+   "In 1975, the Sex Pistols played their first gig.",
+   "It was at Saint Martin's School of Art."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Saint Martin's School of Art",
+  "tieIn": "where the Sex Pistols played gig one",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sex_Pistols"
+  ],
+  "note": "Replaced Whitney Houston album.",
+  "audit": "ok"
+ },
+ "11-07": {
+  "lines": [
+   "In 1972, Bette Midler released 'The Divine Miss M' on Atlantic.",
+   "Barry Manilow co-produced it."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Atlantic Recording Studios",
+  "tieIn": "where 'The Divine Miss M' was made",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Divine_Miss_M"
+  ],
+  "note": "Replaced obscure entry; no stronger verified Nov 7 event found.",
+  "audit": "ok"
+ },
+ "11-08": {
+  "lines": [
+   "In 1971, Led Zeppelin released their fourth album on Atlantic.",
+   "It is certified 24x Platinum."
+  ],
+  "place": "Headley",
+  "placeRegion": "Hampshire, England, UK",
+  "placeDetail": "Headley Grange",
+  "tieIn": "where Led Zeppelin IV was mostly made",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Led_Zeppelin_IV"
+  ],
+  "audit": "ok"
+ },
+ "11-09": {
+  "lines": [
+   "In 1967, Rolling Stone's first issue carried this cover date.",
+   "Jann Wenner and Ralph J. Gleason founded it."
+  ],
+  "place": "San Francisco",
+  "placeRegion": "California, USA",
+  "tieIn": "where Rolling Stone was founded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rolling_Stone"
+  ],
+  "note": "Nov 9, 1967 is the cover date of issue 1 (on sale Oct 18). Replaced Hanson.",
+  "audit": "fixed: clarified Nov 9 is the cover date (issue went on sale Oct 18)"
+ },
+ "11-10": {
+  "lines": [
+   "In 1975, Patti Smith released 'Horses' on Arista.",
+   "John Cale produced it at Electric Lady Studios."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Electric Lady Studios",
+  "tieIn": "where 'Horses' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Horses_(album)"
+  ],
+  "note": "Replaced Yusuf album.",
+  "audit": "ok"
+ },
+ "11-11": {
+  "lines": [
+   "In 2008, Taylor Swift released 'Fearless' on Big Machine.",
+   "It won the Grammy for Album of the Year."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fearless_(Taylor_Swift_album)"
+  ],
+  "audit": "ok"
+ },
+ "11-12": {
+  "lines": [
+   "In 2021, Silk Sonic released 'An Evening with Silk Sonic'.",
+   "'Leave the Door Open' won four Grammys."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Shampoo Press & Curl Studios",
+  "tieIn": "where Silk Sonic recorded their album",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/An_Evening_with_Silk_Sonic",
+   "https://en.wikipedia.org/wiki/Leave_the_Door_Open"
+  ],
+  "note": "Replaced Genesis 'Nursery Cryme'.",
+  "audit": "ok"
+ },
+ "11-13": {
+  "lines": [
+   "In 1940, Disney's 'Fantasia' premiered in Fantasound.",
+   "Leopold Stokowski conducted."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Broadway Theatre",
+  "tieIn": "where 'Fantasia' premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fantasia_(1940_film)"
+  ],
+  "note": "Replaced T.I. single.",
+  "audit": "ok"
+ },
+ "11-14": {
+  "lines": [
+   "In 1983, Michael Jackson's 'Thriller' video premiered.",
+   "It cost $500,000, 10x a typical video."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Crest Theater",
+  "tieIn": "where the 'Thriller' video premiered",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Jackson%27s_Thriller_(music_video)",
+   "https://en.wikipedia.org/wiki/Michael_Jackson's_Thriller_(music_video)"
+  ],
+  "note": "Private theatrical premiere; MTV premiere was Dec 2, 1983. Replaced Eno album.",
+  "audit": "ok"
+ },
+ "11-15": {
+  "lines": [
+   "In 1977, the 'Saturday Night Fever' soundtrack came out on RSO.",
+   "It spent 24 weeks at No. 1."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(soundtrack)"
+  ],
+  "note": "Replaced weak Bob Dylan compilation. Also won Album of the Year.",
+  "audit": "ok"
+ },
+ "11-16": {
+  "lines": [
+   "In 2010, the Beatles' catalog arrived on iTunes.",
+   "Apple sold a $149 digital 'Beatles Box Set'."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.apple.com/newsroom/2010/11/16The-Beatles-Now-on-iTunes/",
+   "https://www.npr.org/sections/therecord/2010/11/16/131355298/beatles-songs-now-available-at-itunes-store",
+   "https://en.wikipedia.org/wiki/The_Beatles"
+  ],
+  "note": "Replaced Stevie Wonder album.",
+  "audit": "fixed: box set held 13 studio albums plus Past Masters and a concert film, not just 13 albums"
+ },
+ "11-17": {
+  "lines": [
+   "In 1970, Elton John played a live radio broadcast.",
+   "It was released as the album '11-17-70'."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "A&R Recording Studios",
+  "tieIn": "where Elton's '11-17-70' was taped",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/11-17-70",
+   "https://ultimateclassicrock.com/elton-john-11-17-70/"
+  ],
+  "note": "Broadcast on WABC-FM. Replaced Whitney Houston album.",
+  "audit": "ok"
+ },
+ "11-18": {
+  "lines": [
+   "In 1993, Nirvana taped 'MTV Unplugged in New York'.",
+   "The DGC album is certified 8x Platinum."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Sony Music Studios",
+  "tieIn": "where Nirvana taped MTV Unplugged",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York"
+  ],
+  "note": "Replaced Erykah Badu album.",
+  "audit": "ok"
+ },
+ "11-19": {
+  "lines": [
+   "In 1990, the Recording Academy revoked Milli Vanilli's Grammy.",
+   "The duo had not sung on their records."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milli_Vanilli"
+  ],
+  "note": "Replaced George Harrison album.",
+  "audit": "ok"
+ },
+ "11-20": {
+  "lines": [
+   "In 2015, Adele released '25' on XL and Columbia.",
+   "It sold a record 3.38 million US copies in week one."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/25_(Adele_album)"
+  ],
+  "audit": "ok"
+ },
+ "11-21": {
+  "lines": [
+   "In 1975, Queen released 'A Night at the Opera'.",
+   "It was reportedly the costliest album made to date."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)"
+  ],
+  "note": "Replaced Garth Brooks album. Recorded at many studios, so no place.",
+  "audit": "ok"
+ },
+ "11-22": {
+  "lines": [
+   "In 1968, the Beatles released the White Album on Apple.",
+   "George Martin produced the double LP."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Abbey Road Studios",
+  "tieIn": "where the White Album was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+  ],
+  "note": "UK release date; recorded largely at Abbey Road.",
+  "audit": "ok"
+ },
+ "11-23": {
+  "lines": [
+   "In 1993, Snoop Doggy Dogg released 'Doggystyle' on Death Row.",
+   "It debuted at No. 1 in the US."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Doggystyle"
+  ],
+  "audit": "ok"
+ },
+ "11-24": {
+  "lines": [
+   "In 2008, Kanye West released '808s & Heartbreak' on Def Jam.",
+   "It debuted at No. 1 in the US."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/808s_%26_Heartbreak"
+  ],
+  "note": "Recorded in Burbank and Honolulu; main studio not stated, so no place.",
+  "audit": "ok"
+ },
+ "11-25": {
+  "lines": [
+   "In 1976, The Band played 'The Last Waltz' farewell show.",
+   "Martin Scorsese filmed it."
+  ],
+  "place": "San Francisco",
+  "placeRegion": "California, USA",
+  "placeDetail": "Winterland Ballroom",
+  "tieIn": "where 'The Last Waltz' was played",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Last_Waltz"
+  ],
+  "note": "Replaced Juan Gabriel album.",
+  "audit": "ok"
+ },
+ "11-26": {
+  "lines": [
+   "In 1968, Cream played their final farewell concert."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Royal Albert Hall",
+  "tieIn": "where Cream said farewell",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cream_(band)"
+  ],
+  "note": "Two farewell shows 25-26 Nov 1968; the 26th was the last. Replaced Wink album.",
+  "audit": "ok"
+ },
+ "11-27": {
+  "lines": [
+   "In 1970, George Harrison released 'All Things Must Pass'.",
+   "It spent seven weeks at US No. 1."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI (Abbey Road), Trident and Apple studios",
+  "tieIn": "where 'All Things Must Pass' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/All_Things_Must_Pass"
+  ],
+  "note": "US release date (UK was Nov 30). Recorded at several London studios; tieIn omitted. Replaced garbled entry.",
+  "audit": "fixed: added tieIn/placeDetail (recorded at EMI, Trident, Apple, London)"
+ },
+ "11-28": {
+  "lines": [
+   "In 1925, the Grand Ole Opry began as the WSM Barn Dance."
+  ],
+  "place": "Nashville",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "WSM studio",
+  "tieIn": "where the Grand Ole Opry began",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Ole_Opry"
+  ],
+  "note": "Replaced Supertramp album.",
+  "audit": "ok"
+ },
+ "11-29": {
+  "lines": [
+   "In 1963, the Beatles released 'I Want to Hold Your Hand'.",
+   "UK advance orders topped one million."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where the Beatles recorded the single",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand"
+  ],
+  "note": "UK release on Parlophone. Thriller dropped: Wikipedia says Nov 29, 1982, many outlets (Epic-era coverage) say Nov 30, so sources conflict.",
+  "audit": "ok"
+ },
+ "11-30": {
+  "lines": [
+   "In 1979, Pink Floyd released 'The Wall'.",
+   "The double album is certified 23x Platinum."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Wall"
+  ],
+  "note": "Replaced Earl Sweatshirt album. Recorded across several studios; no place.",
+  "audit": "ok"
+ },
+ "12-01": {
+  "lines": [
+   "In 1976, the Sex Pistols swore live on Thames TV's 'Today' with Bill Grundy."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Thames Television 'Today'",
+  "tieIn": "where the Pistols shocked live TV",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bill_Grundy"
+  ],
+  "audit": "ok"
+ },
+ "12-02": {
+  "lines": [
+   "In 1995, Mariah & Boyz II Men's 'One Sweet Day' debuted at No. 1.",
+   "A record 16 weeks on top."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_Sweet_Day"
+  ],
+  "note": "Billboard Hot 100 chart dated Dec 2, 1995. Britney 'Circus' rejected: sources conflict on date.",
+  "audit": "ok"
+ },
+ "12-03": {
+  "lines": [
+   "In 1965, the Beatles released 'Rubber Soul' on Parlophone.",
+   "George Martin produced it at EMI Studios."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "EMI Studios (Abbey Road)",
+  "tieIn": "where Rubber Soul was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rubber_Soul"
+  ],
+  "audit": "ok"
+ },
+ "12-04": {
+  "lines": [
+   "In 1956, Elvis, Jerry Lee, Perkins and Cash jammed at Sun Studio.",
+   "The 'Million Dollar Quartet'."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Sun Record Studios",
+  "tieIn": "where the Million Dollar Quartet met",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Million_Dollar_Quartet"
+  ],
+  "audit": "ok"
+ },
+ "12-05": {
+  "lines": [
+   "In 1973, Apple released Wings' 'Band on the Run' in the US.",
+   "It went 3x Platinum."
+  ],
+  "place": "Lagos",
+  "placeRegion": "Nigeria",
+  "placeDetail": "EMI studio, Lagos",
+  "tieIn": "where Band on the Run was mostly cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Band_on_the_Run"
+  ],
+  "note": "US release date; UK release was 30 Nov 1973. Wikipedia says 'mostly recorded at EMI's studio in Lagos'.",
+  "audit": "ok"
+ },
+ "12-06": {
+  "lines": [
+   "In 1968, the Rolling Stones released 'Beggars Banquet' on Decca.",
+   "Jimmy Miller produced."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Olympic Studios",
+  "tieIn": "where Beggars Banquet was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beggars_Banquet"
+  ],
+  "note": "UK release 6 Dec 1968; US 7 Dec.",
+  "audit": "ok"
+ },
+ "12-07": {
+  "lines": [
+   "In 2020, Bob Dylan sold his song catalog to Universal Music Publishing.",
+   "Est. $300M+."
+  ],
+  "changed": true,
+  "sources": [
+   "https://www.npr.org/2020/12/07/943818966/bob-dylan-sells-songwriting-catalog-in-nine-figure-deal",
+   "https://www.rollingstone.com/music/music-news/bob-dylan-songwriting-catalog-sell-universal-music-publishing-1099692/",
+   "https://en.wikipedia.org/wiki/Bob_Dylan",
+   "https://www.aljazeera.com/economy/2020/12/7/bb-bob-dylan-sells-his-entire-songwriting-catalog-to-universal"
+  ],
+  "note": "Price undisclosed; $300M+ is NYT estimate. RIAA v Napster rejected: Dec 6 vs 7 conflict.",
+  "audit": "ok"
+ },
+ "12-08": {
+  "lines": [
+   "In 1980, John Lennon was fatally shot outside the Dakota in New York."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "The Dakota, Manhattan",
+  "tieIn": "where John Lennon lived and died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murder_of_John_Lennon"
+  ],
+  "audit": "fixed: 'shot dead outside' -> 'fatally shot outside' (pronounced dead at Roosevelt Hospital)"
+ },
+ "12-09": {
+  "lines": [
+   "In 1964, John Coltrane recorded 'A Love Supreme' for Impulse!",
+   "Bob Thiele produced."
+  ],
+  "place": "Englewood Cliffs",
+  "placeRegion": "New Jersey, USA",
+  "placeDetail": "Van Gelder Studio",
+  "tieIn": "where A Love Supreme was recorded",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/A_Love_Supreme"
+  ],
+  "audit": "ok"
+ },
+ "12-10": {
+  "lines": [
+   "In 2018, UMG named 'Bohemian Rhapsody' the 20th century's top-streamed song.",
+   "1.6B streams."
+  ],
+  "changed": true,
+  "sources": [
+   "https://blabbermouth.net/news/queens-bohemian-rhapsody-is-most-streamed-song-of-20th-century",
+   "https://www.nbcnews.com/business/velshi-ruhle/most-streamed-song-century-bohemian-rhapsody-n946476",
+   "https://en.wikipedia.org/wiki/Bohemian_Rhapsody"
+  ],
+  "note": "Announced Monday Dec 10, 2018 (a fan-site repost is dated Dec 11). Fallback: Queen 'A Day at the Races' released 10 Dec 1976 (verified).",
+  "audit": "ok"
+ },
+ "12-11": {
+  "lines": [
+   "In 1961, the Marvelettes' 'Please Mr. Postman' hit No. 1 on the Hot 100.",
+   "Motown's first No. 1 (Tamla)."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Please_Mr._Postman"
+  ],
+  "note": "Billboard chart week of Dec 11, 1961. Alt: Lennon 'Plastic Ono Band' released 11 Dec 1970.",
+  "audit": "ok"
+ },
+ "12-12": {
+  "lines": [
+   "In 2012, the '12-12-12' Sandy relief concert played Madison Square Garden.",
+   "About $50M raised."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Madison Square Garden",
+  "tieIn": "where 12-12-12 raised Sandy relief",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/12-12-12:_The_Concert_for_Sandy_Relief"
+  ],
+  "audit": "ok"
+ },
+ "12-13": {
+  "lines": [
+   "In 2013, Beyonce surprise-released 'Beyonce' exclusively on iTunes.",
+   "617,213 US sales in 3 days."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beyonc%C3%A9_(album)"
+  ],
+  "audit": "ok"
+ },
+ "12-14": {
+  "lines": [
+   "In 1979, the Clash released 'London Calling' on CBS.",
+   "Guy Stevens produced it at Wessex."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "Wessex Sound Studios",
+  "tieIn": "where London Calling was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/London_Calling"
+  ],
+  "note": "UK release date.",
+  "audit": "ok"
+ },
+ "12-15": {
+  "lines": [
+   "In 1975, Parliament released 'Mothership Connection' on Casablanca.",
+   "RIAA Platinum."
+  ],
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mothership_Connection"
+  ],
+  "note": "Recorded in Detroit and Hollywood; no single main city, so place null.",
+  "audit": "ok"
+ },
+ "12-16": {
+  "lines": [
+   "In 1966, Jimi Hendrix released 'Hey Joe' in the UK on Polydor.",
+   "Chas Chandler produced."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "De Lane Lea Studios",
+  "tieIn": "where Hendrix cut 'Hey Joe'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hey_Joe"
+  ],
+  "audit": "ok"
+ },
+ "12-17": {
+  "lines": [
+   "In 1977, Elvis Costello defied SNL, switching to 'Radio Radio' live.",
+   "He was banned until 1989."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Saturday Night Live, NBC",
+  "tieIn": "where Costello defied SNL",
+  "changed": true,
+  "sources": [
+   "https://www.rollingstone.com/music/music-news/elvis-costello-and-the-snl-weenies-234271/",
+   "https://en.wikipedia.org/wiki/Radio_Radio",
+   "https://en.wikipedia.org/wiki/Radio_Radio_(song)"
+  ],
+  "note": "Hunky Dory rejected: sources conflict on release date.",
+  "audit": "ok"
+ },
+ "12-18": {
+  "lines": [
+   "In 1961, Sam Cooke recorded 'Twistin' the Night Away' at RCA in Hollywood.",
+   "No. 1 R&B."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "RCA studios, Hollywood",
+  "tieIn": "where Sam Cooke cut 'Twistin''",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Twistin%27_the_Night_Away",
+   "https://en.wikipedia.org/wiki/Twistin'_the_Night_Away"
+  ],
+  "audit": "ok"
+ },
+ "12-19": {
+  "lines": [
+   "In 1955, Carl Perkins recorded 'Blue Suede Shoes' at Sun in Memphis.",
+   "Sun's first million-seller."
+  ],
+  "place": "Memphis",
+  "placeRegion": "Tennessee, USA",
+  "placeDetail": "Memphis Recording Service (Sun)",
+  "tieIn": "where 'Blue Suede Shoes' was cut",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Suede_Shoes"
+  ],
+  "audit": "ok"
+ },
+ "12-20": {
+  "lines": [
+   "In 1957, Elvis Presley received his US Army draft notice."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Military_career_of_Elvis_Presley",
+   "https://en.wikipedia.org/wiki/Elvis_Presley"
+  ],
+  "note": "Announced Dec 16; physically received Dec 20 per Wikipedia.",
+  "audit": "ok"
+ },
+ "12-21": {
+  "lines": [
+   "In 1970, Elvis Presley met President Nixon in the White House Oval Office."
+  ],
+  "place": "Washington",
+  "placeRegion": "D.C., USA",
+  "placeDetail": "White House Oval Office",
+  "tieIn": "where Elvis met Nixon",
+  "changed": true,
+  "sources": [
+   "https://whitehousehistory.org/the-president-of-the-united-states-meets-the-king-of-rock-n-roll",
+   "https://www.archives.gov/exhibits/nixon-met-elvis/main.php",
+   "https://en.wikipedia.org/wiki/Elvis_%26_Nixon"
+  ],
+  "audit": "ok"
+ },
+ "12-22": {
+  "lines": [
+   "In 1962, the Tornados' 'Telstar' became the first US No. 1 by a British group.",
+   "Joe Meek produced it."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "RGM Sound, Holloway Road",
+  "tieIn": "where Joe Meek cut 'Telstar'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1962",
+   "https://en.wikipedia.org/wiki/Telstar_(instrumental)"
+  ],
+  "note": "Billboard issue dated Dec 22, 1962.",
+  "audit": "ok"
+ },
+ "12-23": {
+  "lines": [
+   "In 1957, the Champs recorded 'Tequila' at Gold Star in Hollywood.",
+   "It won the first R&B Grammy."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Gold Star Studios, Hollywood",
+  "tieIn": "where 'Tequila' was recorded",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tequila_(The_Champs_song)"
+  ],
+  "audit": "ok"
+ },
+ "12-24": {
+  "lines": [
+   "In 2015, the Beatles' catalog arrived on streaming services worldwide.",
+   "Nine services, incl. Spotify."
+  ],
+  "changed": true,
+  "sources": [
+   "https://beatlesbible.com/2015/12/24/i-want-to-stream-your-band-beatles-on-streaming-services-worldwide",
+   "https://www.thefader.com/2015/12/22/the-beatles-available-streaming-christmas-eve",
+   "https://musicrow.com/2015/12/the-beatles-catalog-to-stream-starting-dec-24/"
+  ],
+  "audit": "ok"
+ },
+ "12-25": {
+  "lines": [
+   "In 2006, James Brown, the Godfather of Soul, died in Atlanta at 73."
+  ],
+  "place": "Atlanta",
+  "placeRegion": "Georgia, USA",
+  "tieIn": "where James Brown died",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Brown"
+  ],
+  "audit": "ok"
+ },
+ "12-26": {
+  "lines": [
+   "In 1963, Capitol rush-released 'I Want to Hold Your Hand' in the US.",
+   "250,000 sold in 3 days."
+  ],
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand"
+  ],
+  "audit": "ok"
+ },
+ "12-27": {
+  "lines": [
+   "In 1932, Radio City Music Hall opened in New York's Rockefeller Center.",
+   "5,960 seats."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Radio City Music Hall",
+  "tieIn": "where Radio City Music Hall opened",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Radio_City_Music_Hall"
+  ],
+  "audit": "ok"
+ },
+ "12-28": {
+  "lines": [
+   "In 1971, the Band began the New York shows taped for 'Rock of Ages'.",
+   "Allen Toussaint horns."
+  ],
+  "place": "New York",
+  "placeRegion": "New York, USA",
+  "placeDetail": "Academy of Music",
+  "tieIn": "where the Band taped 'Rock of Ages'",
+  "changed": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rock_of_Ages_(The_Band_album)"
+  ],
+  "audit": "ok"
+ },
+ "12-29": {
+  "lines": [
+   "In 1956, Elvis Presley had 10 songs on Billboard's Top 100 at once."
+  ],
+  "changed": true,
+  "sources": [
+   "https://americansongwriter.com/on-this-day-elvis-presley-took-over-the-pop-charts-with-10-of-his-songs"
+  ],
+  "note": "Fan/lifestyle sources only. Alt: Lennon signed Beatles dissolution papers at Disney World, Dec 29 1974 (one source says Dec 19).",
+  "audit": "ok"
+ },
+ "12-30": {
+  "lines": [
+   "In 1968, Frank Sinatra recorded 'My Way' in one take in Hollywood.",
+   "75 weeks in the UK top 40."
+  ],
+  "place": "Los Angeles",
+  "placeRegion": "California, USA",
+  "placeDetail": "Western Studio A, Hollywood",
+  "tieIn": "where Sinatra recorded 'My Way'",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/My_Way"
+  ],
+  "audit": "ok"
+ },
+ "12-31": {
+  "lines": [
+   "In 1970, Paul McCartney sued to dissolve the Beatles' partnership.",
+   "Filed at London's High Court."
+  ],
+  "place": "London",
+  "placeRegion": "England, UK",
+  "placeDetail": "High Court of Justice",
+  "tieIn": "where McCartney sued to end the Beatles",
+  "changed": true,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Breakup_of_the_Beatles"
+  ],
+  "audit": "ok"
+ }
+}

@@ -40,11 +40,11 @@ internal class MusicFactCatalogTest {
     @DisplayName("Should resolve a date to its fact and follow the calendar")
     fun resolvesByDate() {
         val facts = loadBundledFacts()
-        val releaseDay = LocalDate.of(1980, 11, 3)
+        val releaseDay = LocalDate.of(1978, 11, 3)
         val text = MusicFactCatalog.overlayTextFor(facts, releaseDay)
 
-        assertTrue(text.contains("9 to 5"), text)
-        assertTrue(text.contains("RCA"), text)
+        assertTrue(text.contains("All Mod Cons"), text)
+        assertTrue(text.contains("Polydor"), text)
         assertTrue(text.contains('\n'))
 
         val kindOfBlue = MusicFactCatalog.overlayTextFor(facts, LocalDate.of(1959, 8, 17))
@@ -65,8 +65,8 @@ internal class MusicFactCatalogTest {
         try {
             Locale.setDefault(Locale.forLanguageTag("ar-EG"))
             assertEquals("11-16", MusicFactCatalog.dateKey(11, 16))
-            val text = MusicFactCatalog.overlayTextFor(loadBundledFacts(), LocalDate.of(1980, 11, 3))
-            assertTrue(text.contains("9 to 5"), text)
+            val text = MusicFactCatalog.overlayTextFor(loadBundledFacts(), LocalDate.of(1978, 11, 3))
+            assertTrue(text.contains("All Mod Cons"), text)
         } finally {
             Locale.setDefault(previous)
         }

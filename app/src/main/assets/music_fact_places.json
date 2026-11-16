@@ -1,0 +1,2558 @@
+{
+ "footage": {
+  "london": {
+   "label": "London",
+   "tokens": [
+    "comp_L004_C011",
+    "comp_L007_C007",
+    "comp_L010_C006",
+    "comp_L012_",
+    "video_inspire_uk_london_"
+   ]
+  },
+  "new-york": {
+   "label": "New York",
+   "tokens": [
+    "comp_N003_C006",
+    "comp_N008_C003",
+    "comp_N008_C009",
+    "comp_N013_C004",
+    "content-0e2c8ff3-1f28-4c59-bc08-9d813e695100"
+   ]
+  },
+  "los-angeles": {
+   "label": "Los Angeles",
+   "tokens": [
+    "comp_LA_A005_C009",
+    "comp_LA_A006_C004",
+    "comp_LA_A006_C008",
+    "comp_LA_A009_C009",
+    "comp_LA_A011_C003"
+   ]
+  },
+  "san-francisco": {
+   "label": "San Francisco",
+   "tokens": [
+    "comp_1223LV_FLARE",
+    "comp_A006_C003",
+    "comp_A007_C017",
+    "comp_A008_C007",
+    "comp_A012_C014",
+    "comp_A013_C012",
+    "comp_A015_C018",
+    "content-cef6e713-0c1b-4eaa-bb5b-21f156046711",
+    "content-dc50fb3c-701a-4c6b-b3e0-e8f82d8b5142",
+    "video_inspire_sanfrancisco_castro_"
+   ]
+  },
+  "las-vegas": {
+   "label": "Las Vegas",
+   "tokens": [
+    "video_inspire_nevada_lasvegas_"
+   ]
+  },
+  "miami": {
+   "label": "Miami",
+   "tokens": [
+    "video_inspire_florida_miami_"
+   ]
+  },
+  "austin": {
+   "label": "Austin",
+   "tokens": [
+    "video_inspire_texas_austin_"
+   ]
+  },
+  "portland": {
+   "label": "Portland",
+   "tokens": [
+    "video_inspire_oregon_portland_"
+   ]
+  },
+  "edinburgh": {
+   "label": "Edinburgh",
+   "tokens": [
+    "video_inspire_uk_edinburgh_"
+   ]
+  },
+  "hong-kong": {
+   "label": "Hong Kong",
+   "tokens": [
+    "HK_B005_C011",
+    "HK_H004_C008",
+    "HK_H004_C010",
+    "HK_H004_C013"
+   ]
+  },
+  "dubai": {
+   "label": "Dubai",
+   "tokens": [
+    "comp_DB_D001_C001",
+    "comp_DB_D001_C005",
+    "comp_DB_D002_C003",
+    "comp_DB_D008_C010",
+    "comp_DB_D011_C010"
+   ]
+  },
+  "sydney": {
+   "label": "Sydney",
+   "tokens": [
+    "content-0d9639cb-46b1-44b1-952b-abd80507f0b5"
+   ]
+  },
+  "florence": {
+   "label": "Florence",
+   "tokens": [
+    "content-832de54b-ef9b-469f-bf15-459ab668d1ca"
+   ]
+  },
+  "singapore": {
+   "label": "Singapore",
+   "tokens": [
+    "content-8cc628a1-1f11-43aa-92a4-8d3026a53272"
+   ]
+  },
+  "montgomery": {
+   "label": "Montgomery, Alabama",
+   "tokens": [
+    "video_inspire_alabama_montgomery_"
+   ]
+  },
+  "city-night": {
+   "label": "City at night",
+   "tokens": [
+    "comp_DB_D001_C001",
+    "comp_DB_D002_C003",
+    "comp_DB_D011_C010",
+    "comp_N013_C004",
+    "content-8cc628a1-1f11-43aa-92a4-8d3026a53272",
+    "video_inspire_texas_austin_"
+   ]
+  }
+ },
+ "dates": {
+  "01-01": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles auditioned for Decca",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-02": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Billie Jean' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "01-04": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where the Doors cut their debut",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "01-05": {
+   "place": "Blauvelt",
+   "region": "New York, USA",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-06": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Elvis was shown from the waist up",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-07": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Marian Anderson broke the Met's barrier",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-08": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Bowie recorded 'Blackstar'",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-09": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Van Halen recorded '1984'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "01-12": {
+   "place": "Detroit",
+   "region": "Michigan, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "01-13": {
+   "place": "Folsom",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "01-14": {
+   "place": "Honolulu",
+   "region": "Hawaii, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "01-15": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Stones changed a lyric for TV",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-16": {
+   "place": "Liverpool",
+   "region": "England, UK",
+   "footage": [
+    "edinburgh",
+    "city-night"
+   ]
+  },
+  "01-17": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Court and Spark' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "01-20": {
+   "place": "Paris",
+   "region": "France",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-21": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Pink Floyd recorded 'Animals'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-23": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Rock Hall inducted its first class",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-24": {
+   "place": "Muscle Shoals",
+   "region": "Alabama, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "01-25": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Clash signed with CBS",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-27": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Van Morrison recorded 'Moondance'",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "01-28": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'We Are the World' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "01-29": {
+   "place": "Paris",
+   "region": "France",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-30": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles played the rooftop",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "01-31": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'I Want You Back' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-01": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the song was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "02-02": {
+   "place": "Miami Gardens",
+   "region": "Florida, USA",
+   "footage": [
+    "miami",
+    "city-night"
+   ]
+  },
+  "02-03": {
+   "place": "Clear Lake",
+   "region": "Iowa, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "02-04": {
+   "place": "Sausalito",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "02-05": {
+   "place": "Houston",
+   "region": "Texas, USA",
+   "footage": [
+    "austin",
+    "city-night"
+   ]
+  },
+  "02-07": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Beatlemania landed in America",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "02-08": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Beyonce won five Grammys",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-09": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Beatles played Ed Sullivan",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "02-10": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Tapestry was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-11": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles cut their debut LP",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "02-12": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Adele swept the 2017 Grammys",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-13": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Black Sabbath's debut was cut",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "02-14": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Aretha recorded 'Respect'",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "02-16": {
+   "place": "Miami Beach",
+   "region": "Florida, USA",
+   "footage": [
+    "miami",
+    "city-night"
+   ]
+  },
+  "02-17": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Strawberry Fields was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "02-18": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'What'd I Say' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "02-19": {
+   "place": "London",
+   "region": "England, UK",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "02-20": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Quincy Jones won six Grammys",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "02-23": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Santana won eight Grammys",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-25": {
+   "place": "Clovis",
+   "region": "New Mexico, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "02-27": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Alicia Keys won five Grammys",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "02-28": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Michael Jackson won eight Grammys",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-01": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Dark Side of the Moon was made",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-02": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Kind of Blue was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-04": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Lennon's Jesus quote was printed",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-05": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Billie Jean was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-06": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Go-Go's cut their debut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-07": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where We Are the World was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-08": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Bill Graham's Fillmore East opened",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-09": {
+   "place": "Dublin",
+   "region": "Ireland",
+   "footage": [
+    "edinburgh",
+    "city-night"
+   ]
+  },
+  "03-10": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Pistols signed to A&M",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-12": {
+   "place": "Paris",
+   "region": "France",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-14": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Tapestry swept the Grammys",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-16": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the first Diamond awards went out",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-17": {
+   "place": "Glendale",
+   "region": "Arizona, USA",
+   "footage": [
+    "las-vegas",
+    "city-night"
+   ]
+  },
+  "03-19": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Aqualung was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-21": {
+   "place": "Cleveland",
+   "region": "Ohio, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "03-22": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Please Please Me was cut in a day",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "03-25": {
+   "place": "Pasadena",
+   "region": "California, USA",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-27": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where U2 played a rooftop show",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-28": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Blondie recorded Rapture",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-29": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Billie Eilish's debut was made",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "03-30": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Bitches Brew was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "03-31": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Hendrix first burned a guitar",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-01": {
+   "place": "West Hollywood",
+   "region": "California, USA",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "04-03": {
+   "place": "San Diego",
+   "region": "California, USA",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "04-05": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Tracy Chapman's debut was made",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "04-06": {
+   "place": "Brighton",
+   "region": "England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-08": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Toys in the Attic' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-09": {
+   "place": "Nashville",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "04-10": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the split made the headlines",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-11": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Bob Dylan played his first pro gig",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-12": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Rock Around the Clock' was cut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-14": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Let's Dance' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-15": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Aftermath' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "04-16": {
+   "place": "Sheffield",
+   "region": "Alabama, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "04-17": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'McCartney' was mostly recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-19": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Illmatic' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-20": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Queen's tribute to Freddie played",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-21": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Sgt. Pepper was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-22": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Kind of Blue' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-25": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Parklife' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "04-29": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Hair' opened on Broadway",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "04-30": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Elvis cut 'Jailhouse Rock'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "05-01": {
+   "place": "Las Vegas",
+   "region": "Nevada, USA",
+   "tieIn": "where Elvis married Priscilla",
+   "direct": "las-vegas",
+   "footage": [
+    "las-vegas",
+    "city-night"
+   ]
+  },
+  "05-03": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Royal Festival Hall opened",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-04": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "co-host of the first Grammy Awards",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-05": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Carnegie Hall opened",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-06": {
+   "place": "Folsom",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "05-07": {
+   "place": "Vienna",
+   "region": "Austria",
+   "footage": [
+    "florence",
+    "city-night"
+   ]
+  },
+  "05-08": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles made Let It Be",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-10": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Weezer cut the Blue Album",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-11": {
+   "place": "Miami",
+   "region": "Florida, USA",
+   "tieIn": "where Bob Marley died",
+   "direct": "miami",
+   "footage": [
+    "miami",
+    "city-night"
+   ]
+  },
+  "05-12": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Are You Experienced was cut",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-13": {
+   "place": "Munich",
+   "region": "Germany",
+   "footage": [
+    "florence",
+    "city-night"
+   ]
+  },
+  "05-14": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Sinatra died",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "05-15": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Run-DMC cut Raising Hell",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-16": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Pet Sounds was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "05-19": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Marilyn sang to JFK",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-20": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Foo Fighters cut their 2nd LP",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "05-21": {
+   "place": "Detroit",
+   "region": "Michigan, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "05-24": {
+   "place": "Lugano",
+   "region": "Switzerland",
+   "footage": [
+    "florence",
+    "city-night"
+   ]
+  },
+  "05-25": {
+   "place": "Shipton-on-Cherwell",
+   "region": "Oxfordshire, England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-26": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Sgt. Pepper was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-27": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Freewheelin' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "05-28": {
+   "place": "Cupertino",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "05-29": {
+   "place": "Paris",
+   "region": "France",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "05-30": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the White Album began",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-01": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Aretha cut 'Amazing Grace'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "06-03": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Marley recorded 'Exodus'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-04": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Born in the U.S.A.' was cut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-05": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Elvis shook up 'Hound Dog' on TV",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "06-06": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles first auditioned for EMI",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-09": {
+   "place": "Boulogne-Billancourt",
+   "region": "Île-de-France, France",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-10": {
+   "place": "Chicago",
+   "region": "Illinois, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "06-11": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Mandela tribute was staged",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-14": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Yesterday' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-15": {
+   "place": "Seattle",
+   "region": "Washington, USA",
+   "footage": [
+    "portland",
+    "city-night"
+   ]
+  },
+  "06-16": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Like a Rolling Stone' was cut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-18": {
+   "place": "Monterey",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "06-19": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Tapestry' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "06-20": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where The Ed Sullivan Show was born",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-21": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Columbia unveiled the LP",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-22": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Joni Mitchell recorded 'Blue'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "06-23": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Led Zeppelin won the Stairway case",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "06-24": {
+   "place": "Doraville",
+   "region": "Georgia, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "06-26": {
+   "place": "Indianapolis",
+   "region": "Indiana, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "06-27": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Fillmore East closed",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-28": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Wham! said goodbye",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "06-29": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Lennon's Rolls-Royce was sold",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "06-30": {
+   "place": "Tokyo",
+   "region": "Japan",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "07-02": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Live 8 rocked Hyde Park",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-03": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Bowie retired Ziggy Stardust",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-04": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Ramones lit UK punk's fuse",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-05": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "07-06": {
+   "place": "Liverpool",
+   "region": "England, UK",
+   "footage": [
+    "edinburgh",
+    "city-night"
+   ]
+  },
+  "07-07": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Live Earth played Wembley",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-09": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Rock Around the Clock' was cut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "07-10": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Frank Ocean made 'Channel Orange'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "07-11": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Space Oddity' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-12": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Rolling Stones played gig one",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-13": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Live Aid opened",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-16": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Billy Joel closed Shea Stadium",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "07-17": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Yellow Submarine' premiered",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-18": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Joy Division recorded 'Closer'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-20": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Like a Rolling Stone' was cut",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "07-21": {
+   "place": "Berlin",
+   "region": "Germany",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "07-22": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Costello cut 'My Aim Is True'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-23": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Fiona Apple recorded 'Tidal'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "07-25": {
+   "place": "Nassau",
+   "region": "Bahamas",
+   "footage": [
+    "miami",
+    "city-night"
+   ]
+  },
+  "07-26": {
+   "place": "Detroit",
+   "region": "Michigan, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "07-28": {
+   "place": "Watkins Glen",
+   "region": "New York, USA",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "07-29": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles' 'Help!' premiered",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "07-30": {
+   "place": "Moncton",
+   "region": "New Brunswick, Canada",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "07-31": {
+   "place": "Las Vegas",
+   "region": "Nevada, USA",
+   "tieIn": "where Elvis began his Vegas residency",
+   "direct": "las-vegas",
+   "footage": [
+    "las-vegas",
+    "city-night"
+   ]
+  },
+  "08-02": {
+   "place": "Odense",
+   "region": "Denmark",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "08-03": {
+   "place": "Liverpool",
+   "region": "England, UK",
+   "footage": [
+    "edinburgh",
+    "city-night"
+   ]
+  },
+  "08-05": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Revolver' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-06": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Help!' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-07": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Garth Brooks played Central Park",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-08": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Abbey Road cover was shot",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-09": {
+   "place": "Knebworth",
+   "region": "England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-10": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Off the Wall' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "08-11": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where hip hop was born",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-13": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Hound Dog' was first recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "08-14": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Stiff Records was founded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-15": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Beatles played Shea Stadium",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-16": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "08-17": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Kind of Blue' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-18": {
+   "place": "Bethel",
+   "region": "New York, USA",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-19": {
+   "place": "Daly City",
+   "region": "California, USA",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "08-22": {
+   "place": "Bristol",
+   "region": "England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-23": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'She Loves You' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-24": {
+   "place": "Rockfield",
+   "region": "Wales, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "08-26": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Electric Lady Studios opened",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-27": {
+   "place": "Nashville",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "08-28": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Dylan first met the Beatles",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "08-29": {
+   "place": "San Francisco",
+   "region": "California, USA",
+   "tieIn": "where the Beatles played their last concert",
+   "direct": "san-francisco",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "08-31": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Bad' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "09-02": {
+   "place": "Nashville",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "09-03": {
+   "place": "San Bernardino",
+   "region": "California, USA",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "09-04": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Ya-Ya's' was recorded live",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "09-06": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Elton sang at Diana's funeral",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-07": {
+   "place": "Gladsaxe",
+   "region": "Denmark",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "09-09": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Elvis played his first Sullivan",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "09-10": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Teen Spirit' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "09-11": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles cut 'Love Me Do'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-12": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Wish You Were Here' was made",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-13": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Ready to Die' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "09-14": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the first MTV VMAs were held",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "09-15": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "09-18": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Jimi Hendrix died",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-19": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Simon & Garfunkel reunited",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "09-20": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Lennon quit the Beatles",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-22": {
+   "place": "Champaign",
+   "region": "Illinois, USA",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "09-24": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Nevermind' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "09-25": {
+   "place": "Windsor",
+   "region": "England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-26": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Abbey Road' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "09-29": {
+   "place": "Atlanta",
+   "region": "Georgia, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "09-30": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where BBC Radio 1 first went on air",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "10-03": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Sinead O'Connor shocked SNL",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-04": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Janis Joplin recorded 'Pearl'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "10-05": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'Love Me Do' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "10-06": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'The Jazz Singer' premiered",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-08": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "10-09": {
+   "place": "Liverpool",
+   "region": "England, UK",
+   "footage": [
+    "edinburgh",
+    "city-night"
+   ]
+  },
+  "10-11": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Saturday Night Live premiered",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-12": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Jesus Christ Superstar opened",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-13": {
+   "place": "Stockholm",
+   "region": "Sweden",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "10-15": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where CBGB played its final show",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-17": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Hair' premiered",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-20": {
+   "place": "Sydney",
+   "region": "New South Wales, Australia",
+   "tieIn": "where the Opera House opened in 1973",
+   "direct": "sydney",
+   "footage": [
+    "sydney",
+    "city-night"
+   ]
+  },
+  "10-22": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Met opened in 1883",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-24": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Live at the Apollo' was taped",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "10-28": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'News of the World' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "10-30": {
+   "place": "Gjerlev",
+   "region": "Denmark",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "11-02": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Disraeli Gears' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-03": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'All Mod Cons' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-06": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Sex Pistols played gig one",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-07": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'The Divine Miss M' was made",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-08": {
+   "place": "Headley",
+   "region": "Hampshire, England, UK",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-09": {
+   "place": "San Francisco",
+   "region": "California, USA",
+   "tieIn": "where Rolling Stone was founded",
+   "direct": "san-francisco",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "11-10": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Horses' was recorded",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-12": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Silk Sonic recorded their album",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "11-13": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 'Fantasia' premiered",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-14": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where the 'Thriller' video premiered",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "11-17": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Elton's '11-17-70' was taped",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-18": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Nirvana taped MTV Unplugged",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "11-22": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the White Album was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-25": {
+   "place": "San Francisco",
+   "region": "California, USA",
+   "tieIn": "where 'The Last Waltz' was played",
+   "direct": "san-francisco",
+   "footage": [
+    "san-francisco",
+    "city-night"
+   ]
+  },
+  "11-26": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Cream said farewell",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-27": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where 'All Things Must Pass' was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "11-28": {
+   "place": "Nashville",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "11-29": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Beatles recorded the single",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-01": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where the Pistols shocked live TV",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-03": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Rubber Soul was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-04": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "12-05": {
+   "place": "Lagos",
+   "region": "Nigeria",
+   "footage": [
+    "city-night"
+   ]
+  },
+  "12-06": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Beggars Banquet was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-08": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where John Lennon lived and died",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-09": {
+   "place": "Englewood Cliffs",
+   "region": "New Jersey, USA",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-12": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where 12-12-12 raised Sandy relief",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-14": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where London Calling was recorded",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-16": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Hendrix cut 'Hey Joe'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-17": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Costello defied SNL",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-18": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Sam Cooke cut 'Twistin''",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "12-19": {
+   "place": "Memphis",
+   "region": "Tennessee, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "12-21": {
+   "place": "Washington",
+   "region": "D.C., USA",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-22": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where Joe Meek cut 'Telstar'",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  },
+  "12-23": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where 'Tequila' was recorded",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "12-25": {
+   "place": "Atlanta",
+   "region": "Georgia, USA",
+   "footage": [
+    "montgomery",
+    "city-night"
+   ]
+  },
+  "12-27": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where Radio City Music Hall opened",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-28": {
+   "place": "New York",
+   "region": "New York, USA",
+   "tieIn": "where the Band taped 'Rock of Ages'",
+   "direct": "new-york",
+   "footage": [
+    "new-york",
+    "city-night"
+   ]
+  },
+  "12-30": {
+   "place": "Los Angeles",
+   "region": "California, USA",
+   "tieIn": "where Sinatra recorded 'My Way'",
+   "direct": "los-angeles",
+   "footage": [
+    "los-angeles",
+    "city-night"
+   ]
+  },
+  "12-31": {
+   "place": "London",
+   "region": "England, UK",
+   "tieIn": "where McCartney sued to end the Beatles",
+   "direct": "london",
+   "footage": [
+    "london",
+    "city-night"
+   ]
+  }
+ }
+}

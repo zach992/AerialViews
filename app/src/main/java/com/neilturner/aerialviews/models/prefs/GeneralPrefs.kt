@@ -51,6 +51,7 @@ object GeneralPrefs : KotprefModel() {
     // This Day in Music
     var musicFactSize by stringPref("15", "music_fact_size")
     var musicFactWeight by stringPref("400", "music_fact_weight")
+    var musicFactCityVideos by booleanPref(true, "music_fact_city_videos")
 
     // Date
     var dateFormat by nullableEnumValuePref(DateType.COMPACT, "date_format")

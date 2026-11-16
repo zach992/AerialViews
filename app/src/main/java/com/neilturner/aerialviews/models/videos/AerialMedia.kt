@@ -22,6 +22,9 @@ data class AerialMediaMetadata(
     var exif: AerialExifMetadata = AerialExifMetadata(),
     var albumName: String = "",
     var title: String = "",
+    // Set only on a this-day-in-music city clip whose footage really is the fact's city,
+    // e.g. "London, where Abbey Road was recorded". Never cached.
+    var cityCaption: String = "",
 )
 
 data class AerialExifMetadata(

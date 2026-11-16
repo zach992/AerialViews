@@ -5,6 +5,12 @@
                 <Preference
                     app:selectable="false"
                     app:summary="@string/appearance_music_fact_notice" />
+
+                <SwitchPreference
+                    app:defaultValue="true"
+                    app:key="music_fact_city_videos"
+                    app:summary="@string/music_fact_city_videos_summary"
+                    app:title="@string/music_fact_city_videos_title" />
         </PreferenceCategory>
 
         <PreferenceCategory app:title="@string/category_typography">

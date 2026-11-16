@@ -481,6 +481,8 @@
     <string name="appearance_music_fact_summary">A short music-business note for today\'s date</string>
     <string name="appearance_music_fact_notice">Bundled in the app for every day of the year, including February 29. The note changes when the date changes.</string>
     <string name="category_music_fact">This Day in Music</string>
+    <string name="music_fact_city_videos_title">Match videos to the fact\'s city</string>
+    <string name="music_fact_city_videos_summary">Prefer built-in aerial clips of the city where the day\'s fact happened, or the nearest covered city</string>
 
     <string name="appearance_weather_title">Weather</string>
     <string name="appearance_weather_summary">Display the current weather conditions</string>
