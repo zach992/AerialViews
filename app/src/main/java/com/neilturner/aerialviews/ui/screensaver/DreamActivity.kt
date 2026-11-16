@@ -33,6 +33,11 @@ class DreamActivity : DreamService() {
 
     private lateinit var screenController: ScreenController
 
+    override fun onCreate() {
+        DreamTiming.mark("dream.create")
+        super.onCreate()
+    }
+
     @SuppressLint("AppBundleLocaleChanges")
     override fun onAttachedToWindow() {
         DreamTiming.mark("dream.attach")

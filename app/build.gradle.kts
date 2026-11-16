@@ -235,7 +235,12 @@ dependencies {
     implementation(libs.timber)
     implementation(libs.slf4j.simple)
 
-    debugImplementation(libs.leakcanary)
+    // LeakCanary installs ContentProviders that run before the dream can bind, and on a cold
+    // start that blows Android 11's 5s DreamController connection budget. Opt in for leak
+    // hunting with -PleakCanary=true; the APK installed on a TV leaves it out.
+    if ((project.findProperty("leakCanary") as String?)?.toBooleanStrictOrNull() == true) {
+        debugImplementation(libs.leakcanary)
+    }
 
     testImplementation(libs.junit.jupiter.api)
     testImplementation(libs.mockk)

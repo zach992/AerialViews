@@ -11,7 +11,9 @@ import com.neilturner.aerialviews.models.prefs.Comm1VideoPrefs
 import com.neilturner.aerialviews.models.prefs.Comm2VideoPrefs
 import com.neilturner.aerialviews.models.prefs.GeneralPrefs
 import com.neilturner.aerialviews.ui.helpers.DeviceHelper
+import com.neilturner.aerialviews.ui.overlays.MusicFactLoader
 import com.neilturner.aerialviews.utils.DreamTiming
+import com.neilturner.aerialviews.utils.FirebaseHelper
 import com.neilturner.aerialviews.utils.LogcatCapture
 import timber.log.Timber
 
@@ -44,6 +46,11 @@ class AerialApp : Application() {
 
             GeneralPrefs.checkForHevcSupport = true
         }
+
+        // Both return immediately. They must not run on this thread: DreamController gives the
+        // process 5 seconds to finish binding, and this method is still on that path.
+        FirebaseHelper.start(this)
+        MusicFactLoader.preload(this)
     }
 
     private fun configureLogging() {

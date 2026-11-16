@@ -31,8 +31,13 @@ class MusicFactOverlay : AppCompatTextView {
 
     override fun onAttachedToWindow() {
         super.onAttachedToWindow()
-        if (facts.isEmpty()) {
-            facts = MusicFactLoader.load(context)
+        MusicFactLoader.whenReady(context) { loaded ->
+            post {
+                if (!isAttachedToWindow) return@post
+                facts = loaded
+                shownKey = null
+                showFor(LocalDate.now())
+            }
         }
         showFor(LocalDate.now())
         scheduleRefresh()
@@ -56,6 +61,11 @@ class MusicFactOverlay : AppCompatTextView {
     }
 
     private fun showFor(date: LocalDate) {
+        if (facts.isEmpty()) {
+            text = ""
+            visibility = View.GONE
+            return
+        }
         val key = MusicFactCatalog.dateKey(date)
         if (key == shownKey) return
         shownKey = key
