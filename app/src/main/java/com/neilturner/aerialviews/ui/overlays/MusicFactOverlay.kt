@@ -11,8 +11,9 @@ import com.neilturner.aerialviews.utils.MusicFactCatalog
 import java.time.LocalDate
 
 /**
- * Two-line music-business note for today's date. Re-checks the date while the
- * screensaver is up so the fact changes after midnight.
+ * Music-business note for today's date. One line when it fits, two when the
+ * fact is long. Uses [R.style.OverlayText] and the shared font helper, with no
+ * background of its own. Re-checks the date while the screensaver is running.
  */
 class MusicFactOverlay : AppCompatTextView {
     private var facts: Map<String, MusicFact> = emptyMap()
