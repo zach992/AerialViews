@@ -7,6 +7,7 @@ import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
 import java.io.File
 import java.time.LocalDate
+import java.util.Locale
 
 @DisplayName("Music fact catalog")
 internal class MusicFactCatalogTest {
@@ -55,6 +56,20 @@ internal class MusicFactCatalogTest {
         val nextDay = MusicFactCatalog.dateKey(releaseDay.plusDays(1))
         assertEquals("11-04", nextDay)
         assertTrue(MusicFactCatalog.overlayTextFor(facts, releaseDay.plusDays(1)) != text)
+    }
+
+    @Test
+    @DisplayName("Should look up facts when the default locale uses non-Latin digits")
+    fun lookupUsesAsciiKeysRegardlessOfLocale() {
+        val previous = Locale.getDefault()
+        try {
+            Locale.setDefault(Locale.forLanguageTag("ar-EG"))
+            assertEquals("11-16", MusicFactCatalog.dateKey(11, 16))
+            val text = MusicFactCatalog.overlayTextFor(loadBundledFacts(), LocalDate.of(1980, 11, 3))
+            assertTrue(text.contains("9 to 5"), text)
+        } finally {
+            Locale.setDefault(previous)
+        }
     }
 
     @Test

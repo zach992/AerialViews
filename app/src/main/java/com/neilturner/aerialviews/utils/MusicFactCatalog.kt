@@ -5,6 +5,7 @@ import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import java.time.LocalDate
+import java.util.Locale
 
 /**
  * One bundled "this day in music" note: at most two short overlay lines.
@@ -27,7 +28,7 @@ object MusicFactCatalog {
     fun dateKey(
         month: Int,
         day: Int,
-    ): String = "%02d-%02d".format(month, day)
+    ): String = "%02d-%02d".format(Locale.ROOT, month, day)
 
     fun dateKey(date: LocalDate): String = dateKey(date.monthValue, date.dayOfMonth)
 
